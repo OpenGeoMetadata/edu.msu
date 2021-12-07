@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "97411c14-5f5f-4a27-a30c-10afc89ec430",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bloomingdale Township",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "97411c14-5f5f-4a27-a30c-10afc89ec430",
+  "solr_geom": "ENVELOPE(-85.9947,-85.8789,42.42,42.3321)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Orton, M. K."
+  ],
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/12_g1413v3k3_1895_l.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Michigan/12_g1413v3k3_1895_l/\"}",
+  "dct_spatial_sm": [
+    "Van Buren County, Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:43:12Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

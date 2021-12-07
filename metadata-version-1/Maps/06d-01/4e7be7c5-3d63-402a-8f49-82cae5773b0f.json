@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4e7be7c5-3d63-402a-8f49-82cae5773b0f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Algerien, Marokko und Tunis",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "4e7be7c5-3d63-402a-8f49-82cae5773b0f",
+  "solr_geom": "ENVELOPE(-18.6,12.6,37.5,9.1)",
+  "solr_year_i": "1892",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Africa/84_g1019m4_1892.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Africa/84_g1019m4_1892/\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:43:10Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ]
+}

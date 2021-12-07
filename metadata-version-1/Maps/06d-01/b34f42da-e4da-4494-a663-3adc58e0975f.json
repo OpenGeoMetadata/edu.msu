@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b34f42da-e4da-4494-a663-3adc58e0975f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The road from London to York / drawn & engrav'd by J. Gibson.",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "b34f42da-e4da-4494-a663-3adc58e0975f",
+  "solr_geom": "ENVELOPE(-1.1427,-0.0574,54.0399,51.4496)",
+  "solr_year_i": "1766",
+  "dc_description_s": "Map of a road from London to York via Stamford, Grantham, Newark-on-Trent, and Doncaster, depicted in ten narrow strips. Shows cities and towns, mile markers, rivers, and road junctions. Relief shown pictorially. North orientation varies. North arrows not shown. Map detached from: The gentleman's magazine, and historical chronicle. Volume XXXVI: for the year M.CDD.LXVI. London: Printed for D. Henry and R. Cave, [1766]. Map was originally published in the June 1766 issue. \"Gent:Mag\". Includes note. Scale approximately 1:320,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Magazines/621-c-D-1766-400.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/scanned/Europe/621-c-D-1766-400\"}",
+  "dct_spatial_sm": [
+    "Great Britain, United Kingdom"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:43:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "D. Henry",
+  "dct_issued_s": "1766",
+  "dct_temporal_sm": [
+    "1766"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9ba4283b-8ed0-499a-82b4-7d16c3a2b310",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of land in the eighth ward of the city of Brooklyn belonging to the heirs of Leffert Bergen dec / Ludlam & Stuchfielde, city surveyors.",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "9ba4283b-8ed0-499a-82b4-7d16c3a2b310",
+  "solr_geom": "ENVELOPE(-74.0294,-74.0147,40.654,40.6439)",
+  "solr_year_i": "1882",
+  "dc_description_s": "Manuscript property sale map of a portion of the Sunset Park neighborhood of Brooklyn, showing streets and the property lines of parcels, built on land that had been a portion of Bergen family farmland inherited by Leffert Bergen (1789-1856). Coverage area extends from Upper Bay southeast to 3rd Avenue, and from 52nd Street south to 55th Street. Almost half of the map is devoted to seaside property below the high water mark. Shows \"Pier Line as Report of Commissioners May 5th 1875\" and \"Bulkhead Line of April 17th 1857.\" Mounted on linen and intended to be rolled and tied. Oriented with north to the upper left. Scale determined from property dimensions given on map. \"Ludlam & Stuchfielde\" should read: Ludlam & Stuchfield. \"Brooklyn March 1882.\" Scale approximately 1:960.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/UnitedStates/862-d-bergen-estate.jpg\"}",
+  "dct_spatial_sm": [
+    "Kings County, New York",
+    "New York"
+  ],
+  "layer_modified_dt": "2021-05-07T19:43:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1882",
+  "dct_temporal_sm": [
+    "1882"
+  ]
+}

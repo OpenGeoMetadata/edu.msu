@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "82bbbd46-8e5b-41d3-9c8a-9a7bc5827707",
+  "dc_rights_s": "Public",
+  "dc_title_s": "County of Montmorency Town 29 Range 1 East: [Michigan].",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "82bbbd46-8e5b-41d3-9c8a-9a7bc5827707",
+  "solr_geom": "ENVELOPE(-84.36,-84.25,44.93,44.85)",
+  "solr_year_i": "1874",
+  "dc_description_s": "Lands shaded belong to the government.: Original version published Detroit : Richmond, Backus & Co., [1874?]; Scale approximately 1:32,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/montmorency_t29r1e.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/Michigan/montmorency_t29r1e\"}",
+  "dct_spatial_sm": [
+    "Montmorency County, Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:43:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ]
+}

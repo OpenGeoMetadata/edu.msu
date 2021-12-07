@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a0a88659-1814-4dbc-8e08-f3f8c1860f37",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Michigan 2 [Plate CXXXVII]",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "a0a88659-1814-4dbc-8e08-f3f8c1860f37",
+  "solr_geom": "ENVELOPE(-90.42,-82.12,48.31,41.7)",
+  "solr_year_i": "1899",
+  "dc_creator_sm": [
+    "Royce, Charles and Cyrus Thomas"
+  ],
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/e51u55v18-Michigan2.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/Michigan/e51u55v18-Michigan2\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:43:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ]
+}

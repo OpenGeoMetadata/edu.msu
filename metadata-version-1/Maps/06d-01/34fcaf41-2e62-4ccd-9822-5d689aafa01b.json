@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "34fcaf41-2e62-4ccd-9822-5d689aafa01b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The tourist's pocket map of Michigan: exhibiting its internal improvements, roads, distances, &c.",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "34fcaf41-2e62-4ccd-9822-5d689aafa01b",
+  "solr_geom": "ENVELOPE(-88,-82,46,42)",
+  "solr_year_i": "1839",
+  "dc_creator_sm": [
+    "Young, J. H.(James Hamilton)"
+  ],
+  "dc_description_s": "Shows stage roads. Relief shown by hachures. Prime meridian: Washington. \"Entered according to Act of Congress in the year 1834 by S. Augustus Mitchell ...\" \"Sold by Thomas, Cowperthwait & Co. ...\" Inset: The North west part of Michigan. Includes tables of steam boat routes.: Original version published Philadelphia : S. Augustus Mitchell, 1839.; Scale approximately 1:1,640,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/843-E-1839-Mitchell.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/Michigan/843-E-1839-Mitchell\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:43:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1839"
+  ]
+}

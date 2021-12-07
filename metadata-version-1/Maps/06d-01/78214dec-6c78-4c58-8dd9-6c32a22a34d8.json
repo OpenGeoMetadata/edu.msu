@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "78214dec-6c78-4c58-8dd9-6c32a22a34d8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Territory of New Mexico",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "78214dec-6c78-4c58-8dd9-6c32a22a34d8",
+  "solr_geom": "ENVELOPE(-109.0502,-103.002,37.0003,31.3322)",
+  "solr_year_i": "1903",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/UnitedStates/861-A-1903.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/scanned/USJPEGS/1903_NewMexico/\"}",
+  "dct_spatial_sm": [
+    "New Mexico"
+  ],
+  "layer_modified_dt": "2021-05-07T19:43:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ]
+}

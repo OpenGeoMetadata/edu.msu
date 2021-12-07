@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "535c1b06-5f14-4b4c-819e-5283e7d0f197",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the city of El Paso, Texas / compiled by E.C. Baer.",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "535c1b06-5f14-4b4c-819e-5283e7d0f197",
+  "solr_geom": "ENVELOPE(-106.5166,-106.4311,31.8111,31.7463)",
+  "solr_year_i": "1906",
+  "dc_description_s": "Map of El Paso, Texas, showing a circle drawn to indicate a distance of 3 miles from Ciudad Juárez, Mexico, regarding cases arising in El Paso from gunshot wounds inflicted from across the Mexican border. Shows city streets and block numbers. Colored to show city subdivisions, neighborhoods, etc. Map detached from a United States House of Representatives document (Serial Set 6382 H.doc.1168): Claims growing out of insurrection in Mexico: letter from the Secretary of War transmitting, pursuant to Senate Joint Resolution 103 of the Sixty-second Congress, report of commission appointed by the War department to investigate the claims of American citizens for damages suffered within American territory and growing out of the late insurrection in Mexico. Washington: [Government Printing Office], 1912. \"December 13, 1912. --Referred to the Committee on Foreign Affairs and ordered to be printed\" --Page [1] of accompanying House document. \"The modern high-power military rifle has a maximum range of approximately 3 miles. Upon the maps of El Paso...there are drawn...circles having their centers approximately near the center of the defense in Juarez...\" --Page 13 of accompanying House document. \"Copyright 1906, by E.C. Baer.\": Scale 1:12,000. 1 in. = 1000 ft..",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/UnitedStates/882-d-a-1906-elpaso.jpg\"}",
+  "dct_spatial_sm": [
+    "El Paso County, Texas",
+    "Texas"
+  ],
+  "layer_modified_dt": "2021-05-07T19:43:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Government Printing Office",
+  "dct_issued_s": "1912",
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

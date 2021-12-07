@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e3db77fa-a6ef-4276-a1b4-2fa47733cc02",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Charte von Nieder Guinea und den angrenzenden laeendern Sud Afrika's. Nach den neuesten und besten hulssmitteln",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "e3db77fa-a6ef-4276-a1b4-2fa47733cc02",
+  "solr_geom": "ENVELOPE(8.43,29.96,0,-26)",
+  "solr_year_i": "1801",
+  "dc_creator_sm": [
+    "Reinecke, J. C. M.(Johann Christoph Matthias)"
+  ],
+  "dc_description_s": "Relief shown by hachures. Covers central Africa from Angola in the south to Mozambique, Zambia, and Congo in the north. In right margin: \"An dieses blatt schliesst sich die charte von der Kafferkuste.\": Original version published Weimar: Verlage des Industrie Comptoirs, 1801. Scale approximately 1:6,000,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Africa/300pt1-c-A-1801.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Africa/300pt1-c-A-1801\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:43:13Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1801"
+  ]
+}

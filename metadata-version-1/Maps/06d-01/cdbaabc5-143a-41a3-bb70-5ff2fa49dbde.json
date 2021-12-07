@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "cdbaabc5-143a-41a3-bb70-5ff2fa49dbde",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A Chart of the Baltic Sea, Gulfs of Finland and Bothnia, with the Sound, drawn from the Best Maps & Charts",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "cdbaabc5-143a-41a3-bb70-5ff2fa49dbde",
+  "solr_geom": "ENVELOPE(2.2,28.3,65.7,51.7)",
+  "solr_year_i": "1748",
+  "dc_creator_sm": [
+    "Jeffreys, Thomas"
+  ],
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Magazines/714-A-1748-400.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/scanned/Europe/714-A-1748-400\"}",
+  "dct_spatial_sm": [
+    "Baltic Sea"
+  ],
+  "layer_modified_dt": "2021-05-07T19:43:08Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1748"
+  ]
+}
