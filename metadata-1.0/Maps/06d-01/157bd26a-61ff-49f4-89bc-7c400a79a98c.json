@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "157bd26a-61ff-49f4-89bc-7c400a79a98c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hartford Township",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "157bd26a-61ff-49f4-89bc-7c400a79a98c",
+  "solr_geom": "ENVELOPE(-86.2236,-86.1082,42.244,42.1569)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Orton, M. K."
+  ],
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/24_g1413v3k3_1895_l.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Michigan/24_g1413v3k3_1895_l/\"}",
+  "dct_spatial_sm": [
+    "Van Buren County, Michigan"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

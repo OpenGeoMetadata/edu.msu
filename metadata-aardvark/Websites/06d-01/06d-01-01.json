@@ -1,0 +1,31 @@
+{
+  "dct_title_s": "Hixson Plat Map Atlases of Michigan",
+  "dct_description_sm": [
+    "County plat books from W.W. Hixson & Co. published between 1920 and 1940 throughout the state of Michigan."
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Websites"
+  ],
+  "dct_subject_sm": [
+    "Map collections"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-90.42,-82.12,48.31,41.7)",
+  "dcat_bbox": "ENVELOPE(-90.42,-82.12,48.31,41.7)",
+  "dcat_centroid": "45.005,-86.27000000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Digital library collection",
+  "dct_references_s": "{}",
+  "id": "06d-01-01",
+  "gbl_mdModified_dt": "2022-05-31T13:54:03Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "197938c4-9f57-40da-a35f-576f58abc35b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "North part of Mason, Vevay Twp",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "197938c4-9f57-40da-a35f-576f58abc35b",
+  "solr_geom": "ENVELOPE(-84.455,-84.4365,42.5863,42.5776)",
+  "solr_year_i": "1874",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/843-d-A-1874-mason-north.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/Michigan/843-d-A-1874-Mason-north\"}",
+  "dct_spatial_sm": [
+    "Mason, Michigan"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1d02ff92-3d3a-41ed-89dd-473d7ef8c22f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Pine Grove Township",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "1d02ff92-3d3a-41ed-89dd-473d7ef8c22f",
+  "solr_geom": "ENVELOPE(-85.8796,-85.7643,42.4207,42.3317)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Orton, M. K."
+  ],
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/34_g1413v3k3_1895_l.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Michigan/34_g1413v3k3_1895_l/\"}",
+  "dct_spatial_sm": [
+    "Van Buren County, Michigan"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

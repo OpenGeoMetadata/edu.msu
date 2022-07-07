@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Official highway map, Cass County, Michigan",
+  "dct_description_sm": [
+    "Scale approximately 1:95,000; Panel title."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Cass County Board of Supervisors",
+    "Roads",
+    "Place marketing literature"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "dct_issued_s": "1948",
+  "gbl_indexYear_im": [
+    "1948"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Cass County, Michigan",
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-86.22527778,-85.75916667,42.07138889,41.75888889)",
+  "dcat_bbox": "ENVELOPE(-86.22527778,-85.75916667,42.07138889,41.75888889)",
+  "dcat_centroid": "41.91513889,-85.992222225",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/licenses/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "gbl_fileSize_s": "198.83 MB",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1045\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1045/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1045/info.json\"}",
+  "id": "f38ca663-81f8-485c-aba3-b983b5bd5ce5",
+  "dct_identifier_sm": [
+    "https://n2t.net/ark:/85335/m5fn12n83"
+  ],
+  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://n2t.net/ark:/85335/m57942q5c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Bay County, Michigan",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "2e61a1e1-a258-463c-b5bb-223c4c74992d",
+  "solr_geom": "ENVELOPE(-84.16805556,-83.69833333,43.99694444,43.47861111)",
+  "solr_year_i": "1967",
+  "dc_description_s": "Scale approximately 1:150,000; Donald C. Haske, county engineer, Bay County Road Commission.",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1079\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1079/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1079/info.json\"}",
+  "dct_spatial_sm": [
+    "Bay County, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2022-05-17T20:41:00Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ]
+}

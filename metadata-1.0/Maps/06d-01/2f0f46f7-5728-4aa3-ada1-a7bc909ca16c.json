@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2f0f46f7-5728-4aa3-ada1-a7bc909ca16c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Aquatorial-Afrika",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "2f0f46f7-5728-4aa3-ada1-a7bc909ca16c",
+  "solr_geom": "ENVELOPE(7.9,42,4.7,-18.8)",
+  "solr_year_i": "1892",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Africa/86_g1019m4_1892.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Africa/86_g1019m4_1892/\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ]
+}

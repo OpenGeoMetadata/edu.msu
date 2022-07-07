@@ -1,0 +1,43 @@
+{
+  "dct_title_s": "Agyptenin Darfur und Abessinien",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Michigan State University Map Library"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "gbl_indexYear_im": [
+    "1892"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "locn_geometry": "ENVELOPE(30.93,45.61,32.76,11.27)",
+  "dcat_bbox": "ENVELOPE(30.93,45.61,32.76,11.27)",
+  "dcat_centroid": "22.015,38.269999999999996",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Africa/83_g1019m4_1892.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Africa/83_g1019m4_1892/\"}",
+  "id": "72db0212-fc9f-4c09-8eb1-4a39e5658404",
+  "dct_identifier_sm": [
+    "72db0212-fc9f-4c09-8eb1-4a39e5658404"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:36Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

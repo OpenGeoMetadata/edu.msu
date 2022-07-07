@@ -1,0 +1,66 @@
+{
+  "dct_title_s": "Haynes, Township 27N Range 9 & 1OE: Alcona County, Michigan",
+  "dct_alternative_sm": [
+    "Haynes, Township 27N Range 9 & 1OE"
+  ],
+  "dct_description_sm": [
+    "Page from: Plat book of Alcona County, Michigan ",
+    "Scale approximately 1:51,000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "W.W. Hixson & Co."
+  ],
+  "dct_publisher_sm": [
+    "W.W. Hixson & Co."
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Real Property",
+    "Landowners"
+  ],
+  "dct_temporal_sm": [
+    "1920-1936"
+  ],
+  "dct_issued_s": "1920/1936",
+  "gbl_indexYear_im": [
+    "1920"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1936]"
+  ],
+  "dct_spatial_sm": [
+    "Alcona County, Michigan",
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-83.404885,-83.268939,44.773458,44.685028)",
+  "dcat_bbox": "ENVELOPE(-83.404885,-83.268939,44.773458,44.685028)",
+  "dcat_centroid": "44.729243,-83.336912",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01-01",
+    "06d-01"
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159145\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/404/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:404/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/404\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/404/datastream/MODS/view/\"}",
+  "id": "ark-85335-m52f7m34d",
+  "dct_identifier_sm": [
+    "https://n2t.net/ark:/85335/m52f7m34d"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:50Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

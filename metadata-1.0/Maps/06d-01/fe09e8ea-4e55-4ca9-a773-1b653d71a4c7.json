@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fe09e8ea-4e55-4ca9-a773-1b653d71a4c7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Michigan territory",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "fe09e8ea-4e55-4ca9-a773-1b653d71a4c7",
+  "solr_geom": "ENVELOPE(-88.16,-81.66,47.16,41.16)",
+  "solr_year_i": "1822",
+  "dc_creator_sm": [
+    "Finlayson, James"
+  ],
+  "dc_description_s": "Shows portions of Wisconsin, Illinois, Indiana, Ohio, and Ontario. Relief shown by hachures. Title in upper margin: Geographical, statistical, and historical map of Michigan Territory. Text in side panels. Prime meridian: Washington. \"No. 36.\" From A complete historical, chronological, and geographical American atlas ... / H.C. Carey and I. Lea. 1822.: Original version published [Philadelphia] : [Carey & Lea], [1822]; Scale approximately 1:1,900,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/1822-michigan.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/Michigan/843-A-1822\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1822"
+  ]
+}

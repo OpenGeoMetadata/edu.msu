@@ -1,0 +1,46 @@
+{
+  "dct_title_s": "Map of North America",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Mitchell, S. Augustus"
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Michigan State University Map Library"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "gbl_indexYear_im": [
+    "1866"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "locn_geometry": "ENVELOPE(170.6,-8.3,84,5.5)",
+  "dcat_bbox": "ENVELOPE(170.6,-8.3,84,5.5)",
+  "dcat_centroid": "44.75,81.14999999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/North_America_Canada/NA-G1019M67-1867.jpg\"}",
+  "id": "cab7f0c9-28b7-4e9e-8153-a65ec7e8d7c5",
+  "dct_identifier_sm": [
+    "cab7f0c9-28b7-4e9e-8153-a65ec7e8d7c5"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:23Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

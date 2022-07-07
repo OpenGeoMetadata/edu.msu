@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Official county road map of Crawford County, Michigan",
+  "dct_description_sm": [
+    "Scale approximately 1:120,000; Includes ancillary map of Grayling, location map, and text including a description of \"Michigan's Great Divide\" between the Manistee River and the Au Sable River."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Crawford County Road Commission"
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Cadillac Printing Company",
+    "Roads"
+  ],
+  "dct_temporal_sm": [
+    "1961"
+  ],
+  "dct_issued_s": "1961",
+  "gbl_indexYear_im": [
+    "1961"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1961 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Crawford County, Michigan",
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-84.85333333,-84.37277778,44.85777778,44.50722222)",
+  "dcat_bbox": "ENVELOPE(-84.85333333,-84.37277778,44.85777778,44.50722222)",
+  "dcat_centroid": "44.682500000000005,-84.613055555",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/licenses/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "gbl_fileSize_s": "125.25 MB",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1048\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1048/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1048/info.json\"}",
+  "id": "c2b5498b-812e-495a-a74d-fbf5bfd4efb0",
+  "dct_identifier_sm": [
+    "https://n2t.net/ark:/85335/m5kk9680j"
+  ],
+  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

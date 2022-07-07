@@ -1,0 +1,66 @@
+{
+  "dct_title_s": "Chester, Township 9N Range 13W: Ottawa County, Michigan",
+  "dct_alternative_sm": [
+    "Chester, Township 9N Range 13W"
+  ],
+  "dct_description_sm": [
+    "Page from: Plat book of Ottawa County, Michigan ",
+    "Scale approximately 1:51,000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "W.W. Hixson & Co."
+  ],
+  "dct_publisher_sm": [
+    "W.W. Hixson & Company"
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Real Property",
+    "Landowners"
+  ],
+  "dct_temporal_sm": [
+    "1934-1940"
+  ],
+  "dct_issued_s": "1934/1940",
+  "gbl_indexYear_im": [
+    "1934"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1934 TO 1940]"
+  ],
+  "dct_spatial_sm": [
+    "Ottawa County, Michigan",
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-85.908394,-85.78923,43.205986,43.118042)",
+  "dcat_bbox": "ENVELOPE(-85.908394,-85.78923,43.205986,43.118042)",
+  "dcat_centroid": "43.162014,-85.84881200000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01-01",
+    "06d-01"
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13209931\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/801/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:801/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/801\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/801/datastream/MODS/view/\"}",
+  "id": "ark-85335-m5zk56z69",
+  "dct_identifier_sm": [
+    "https://n2t.net/ark:/85335/m5zk56z69"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:06Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

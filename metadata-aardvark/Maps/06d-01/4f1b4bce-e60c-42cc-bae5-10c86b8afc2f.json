@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "A new map of Michigan with its canals, roads & distances",
+  "dct_description_sm": [
+    "Relief shown by hachures. From Tanner, H.S.A new universal atlas. Philadelphia : Carey & Hart, 1842. No. 29. Prime meridian: Washington. \"Entered according to act of Congress, in the year 1841, by H.S. Tanner ...\" Includes table of steamboat routes.: Original version published Philadelphia : Carey & Hart, [1842]; Scale [ca. 1:2,050,000]"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Tanner, Henry Schenck"
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Michigan State University Map Library"
+  ],
+  "dct_temporal_sm": [
+    "1842"
+  ],
+  "gbl_indexYear_im": [
+    "1842"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1842 TO 1842]"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-90.41,-81.5,47.5,41.16)",
+  "dcat_bbox": "ENVELOPE(-90.41,-81.5,47.5,41.16)",
+  "dcat_centroid": "44.33,-85.955",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/843-D-1842-Tanner.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/Michigan/843-D-1842-Tanner\"}",
+  "id": "4f1b4bce-e60c-42cc-bae5-10c86b8afc2f",
+  "dct_identifier_sm": [
+    "4f1b4bce-e60c-42cc-bae5-10c86b8afc2f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:06Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,46 @@
+{
+  "dct_title_s": "A map of Upper Saxony comprehending that part of Germany which is the present seat of war.",
+  "dct_description_sm": [
+    "From: Gentleman's Magazine and Historical Chronicle, vol. 27, 1757. Original version published [London?], [1757]; Scale approximately 1:2,534,400"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Michigan State University Map Library"
+  ],
+  "dct_temporal_sm": [
+    "1757"
+  ],
+  "gbl_indexYear_im": [
+    "1757"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1757 TO 1757]"
+  ],
+  "dct_spatial_sm": [
+    "Great Lakes"
+  ],
+  "locn_geometry": "ENVELOPE(9.6,18.83,54.95,50.86)",
+  "dcat_bbox": "ENVELOPE(9.6,18.83,54.95,50.86)",
+  "dcat_centroid": "52.905,14.215",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Magazines/600-3-B-1757-sax-400.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/scanned/europe/600-3-B-1757-sax-400\"}",
+  "id": "90e58745-de41-4b35-a02f-2fc6f53c28ff",
+  "dct_identifier_sm": [
+    "90e58745-de41-4b35-a02f-2fc6f53c28ff"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:58Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

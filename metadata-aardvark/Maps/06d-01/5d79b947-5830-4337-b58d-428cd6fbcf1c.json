@@ -1,0 +1,46 @@
+{
+  "dct_title_s": "South Haven Township",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Orton, M. K."
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Michigan State University Map Library"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "gbl_indexYear_im": [
+    "1906"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "dct_spatial_sm": [
+    "Van Buren County, Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-86.3115,-86.2241,42.4194,42.3308)",
+  "dcat_bbox": "ENVELOPE(-86.3115,-86.2241,42.4194,42.3308)",
+  "dcat_centroid": "42.3751,-86.2678",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/38_g1413v3k3_1895_l.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Michigan/38_g1413v3k3_1895_l/\"}",
+  "id": "5d79b947-5830-4337-b58d-428cd6fbcf1c",
+  "dct_identifier_sm": [
+    "5d79b947-5830-4337-b58d-428cd6fbcf1c"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:39Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

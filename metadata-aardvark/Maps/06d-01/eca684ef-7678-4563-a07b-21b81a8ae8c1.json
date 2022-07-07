@@ -1,0 +1,46 @@
+{
+  "dct_title_s": "Lawrence Township",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Orton, M. K."
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Michigan State University Map Library"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "gbl_indexYear_im": [
+    "1906"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "dct_spatial_sm": [
+    "Van Buren County, Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-86.1086,-85.9928,42.2523,42.1567)",
+  "dcat_bbox": "ENVELOPE(-86.1086,-85.9928,42.2523,42.1567)",
+  "dcat_centroid": "42.204499999999996,-86.0507",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/30_g1413v3k3_1895_l.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Michigan/30_g1413v3k3_1895_l/\"}",
+  "id": "eca684ef-7678-4563-a07b-21b81a8ae8c1",
+  "dct_identifier_sm": [
+    "eca684ef-7678-4563-a07b-21b81a8ae8c1"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:06Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

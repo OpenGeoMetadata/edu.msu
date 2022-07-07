@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://n2t.net/ark:/85335/m50k2871g",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Road map of Berrien County, Michigan",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "014686a6-970b-49c9-b71a-e04e71592a02",
+  "solr_geom": "ENVELOPE(-86.82555556,-86.22277778,42.24527778,41.75944444)",
+  "solr_year_i": "1962",
+  "dc_description_s": "Scale approximately 1:100,000; Folded title: Official road map, Berrien County, Michigan.",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1057\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1057/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1057/info.json\"}",
+  "dct_spatial_sm": [
+    "Berrien County, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2022-05-17T20:40:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1962",
+  "dct_temporal_sm": [
+    "1962"
+  ]
+}

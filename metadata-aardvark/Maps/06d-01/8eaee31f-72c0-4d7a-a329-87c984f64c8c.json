@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "Michigan",
+  "dct_description_sm": [
+    "Prime meridians: Greenwich, Washington. Relief shown by hachures. Original version published New-York: D.H. Burr, 1831. Scale approximately 1:2,000,000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Burr, David H.,1803-1875,cartographer."
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Michigan State University Map Library"
+  ],
+  "dct_temporal_sm": [
+    "1831"
+  ],
+  "gbl_indexYear_im": [
+    "1831"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1831 TO 1831]"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-88,-82,47,41.5)",
+  "dcat_bbox": "ENVELOPE(-88,-82,47,41.5)",
+  "dcat_centroid": "44.25,-85.0",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/843-A-1831.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/Michigan/843-A-1831\"}",
+  "id": "8eaee31f-72c0-4d7a-a329-87c984f64c8c",
+  "dct_identifier_sm": [
+    "8eaee31f-72c0-4d7a-a329-87c984f64c8c"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:56Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

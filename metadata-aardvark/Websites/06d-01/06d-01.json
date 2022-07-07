@@ -1,0 +1,42 @@
+{
+  "dct_title_s": "Michigan State University Libraries Maps",
+  "dct_description_sm": [
+    "Maps from the Michigan State University Map Library. The scanned collection focuses on Michigan and Africa."
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Websites"
+  ],
+  "dct_subject_sm": [
+    "Map collections"
+  ],
+  "dct_temporal_sm": [
+    "1656-1933"
+  ],
+  "gbl_indexYear_im": [
+    "1656"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1656 TO 1933]"
+  ],
+  "dct_spatial_sm": [
+    "Michigan",
+    "Africa",
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
+  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "dcat_centroid": "0.0,0.0",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Digital library collection",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/scannedmaps/intro/\"}",
+  "id": "06d-01",
+  "dct_identifier_sm": [
+    "06d-01"
+  ],
+  "gbl_mdModified_dt": "2022-04-14T19:32:40Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

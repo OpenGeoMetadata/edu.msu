@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "86b3aa4c-1433-47ab-b8e7-7779d6570204",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte des lacs du Canada. Dressée sur les manuscrits du depost des cartes, plans et journaux de la marine et sur le Journal du RP. de Charlevoix.",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "86b3aa4c-1433-47ab-b8e7-7779d6570204",
+  "solr_geom": "ENVELOPE(-92,-76,49,41)",
+  "solr_year_i": "1744",
+  "dc_creator_sm": [
+    "Bellin, Jacques Nicolas"
+  ],
+  "dc_description_s": "Relief shown pictorially and by hachures. Scales in lieues communes de France de 2282 toises, and grandes lieues de France de 2853 toises. Prime meridian: Paris. Removed from: Charlevoix, Pierre F.X. de. Histoire et description de la Nouvelle France. Paris, 1744. Scale approximately 1:4,000,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/North_America_Canada/100-1-A-1744-bellin.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/North_America_Canada/100-1-A-1744-bellin/\"}",
+  "dct_spatial_sm": [
+    "Great Lakes"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:45Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1744"
+  ]
+}

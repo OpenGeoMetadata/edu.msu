@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ecd1fb91-5455-4583-8d8e-72c92f6c6ae4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the town of Michigan: (comprising section sixteen and portions of nine and twenty one) in the county of Ingham / surveyed by T. McCracken.",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ecd1fb91-5455-4583-8d8e-72c92f6c6ae4",
+  "solr_geom": "ENVELOPE(-84.5501,-84.53,42.75,42.71)",
+  "solr_year_i": "1847",
+  "dc_creator_sm": [
+    "McCracken, T.,surveyor."
+  ],
+  "dc_description_s": "Cadastral map. Oriented with north to the right. Includes area map.: Original version published NY [New York] : Miller's Lith., [1847]; Scale 1:3,960. 330 ft. to 1 in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/843-d-E-1847.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu//branches/maps/MSU-Scanned/Michigan/843-d-E-1847\"}",
+  "dct_spatial_sm": [
+    "Lansing, Michigan"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1847"
+  ]
+}

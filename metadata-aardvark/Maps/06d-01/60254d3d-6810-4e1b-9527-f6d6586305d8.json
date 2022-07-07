@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "An accurate map of his R. H. the Duke of York's journey thro Italy in 1763 & 1764",
+  "dct_description_sm": [
+    "Original version published [London]: Gentleman's Magazine, [1764?]; Scale approximately 1:2,300,000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Gibson, John"
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Michigan State University Map Library"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "gbl_indexYear_im": [
+    "1764"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "locn_geometry": "ENVELOPE(7.76,15.61,46.13,40.75)",
+  "dcat_bbox": "ENVELOPE(7.76,15.61,46.13,40.75)",
+  "dcat_centroid": "43.44,11.684999999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Magazines/655-c-D-1764-400.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/scanned/Europe/655-c-D-1764-400\"}",
+  "id": "60254d3d-6810-4e1b-9527-f6d6586305d8",
+  "dct_identifier_sm": [
+    "60254d3d-6810-4e1b-9527-f6d6586305d8"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:38Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

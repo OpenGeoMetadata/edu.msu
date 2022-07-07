@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "48741a65-7eb8-4232-98fe-bdc3e8be86be",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Waverly Township",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "48741a65-7eb8-4232-98fe-bdc3e8be86be",
+  "solr_geom": "ENVELOPE(-85.9952,-85.8787,42.3323,42.244)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Orton, M. K."
+  ],
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/40_g1413v3k3_1895_l.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Michigan/40_g1413v3k3_1895_l/\"}",
+  "dct_spatial_sm": [
+    "Van Buren County, Michigan"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

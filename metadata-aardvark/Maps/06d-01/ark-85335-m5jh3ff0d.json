@@ -1,0 +1,66 @@
+{
+  "dct_title_s": "Columbia, Township 14N Range 8&9E: Tuscola County",
+  "dct_alternative_sm": [
+    "Columbia, Township 14N Range 8&9E"
+  ],
+  "dct_description_sm": [
+    "Page from: Plat book of Tuscola County ",
+    "Scale approximately 1:51,000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "W.W. Hixson & Co."
+  ],
+  "dct_publisher_sm": [
+    "W.W. Hixson & Company"
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Real Property",
+    "Landowners"
+  ],
+  "dct_temporal_sm": [
+    "1936-1941"
+  ],
+  "dct_issued_s": "1936/1941",
+  "gbl_indexYear_im": [
+    "1936"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1936 TO 1941]"
+  ],
+  "dct_spatial_sm": [
+    "Tuscola County",
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-83.48646,-83.350932,43.66973,43.58118)",
+  "dcat_bbox": "ENVELOPE(-83.48646,-83.350932,43.66973,43.58118)",
+  "dcat_centroid": "43.625455,-83.418696",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01-01",
+    "06d-01"
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13290473\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/908/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:908/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/908\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/908/datastream/MODS/view/\"}",
+  "id": "ark-85335-m5jh3ff0d",
+  "dct_identifier_sm": [
+    "https://n2t.net/ark:/85335/m5jh3ff0d"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:01Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

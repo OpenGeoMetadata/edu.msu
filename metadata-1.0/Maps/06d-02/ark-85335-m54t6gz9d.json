@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://n2t.net/ark:/85335/m54t6gz9d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Important farmlands [Arenac County, Michigan] {1983}",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m54t6gz9d",
+  "solr_geom": "ENVELOPE(-84.1667,-83.4267,44.1633,43.9103)",
+  "solr_year_i": "1983",
+  "dc_creator_sm": [
+    "United States. Soil Conservation Service"
+  ],
+  "dc_description_s": "Includes notes and location map. Scale approximately 1:100,000",
+  "dc_format_s": "TIFF",
+  "dc_subject_sm": [
+    "Soil"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/982/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:982/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/982\"}",
+  "dct_spatial_sm": [
+    "Arenac County, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2022-04-11T21:21:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1983",
+  "dct_temporal_sm": [
+    "1983"
+  ]
+}

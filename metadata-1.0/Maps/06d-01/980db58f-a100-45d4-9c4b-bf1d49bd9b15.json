@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "980db58f-a100-45d4-9c4b-bf1d49bd9b15",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Township map of Michigan from the latest authorities.",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "980db58f-a100-45d4-9c4b-bf1d49bd9b15",
+  "solr_geom": "ENVELOPE(-90.41,-81.85,47.55,41.45)",
+  "solr_year_i": "1857",
+  "dc_description_s": "Relief shown by hachures. \"Entered according to act of Congress in the year 1855 by Ensign, Bridgman & Fanning, in the clerk's office, of the district court, for the Southern District of New York.\" According to a comparison",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/843-A-1857%20ensign-600.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/Michigan/843-A-1857-ensign\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ]
+}

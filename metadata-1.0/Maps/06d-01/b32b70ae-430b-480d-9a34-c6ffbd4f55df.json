@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b32b70ae-430b-480d-9a34-c6ffbd4f55df",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A map of the acting superintendency of Michigan.",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "b32b70ae-430b-480d-9a34-c6ffbd4f55df",
+  "solr_geom": "ENVELOPE(-90.41,-82.4,47.56,41.68)",
+  "solr_year_i": "1837",
+  "dc_creator_sm": [
+    "Schoolcraft, Henry Rowe"
+  ],
+  "dc_description_s": "Color reproduction of original manuscript map. Shows reservations and agency sites in Michigan and includes table of reservation populations. Facsimile copy from The National Archives. Original version published Michilimackinac : Septr. 15th 1837.: Original version published [Washington, D.C.] : [The National Archives], [2012]; Scale not given",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/843-C-1837-schoolcraft.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/Michigan/843-C-1837-schoolcraft\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1837"
+  ]
+}

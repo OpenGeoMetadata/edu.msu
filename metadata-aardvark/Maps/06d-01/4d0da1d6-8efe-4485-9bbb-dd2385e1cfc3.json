@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "1975 highway map, Genesee County, Michigan",
+  "dct_description_sm": [
+    "Scale approximately 1:85,000; Includes indexes and distance chart."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Board of County Road Commissioners of the County of Genesee (Mich.)"
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Roads",
+    "Parks"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_issued_s": "1975",
+  "gbl_indexYear_im": [
+    "1975"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "dct_spatial_sm": [
+    "Genesee County, Michigan",
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-83.91666667,-83.45,43.21666667,42.76666667)",
+  "dcat_bbox": "ENVELOPE(-83.91666667,-83.45,43.21666667,42.76666667)",
+  "dcat_centroid": "42.99166667,-83.683333335",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/licenses/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "gbl_fileSize_s": "361.96 MB",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1085\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1085/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1085/info.json\"}",
+  "id": "4d0da1d6-8efe-4485-9bbb-dd2385e1cfc3",
+  "dct_identifier_sm": [
+    "https://n2t.net/ark:/85335/m5dz04x7f"
+  ],
+  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

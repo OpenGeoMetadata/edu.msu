@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ebb68332-6f59-47b9-a587-a08ef7d55a3a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Paw Paw Township",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ebb68332-6f59-47b9-a587-a08ef7d55a3a",
+  "solr_geom": "ENVELOPE(-85.9939,-85.8776,42.2586,42.1567)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Orton, M. K."
+  ],
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/32_g1413v3k3_1895_l.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Michigan/32_g1413v3k3_1895_l/\"}",
+  "dct_spatial_sm": [
+    "Van Buren County, Michigan"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:04Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

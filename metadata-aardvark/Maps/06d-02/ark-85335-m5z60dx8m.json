@@ -1,0 +1,70 @@
+{
+  "dct_title_s": "Important farmlands [Washtenaw County, Michigan] {1980}",
+  "dct_alternative_sm": [
+    "Important farmlands, Washtenaw County, Michigan"
+  ],
+  "dct_description_sm": [
+    "Includes notes and location map. Scale 1:50,000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "United States. Soil Conservation Service"
+  ],
+  "schema_provider_s": "Michigan State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Soil"
+  ],
+  "dcat_theme_sm": [
+    "Agriculture"
+  ],
+  "dcat_keyword_sm": [
+    "Agricultural resources",
+    "Land capability for agriculture",
+    "Soil productivity"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_issued_s": "1980",
+  "gbl_indexYear_im": [
+    "1980"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "Washtenaw County, Michigan",
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-84.1339,-83.5392,42.435,42.0714)",
+  "dcat_bbox": "ENVELOPE(-84.1339,-83.5392,42.435,42.0714)",
+  "dcat_centroid": "42.2532,-83.83654999999999",
+  "pcdm_memberOf_sm": [
+    "2787a9e8-0bef-452e-9e5f-e83042c193b4",
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "06d-02"
+  ],
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "gbl_fileSize_s": "945.82 MB",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1006/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1006/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1006\"}",
+  "id": "ark-85335-m5z60dx8m",
+  "dct_identifier_sm": [
+    "https://n2t.net/ark:/85335/m5z60dx8m"
+  ],
+  "gbl_mdModified_dt": "2022-04-11T21:21:03Z",
+  "gbl_mdVersion_s": "Aardvark"
+}
