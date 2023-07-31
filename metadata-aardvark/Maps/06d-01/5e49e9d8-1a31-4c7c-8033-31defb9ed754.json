@@ -25,10 +25,10 @@
     "[1966 TO 1969]"
   ],
   "dct_spatial_sm": [
-    "Chippewa County, Michigan",
+    "Michigan--Chippewa County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.25,-83.46666667,46.76666667,45.9)",
+  "locn_geometry": "POLYGON((-85.25 46.76666667, -83.46666667 46.76666667, -83.46666667 45.9, -85.25 45.9, -85.25 46.76666667))",
   "dcat_bbox": "ENVELOPE(-85.25,-83.46666667,46.76666667,45.9)",
   "dcat_centroid": "46.333333335,-84.358333335",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "212.42 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1063\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1063/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1063/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1063/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1063\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1063/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1063/MODS/view\"}",
   "id": "5e49e9d8-1a31-4c7c-8033-31defb9ed754",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5gq6sz1b"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

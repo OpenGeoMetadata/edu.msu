@@ -21,11 +21,16 @@
     "Maps"
   ],
   "gbl_resourceType_sm": [
+    "Atlases",
     "Cadastral maps"
   ],
   "dct_subject_sm": [
     "Real Property",
     "Landowners"
+  ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1926-1932"
@@ -38,10 +43,10 @@
     "[1926 TO 1932]"
   ],
   "dct_spatial_sm": [
-    "Arenac County, Michigan",
+    "Michigan--Arenac County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.166744,-83.426765,44.163514,43.910459)",
+  "locn_geometry": "POLYGON((-84.166744 44.163514, -83.426765 44.163514, -83.426765 43.910459, -84.166744 43.910459, -84.166744 44.163514))",
   "dcat_bbox": "ENVELOPE(-84.166744,-83.426765,44.163514,43.910459)",
   "dcat_centroid": "44.0369865,-83.79675449999999",
   "pcdm_memberOf_sm": [
@@ -56,11 +61,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159136\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/308/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:308/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/308\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/308/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159136\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/308\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/308/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/308/MODS/view\"}",
   "id": "ark-85335-m5vd6qh0h",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5vd6qh0h"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:22Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

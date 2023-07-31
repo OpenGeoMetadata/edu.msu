@@ -13,9 +13,9 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/6_g1413v3k3_1895_l.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/MSU-Scanned/Michigan/6_g1413v3k3_1895_l/\"}",
   "dct_spatial_sm": [
-    "Van Buren County, Michigan"
+    "Michigan--Van Buren County"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:56Z",
+  "layer_modified_dt": "2023-02-03T21:20:47Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -17,10 +17,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/995/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:995/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/995\"}",
   "dct_spatial_sm": [
-    "Clare County, Michigan",
+    "Michigan--Clare County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-11T21:21:01Z",
+  "layer_modified_dt": "2023-02-03T21:19:50Z",
   "dc_language_sm": [
     "eng"
   ],

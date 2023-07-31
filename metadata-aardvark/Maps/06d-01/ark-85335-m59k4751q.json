@@ -21,11 +21,16 @@
     "Maps"
   ],
   "gbl_resourceType_sm": [
+    "Atlases",
     "Cadastral maps"
   ],
   "dct_subject_sm": [
     "Real Property",
     "Landowners"
+  ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1929-1939"
@@ -38,10 +43,10 @@
     "[1929 TO 1939]"
   ],
   "dct_spatial_sm": [
-    "Lake County, Michigan",
+    "Michigan--Lake County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-86.0413,-85.562,44.1662,43.8137)",
+  "locn_geometry": "POLYGON((-86.0413 44.1662, -85.562 44.1662, -85.562 43.8137, -86.0413 43.8137, -86.0413 44.1662))",
   "dcat_bbox": "ENVELOPE(-86.0413,-85.562,44.1662,43.8137)",
   "dcat_centroid": "43.98995,-85.80165",
   "pcdm_memberOf_sm": [
@@ -56,11 +61,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13196378\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/598/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:598/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/598\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/598/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13196378\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/598\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/598/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/598/MODS/view\"}",
   "id": "ark-85335-m59k4751q",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m59k4751q"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:44Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

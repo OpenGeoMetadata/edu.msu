@@ -26,10 +26,10 @@
     "[1957 TO 1957]"
   ],
   "dct_spatial_sm": [
-    "Gogebic County, Michigan",
+    "Michigan--Gogebic County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.41833333,-88.99,46.76777778,46.09722222)",
+  "locn_geometry": "POLYGON((-90.41833333 46.76777778, -88.99 46.76777778, -88.99 46.09722222, -90.41833333 46.09722222, -90.41833333 46.76777778))",
   "dcat_bbox": "ENVELOPE(-90.41833333,-88.99,46.76777778,46.09722222)",
   "dcat_centroid": "46.432500000000005,-89.704166665",
   "pcdm_memberOf_sm": [
@@ -47,11 +47,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "471.96 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1051\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1051/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1051/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1051/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1051\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1051/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1051/MODS/view\"}",
   "id": "405d7c2c-fc53-4e98-8b31-ebd875e8869b",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m54b30163"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

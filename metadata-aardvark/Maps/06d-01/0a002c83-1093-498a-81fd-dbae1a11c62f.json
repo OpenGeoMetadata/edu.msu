@@ -31,11 +31,14 @@
     "[1751 TO 1751]"
   ],
   "dct_spatial_sm": [
-    "Great Britain, United Kingdom"
+    "England--Cockermouth",
+    "England--Keswick",
+    "England--Buttermere",
+    "England"
   ],
-  "locn_geometry": "ENVELOPE(3.4247,3.0925,54.6975,54.4738)",
-  "dcat_bbox": "ENVELOPE(3.4247,3.0925,54.6975,54.4738)",
-  "dcat_centroid": "54.58565,3.2586",
+  "locn_geometry": "POLYGON((-3.414555 54.687093, -3.074293 54.687093, -3.074293 54.531912, -3.414555 54.531912, -3.414555 54.687093))",
+  "dcat_bbox": "ENVELOPE(-3.414555,-3.074293,54.687093,54.531912)",
+  "dcat_centroid": "54.6095025,-3.244424",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,6 +52,6 @@
   "dct_identifier_sm": [
     "0a002c83-1093-498a-81fd-dbae1a11c62f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:11Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

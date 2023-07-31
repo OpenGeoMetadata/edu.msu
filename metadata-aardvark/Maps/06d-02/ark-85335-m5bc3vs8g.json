@@ -25,7 +25,8 @@
   "dcat_keyword_sm": [
     "Agricultural resources",
     "Land capability for agriculture",
-    "Soil productivity"
+    "Soil productivity",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1984"
@@ -38,10 +39,10 @@
     "[1984 TO 1984]"
   ],
   "dct_spatial_sm": [
-    "Shiawassee County, Michigan",
+    "Michigan--Shiawassee County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.3686,-83.9225,43.1328,42.7722)",
+  "locn_geometry": "POLYGON((-84.3686 43.1328, -83.9225 43.1328, -83.9225 42.7722, -84.3686 42.7722, -84.3686 43.1328))",
   "dcat_bbox": "ENVELOPE(-84.3686,-83.9225,43.1328,42.7722)",
   "dcat_centroid": "42.9525,-84.14555",
   "pcdm_memberOf_sm": [
@@ -65,6 +66,6 @@
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5bc3vs8g"
   ],
-  "gbl_mdModified_dt": "2022-04-11T21:21:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -16,12 +16,12 @@
     "Real Property",
     "Landowners"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13183809\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/539/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:539/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/539\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/539/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13183809\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/539/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/539\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/539/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/539/MODS/view\"}",
   "dct_spatial_sm": [
-    "Ionia County, Michigan",
+    "Michigan--Ionia County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:46Z",
+  "layer_modified_dt": "2023-05-12T20:37:59Z",
   "dc_language_sm": [
     "eng"
   ],

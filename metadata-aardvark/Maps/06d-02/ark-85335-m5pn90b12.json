@@ -25,7 +25,8 @@
   "dcat_keyword_sm": [
     "Agricultural resources",
     "Land capability for agriculture",
-    "Soil productivity"
+    "Soil productivity",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1977"
@@ -38,10 +39,10 @@
     "[1977 TO 1977]"
   ],
   "dct_spatial_sm": [
-    "Grand Traverse County, Michigan",
+    "Michigan--Grand Traverse County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.8203,-85.3317,45.0003,44.5114)",
+  "locn_geometry": "POLYGON((-85.8203 45.0003, -85.3317 45.0003, -85.3317 44.5114, -85.8203 44.5114, -85.8203 45.0003))",
   "dcat_bbox": "ENVELOPE(-85.8203,-85.3317,45.0003,44.5114)",
   "dcat_centroid": "44.75585,-85.576",
   "pcdm_memberOf_sm": [
@@ -65,6 +66,6 @@
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5pn90b12"
   ],
-  "gbl_mdModified_dt": "2022-04-11T21:21:02Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

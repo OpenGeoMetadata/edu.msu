@@ -5,7 +5,7 @@
   "dc_title_s": "Part of Beaver, Township 38 & 39N Range 10 & 11W: Charlevoix County, Michigan",
   "dct_provenance_s": "Michigan State University",
   "layer_slug_s": "ark-85335-m59k47507",
-  "solr_geom": "ENVELOPE(-85.599068,-85.598814,45.690643,45.690523)",
+  "solr_geom": "ENVELOPE(-85.631809,-85.475803,45.764127,45.627537)",
   "solr_year_i": "1930",
   "dc_creator_sm": [
     "W.W. Hixson & Co."
@@ -16,12 +16,12 @@
     "Real Property",
     "Landowners"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b4226787\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/959/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:959/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/959\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/959/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b4226787\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/959/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/959\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/959/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/959/MODS/view\"}",
   "dct_spatial_sm": [
-    "Charlevoix County, Michigan",
+    "Michigan--Charlevoix County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:27Z",
+  "layer_modified_dt": "2023-06-23T18:47:34Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -24,10 +24,10 @@
     "[1945 TO 1945]"
   ],
   "dct_spatial_sm": [
-    "Clare County, Michigan",
+    "Michigan--Clare County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.08888889,-84.60611111,44.16305556,43.81222222)",
+  "locn_geometry": "POLYGON((-85.08888889 44.16305556, -84.60611111 44.16305556, -84.60611111 43.81222222, -85.08888889 43.81222222, -85.08888889 44.16305556))",
   "dcat_bbox": "ENVELOPE(-85.08888889,-84.60611111,44.16305556,43.81222222)",
   "dcat_centroid": "43.98763889,-84.8475",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "192.25 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1070\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1070/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1070/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1070/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1070\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1070/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1070/MODS/view\"}",
   "id": "ad52364b-3fb8-428c-9d8e-73654f57259b",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m58913m63"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

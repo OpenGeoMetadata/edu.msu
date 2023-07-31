@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States Senate.Committee on Foreign Relations."
+    "United States. Congress. Senate. Committee on Foreign Relations"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
     "Statistical maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1906"
@@ -30,9 +31,9 @@
     "[1906 TO 1906]"
   ],
   "dct_spatial_sm": [
-    "San Francisco, California"
+    "California--San Francisco"
   ],
-  "locn_geometry": "ENVELOPE(-122.46,-122.36,37.8001,37.7301)",
+  "locn_geometry": "POLYGON((-122.46 37.8001, -122.36 37.8001, -122.36 37.7301, -122.46 37.7301, -122.46 37.8001))",
   "dcat_bbox": "ENVELOPE(-122.46,-122.36,37.8001,37.7301)",
   "dcat_centroid": "37.765100000000004,-122.41",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "78aeec49-a708-4794-acd8-607a4667bb0f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:16Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

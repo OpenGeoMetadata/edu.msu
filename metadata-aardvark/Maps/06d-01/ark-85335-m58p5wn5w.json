@@ -21,11 +21,16 @@
     "Maps"
   ],
   "gbl_resourceType_sm": [
+    "Atlases",
     "Cadastral maps"
   ],
   "dct_subject_sm": [
     "Real Property",
     "Landowners"
+  ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1924-1932"
@@ -38,10 +43,10 @@
     "[1924 TO 1932]"
   ],
   "dct_spatial_sm": [
-    "Sanilac County, Michigan",
+    "Michigan--Sanilac County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.1204,-82.5032,43.6904,43.1541)",
+  "locn_geometry": "POLYGON((-83.1204 43.6904, -82.5032 43.6904, -82.5032 43.1541, -83.1204 43.1541, -83.1204 43.6904))",
   "dcat_bbox": "ENVELOPE(-83.1204,-82.5032,43.6904,43.1541)",
   "dcat_centroid": "43.42225,-82.8118",
   "pcdm_memberOf_sm": [
@@ -56,11 +61,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13290429\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/851/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:851/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/851\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/851/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13290429\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/851\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/851/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/851/MODS/view\"}",
   "id": "ark-85335-m58p5wn5w",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m58p5wn5w"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:10Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

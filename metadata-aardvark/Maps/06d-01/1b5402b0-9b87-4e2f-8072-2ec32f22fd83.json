@@ -20,9 +20,9 @@
     "[1874 TO 1874]"
   ],
   "dct_spatial_sm": [
-    "Mason, Michigan"
+    "Michigan--Mason"
   ],
-  "locn_geometry": "ENVELOPE(-84.455,-84.4365,42.5804,42.5702)",
+  "locn_geometry": "POLYGON((-84.455 42.5804, -84.4365 42.5804, -84.4365 42.5702, -84.455 42.5702, -84.455 42.5804))",
   "dcat_bbox": "ENVELOPE(-84.455,-84.4365,42.5804,42.5702)",
   "dcat_centroid": "42.5753,-84.44575",
   "pcdm_memberOf_sm": [
@@ -38,6 +38,6 @@
   "dct_identifier_sm": [
     "1b5402b0-9b87-4e2f-8072-2ec32f22fd83"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:43Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

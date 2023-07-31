@@ -4,7 +4,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bien, Julius"
+    "Bien, Julius, 1826-1909"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
@@ -15,7 +15,8 @@
     "Road maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1865"
@@ -29,7 +30,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.42,-82.12,48.31,41.7)",
+  "locn_geometry": "POLYGON((-90.42 48.31, -82.12 48.31, -82.12 41.7, -90.42 41.7, -90.42 48.31))",
   "dcat_bbox": "ENVELOPE(-90.42,-82.12,48.31,41.7)",
   "dcat_centroid": "45.005,-86.27000000000001",
   "pcdm_memberOf_sm": [
@@ -45,6 +46,6 @@
   "dct_identifier_sm": [
     "f94ca9b0-add0-4e63-9214-1fb6942bf8fc"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

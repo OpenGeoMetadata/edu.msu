@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Burr, David H.,1803-1875,cartographer."
+    "Burr, David H., 1803-1875"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1831"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-88,-82,47,41.5)",
+  "locn_geometry": "POLYGON((-88 47, -82 47, -82 41.5, -88 41.5, -88 47))",
   "dcat_bbox": "ENVELOPE(-88,-82,47,41.5)",
   "dcat_centroid": "44.25,-85.0",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "8eaee31f-72c0-4d7a-a329-87c984f64c8c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:56Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

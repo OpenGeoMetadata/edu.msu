@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Burr, David H."
+    "Burr, David H., 1803-1875"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1833"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-101,-67,49,28)",
+  "locn_geometry": "POLYGON((-101 49, -67 49, -67 28, -101 28, -101 49))",
   "dcat_bbox": "ENVELOPE(-101,-67,49,28)",
   "dcat_centroid": "38.5,-84.0",
   "pcdm_memberOf_sm": [
@@ -39,11 +40,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/UnitedStates/1833-burr.jpg\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/UnitedStates/1833-burr.jpg\",\"http://iiif.io/api/presentation#manifest\":\"/manifest\",\"http://www.loc.gov/mods/v3\":\"/MODS/view\"}",
   "id": "60616583-2e22-4332-bf13-dcb3fd29fe48",
   "dct_identifier_sm": [
     "60616583-2e22-4332-bf13-dcb3fd29fe48"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:18Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -27,6 +27,10 @@
     "Real Property",
     "Landowners"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1929-1938"
   ],
@@ -38,29 +42,29 @@
     "[1929 TO 1938]"
   ],
   "dct_spatial_sm": [
-    "Ingham County, Michigan",
+    "Michigan--Ingham County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.602484,-84.482916,42.596878,42.509442)",
+  "locn_geometry": "POLYGON((-84.602484 42.596878, -84.482916 42.596878, -84.482916 42.509442, -84.602484 42.509442, -84.602484 42.596878))",
   "dcat_bbox": "ENVELOPE(-84.602484,-84.482916,42.596878,42.509442)",
   "dcat_centroid": "42.55316,-84.5427",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "06d-01-01",
-    "06d-01"
+    "ark-85335-m5sx65n3p",
+    "06d-01-01"
   ],
   "dct_license_sm": [
     "https://creativecommons.org/publicdomain/mark/1.0/"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13183775\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/510/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:510/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/510\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/510/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13183775\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/510/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/510\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/510/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/510/MODS/view\"}",
   "id": "ark-85335-m5zg6hk2h",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5zg6hk2h"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:07Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

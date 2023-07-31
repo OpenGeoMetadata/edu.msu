@@ -35,7 +35,7 @@
   "dct_spatial_sm": [
     "District Of Columbia"
   ],
-  "locn_geometry": "ENVELOPE(-77.1198,-76.9094,38.9955,38.7916)",
+  "locn_geometry": "POLYGON((-77.1198 38.9955, -76.9094 38.9955, -76.9094 38.7916, -77.1198 38.7916, -77.1198 38.9955))",
   "dcat_bbox": "ENVELOPE(-77.1198,-76.9094,38.9955,38.7916)",
   "dcat_centroid": "38.893550000000005,-77.0146",
   "pcdm_memberOf_sm": [
@@ -51,6 +51,6 @@
   "dct_identifier_sm": [
     "0f121b2c-e2fa-426a-a150-612da8ac4f39"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:09Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

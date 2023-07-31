@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Roads"
+    "Roads",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1964"
@@ -27,10 +28,10 @@
     "[1964 TO 1964]"
   ],
   "dct_spatial_sm": [
-    "Iosco County, Michigan",
+    "Michigan--Iosco County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.88638889,-83.31583333,44.51166667,44.16166667)",
+  "locn_geometry": "POLYGON((-83.88638889 44.51166667, -83.31583333 44.51166667, -83.31583333 44.16166667, -83.88638889 44.16166667, -83.88638889 44.51166667))",
   "dcat_bbox": "ENVELOPE(-83.88638889,-83.31583333,44.51166667,44.16166667)",
   "dcat_centroid": "44.33666667,-83.60111111",
   "pcdm_memberOf_sm": [
@@ -48,11 +49,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "197.24 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1019\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1019/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1019/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1019/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1019\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1019/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1019/MODS/view\"}",
   "id": "092c9b58-60d3-4c90-8330-b5c58abfb1f9",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5w08zc2h"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:40:59Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

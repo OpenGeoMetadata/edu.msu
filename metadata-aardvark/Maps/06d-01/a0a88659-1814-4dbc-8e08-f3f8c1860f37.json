@@ -15,7 +15,8 @@
     "Road maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1899"
@@ -29,7 +30,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.42,-82.12,48.31,41.7)",
+  "locn_geometry": "POLYGON((-90.42 48.31, -82.12 48.31, -82.12 41.7, -90.42 41.7, -90.42 48.31))",
   "dcat_bbox": "ENVELOPE(-90.42,-82.12,48.31,41.7)",
   "dcat_centroid": "45.005,-86.27000000000001",
   "pcdm_memberOf_sm": [
@@ -45,6 +46,6 @@
   "dct_identifier_sm": [
     "a0a88659-1814-4dbc-8e08-f3f8c1860f37"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:45Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

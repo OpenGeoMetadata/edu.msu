@@ -25,10 +25,10 @@
     "[1958 TO 1958]"
   ],
   "dct_spatial_sm": [
-    "Delta County, Michigan",
+    "Michigan--Delta County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-87.37083333,-86.46138889,46.15888889,45.47722222)",
+  "locn_geometry": "POLYGON((-87.37083333 46.15888889, -86.46138889 46.15888889, -86.46138889 45.47722222, -87.37083333 45.47722222, -87.37083333 46.15888889))",
   "dcat_bbox": "ENVELOPE(-87.37083333,-86.46138889,46.15888889,45.47722222)",
   "dcat_centroid": "45.818055555,-86.91611111",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "138.58 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1054\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1054/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1054/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1054/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1054\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1054/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1054/MODS/view\"}",
   "id": "04bee688-34fb-4883-9eda-44d8536c13a0",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5q52h854"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

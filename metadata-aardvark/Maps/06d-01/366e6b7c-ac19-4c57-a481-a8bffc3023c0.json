@@ -4,14 +4,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bowen, Emanuel"
+    "Bowen, Emanuel, 1693 or 1694-1767"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1763"
@@ -25,7 +26,7 @@
   "dct_spatial_sm": [
     "South America"
   ],
-  "locn_geometry": "ENVELOPE(-110,-28.7,17.7,-56.1)",
+  "locn_geometry": "POLYGON((-110 17.7, -28.7 17.7, -28.7 -56.1, -110 -56.1, -110 17.7))",
   "dcat_bbox": "ENVELOPE(-110,-28.7,17.7,-56.1)",
   "dcat_centroid": "-19.200000000000003,-69.35",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,6 @@
   "dct_identifier_sm": [
     "366e6b7c-ac19-4c57-a481-a8bffc3023c0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

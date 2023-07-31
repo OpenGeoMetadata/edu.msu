@@ -29,7 +29,7 @@
   "dct_spatial_sm": [
     "Russia"
   ],
-  "locn_geometry": "ENVELOPE(44.96,-169,81.27,59.68)",
+  "locn_geometry": "POLYGON((44.96 81.27, -169 81.27, -169 59.68, 44.96 59.68, 44.96 81.27))",
   "dcat_bbox": "ENVELOPE(44.96,-169,81.27,59.68)",
   "dcat_centroid": "70.475,-62.019999999999996",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "dcca0fd9-ddda-4348-8d41-e7194e2b665f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:36Z",
+  "gbl_mdModified_dt": "2023-02-28T04:15:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

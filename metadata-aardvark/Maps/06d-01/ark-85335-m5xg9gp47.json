@@ -20,11 +20,16 @@
     "Maps"
   ],
   "gbl_resourceType_sm": [
+    "Atlases",
     "Cadastral maps"
   ],
   "dct_subject_sm": [
     "Real Property",
     "Landowners"
+  ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1930-1939"
@@ -37,10 +42,10 @@
     "[1930 TO 1939]"
   ],
   "dct_spatial_sm": [
-    "Charlevoix County, Michigan",
+    "Michigan--Charlevoix County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.8461,-84.7318,45.8416,45.1156)",
+  "locn_geometry": "POLYGON((-85.8461 45.8416, -84.7318 45.8416, -84.7318 45.1156, -85.8461 45.1156, -85.8461 45.8416))",
   "dcat_bbox": "ENVELOPE(-85.8461,-84.7318,45.8416,45.1156)",
   "dcat_centroid": "45.4786,-85.28895",
   "pcdm_memberOf_sm": [
@@ -55,11 +60,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b4226787\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/946/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:946/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/946\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/946/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b4226787\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/946\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/946/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/946/MODS/view\"}",
   "id": "ark-85335-m5xg9gp47",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5xg9gp47"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:40Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

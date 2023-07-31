@@ -26,10 +26,10 @@
     "[1970 TO 1970]"
   ],
   "dct_spatial_sm": [
-    "Antrim County, Michigan",
+    "Michigan--Antrim County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.44416667,-84.84805556,45.20777778,44.81416667)",
+  "locn_geometry": "POLYGON((-85.44416667 45.20777778, -84.84805556 45.20777778, -84.84805556 44.81416667, -85.44416667 44.81416667, -85.44416667 45.20777778))",
   "dcat_bbox": "ENVELOPE(-85.44416667,-84.84805556,45.20777778,44.81416667)",
   "dcat_centroid": "45.010972225,-85.146111115",
   "pcdm_memberOf_sm": [
@@ -47,11 +47,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "195.75 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1042\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1042/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1042/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1042/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1042\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1042/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1042/MODS/view\"}",
   "id": "1a61e1a8-12e7-4e02-b3e7-786995853d25",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5ft8gf4t"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:40:59Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

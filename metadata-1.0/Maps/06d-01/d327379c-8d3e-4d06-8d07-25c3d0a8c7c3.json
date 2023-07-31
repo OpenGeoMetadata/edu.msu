@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-84.36,-82.38,43.98,41.58)",
   "solr_year_i": "1825",
   "dc_creator_sm": [
-    "Risdon, Orange"
+    "Risdon, Orange, 1786-1876"
   ],
   "dc_description_s": "Prime meridian: Washington.: Original version published [Albany, N.Y.] : [O. Risdon], 1825.; Scale 1:253,440. 4 miles to an in.",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:34Z",
+  "layer_modified_dt": "2023-02-03T21:21:42Z",
   "dc_language_sm": [
     "eng"
   ],

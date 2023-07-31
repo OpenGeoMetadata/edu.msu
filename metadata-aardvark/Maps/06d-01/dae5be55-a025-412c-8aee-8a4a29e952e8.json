@@ -22,7 +22,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(-18.6,52.3,37.14,-35.3)",
+  "locn_geometry": "POLYGON((-18.6 37.14, 52.3 37.14, 52.3 -35.3, -18.6 -35.3, -18.6 37.14))",
   "dcat_bbox": "ENVELOPE(-18.6,52.3,37.14,-35.3)",
   "dcat_centroid": "0.9200000000000017,16.849999999999998",
   "pcdm_memberOf_sm": [
@@ -38,6 +38,6 @@
   "dct_identifier_sm": [
     "dae5be55-a025-412c-8aee-8a4a29e952e8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:21Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

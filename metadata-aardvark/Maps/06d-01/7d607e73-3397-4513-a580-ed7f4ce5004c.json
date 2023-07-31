@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Roads"
+    "Roads",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1962"
@@ -27,10 +28,10 @@
     "[1962 TO 1962]"
   ],
   "dct_spatial_sm": [
-    "Ionia County, Michigan",
+    "Michigan--Ionia County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.31333333,-84.8375,43.12055556,42.76916667)",
+  "locn_geometry": "POLYGON((-85.31333333 43.12055556, -84.8375 43.12055556, -84.8375 42.76916667, -85.31333333 42.76916667, -85.31333333 43.12055556))",
   "dcat_bbox": "ENVELOPE(-85.31333333,-84.8375,43.12055556,42.76916667)",
   "dcat_centroid": "42.944861114999995,-85.075416665",
   "pcdm_memberOf_sm": [
@@ -48,11 +49,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "194.43 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1028\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1028/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1028/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1028/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1028\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1028/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1028/MODS/view\"}",
   "id": "7d607e73-3397-4513-a580-ed7f4ce5004c",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5mg7hr5g"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:40:59Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

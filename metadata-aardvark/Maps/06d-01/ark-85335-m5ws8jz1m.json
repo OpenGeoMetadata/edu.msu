@@ -27,6 +27,10 @@
     "Real Property",
     "Landowners"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1927-1945"
   ],
@@ -41,26 +45,26 @@
     "Calhoun County Michigan",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.061159,-84.942894,42.24683,42.159438)",
+  "locn_geometry": "POLYGON((-85.061159 42.24683, -84.942894 42.24683, -84.942894 42.159438, -85.061159 42.159438, -85.061159 42.24683))",
   "dcat_bbox": "ENVELOPE(-85.061159,-84.942894,42.24683,42.159438)",
   "dcat_centroid": "42.203134000000006,-85.0020265",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "06d-01-01",
-    "06d-01"
+    "ark-85335-m5rv0fc34",
+    "06d-01-01"
   ],
   "dct_license_sm": [
     "https://creativecommons.org/publicdomain/mark/1.0/"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159047\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/251/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:251/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/251\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/251/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159047\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/251/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/251\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/251/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/251/MODS/view\"}",
   "id": "ark-85335-m5ws8jz1m",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5ws8jz1m"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:24Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

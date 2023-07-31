@@ -23,9 +23,10 @@
     "[1765 TO 1765]"
   ],
   "dct_spatial_sm": [
-    "Great Britain"
+    "England--London",
+    "England"
   ],
-  "locn_geometry": "ENVELOPE(-1.2964,-0.0824,51.7862,51.469)",
+  "locn_geometry": "POLYGON((-1.2964 51.7862, -0.0824 51.7862, -0.0824 51.469, -1.2964 51.469, -1.2964 51.7862))",
   "dcat_bbox": "ENVELOPE(-1.2964,-0.0824,51.7862,51.469)",
   "dcat_centroid": "51.6276,-0.6894",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,6 @@
   "dct_identifier_sm": [
     "3c966198-2a62-4b7d-a7c9-e4772640fcfd"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:42Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

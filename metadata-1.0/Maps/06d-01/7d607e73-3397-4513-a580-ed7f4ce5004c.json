@@ -12,12 +12,12 @@
   ],
   "dc_description_s": "Scale approximately 1:98,000; Publication date estimated from completion of U.S. Route 16 as an expressway, not yet designated as Interstate 96.",
   "dc_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1028\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1028/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1028/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1028/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1028\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1028/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1028/MODS/view\"}",
   "dct_spatial_sm": [
-    "Ionia County, Michigan",
+    "Michigan--Ionia County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-05-17T20:40:59Z",
+  "layer_modified_dt": "2023-05-12T20:37:40Z",
   "dc_language_sm": [
     "eng"
   ],

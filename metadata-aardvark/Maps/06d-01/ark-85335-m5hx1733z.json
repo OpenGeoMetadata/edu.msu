@@ -21,11 +21,16 @@
     "Maps"
   ],
   "gbl_resourceType_sm": [
+    "Atlases",
     "Cadastral maps"
   ],
   "dct_subject_sm": [
     "Real Property",
     "Landowners"
+  ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1927-1939"
@@ -38,10 +43,10 @@
     "[1927 TO 1939]"
   ],
   "dct_spatial_sm": [
-    "Ontonagon County, Michigan",
+    "Michigan--Ontonagon County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-89.8854,-88.8637,47.0289,46.3304)",
+  "locn_geometry": "POLYGON((-89.8854 47.0289, -88.8637 47.0289, -88.8637 46.3304, -89.8854 46.3304, -89.8854 47.0289))",
   "dcat_bbox": "ENVELOPE(-89.8854,-88.8637,47.0289,46.3304)",
   "dcat_centroid": "46.679649999999995,-89.37455",
   "pcdm_memberOf_sm": [
@@ -56,11 +61,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13209479\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/755/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:755/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/755\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/755/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13209479\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/755\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/755/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/755/MODS/view\"}",
   "id": "ark-85335-m5hx1733z",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5hx1733z"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:02Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

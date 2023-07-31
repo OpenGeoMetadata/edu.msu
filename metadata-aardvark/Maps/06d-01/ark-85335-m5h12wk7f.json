@@ -21,11 +21,16 @@
     "Maps"
   ],
   "gbl_resourceType_sm": [
+    "Atlases",
     "Cadastral maps"
   ],
   "dct_subject_sm": [
     "Real Property",
     "Landowners"
+  ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1920-1929"
@@ -38,10 +43,10 @@
     "[1920 TO 1929]"
   ],
   "dct_spatial_sm": [
-    "Elkart County, Indiana",
+    "Indiana--Elkart County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.062575,-85.654213,41.760513,41.436752)",
+  "locn_geometry": "POLYGON((-86.062575 41.760513, -85.654213 41.760513, -85.654213 41.436752, -86.062575 41.436752, -86.062575 41.760513))",
   "dcat_bbox": "ENVELOPE(-86.062575,-85.654213,41.760513,41.436752)",
   "dcat_centroid": "41.5986325,-85.858394",
   "pcdm_memberOf_sm": [
@@ -56,11 +61,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b5566171\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/963/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:963/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/963\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/963/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b5566171\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/963\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/963/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/963/MODS/view\"}",
   "id": "ark-85335-m5h12wk7f",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5h12wk7f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:14Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

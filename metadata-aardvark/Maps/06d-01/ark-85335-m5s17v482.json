@@ -21,11 +21,16 @@
     "Maps"
   ],
   "gbl_resourceType_sm": [
+    "Atlases",
     "Cadastral maps"
   ],
   "dct_subject_sm": [
     "Real Property",
     "Landowners"
+  ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1926-1933"
@@ -38,10 +43,10 @@
     "[1926 TO 1933]"
   ],
   "dct_spatial_sm": [
-    "Antrim County, Michigan",
+    "Michigan--Antrim County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.4443,-84.8483,45.2079,44.8144)",
+  "locn_geometry": "POLYGON((-85.4443 45.2079, -84.8483 45.2079, -84.8483 44.8144, -85.4443 44.8144, -85.4443 45.2079))",
   "dcat_bbox": "ENVELOPE(-85.4443,-84.8483,45.2079,44.8144)",
   "dcat_centroid": "45.01115,-85.1463",
   "pcdm_memberOf_sm": [
@@ -56,11 +61,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159141\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/321/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:321/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/321\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/321/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159141\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/321\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/321/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/321/MODS/view\"}",
   "id": "ark-85335-m5s17v482",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5s17v482"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:15Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

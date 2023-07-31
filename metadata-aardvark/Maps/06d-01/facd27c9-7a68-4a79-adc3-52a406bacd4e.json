@@ -28,7 +28,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.83333333,-84.71666667,45.83333333,45.1)",
+  "locn_geometry": "POLYGON((-85.83333333 45.83333333, -84.71666667 45.83333333, -84.71666667 45.1, -85.83333333 45.1, -85.83333333 45.83333333))",
   "dcat_bbox": "ENVELOPE(-85.83333333,-84.71666667,45.83333333,45.1)",
   "dcat_centroid": "45.466666665000005,-85.275",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "203.56 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1031\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1031/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1031/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1031/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1031\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1031/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1031/MODS/view\"}",
   "id": "facd27c9-7a68-4a79-adc3-52a406bacd4e",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5s758f8c"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:40:59Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

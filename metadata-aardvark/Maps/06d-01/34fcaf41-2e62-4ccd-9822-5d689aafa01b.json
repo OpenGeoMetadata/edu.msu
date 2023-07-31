@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Young, J. H.(James Hamilton)"
+    "Young, J. H. (James Hamilton)"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
     "Road maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1839"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-88,-82,46,42)",
+  "locn_geometry": "POLYGON((-88 46, -82 46, -82 42, -88 42, -88 46))",
   "dcat_bbox": "ENVELOPE(-88,-82,46,42)",
   "dcat_centroid": "44.0,-85.0",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "34fcaf41-2e62-4ccd-9822-5d689aafa01b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:05Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

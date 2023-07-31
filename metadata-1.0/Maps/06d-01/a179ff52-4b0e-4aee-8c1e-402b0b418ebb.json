@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-87,-82.5,43.71,41.5)",
   "solr_year_i": "1836",
   "dc_creator_sm": [
-    "Farmer, John"
+    "Farmer, John, 1798-1859"
   ],
   "dc_description_s": "Engraved by John Farmer. \"Entered according to Act of Congress ... on the 4th day of July A.D. 1835.\" Prime meridians: Greenwich and Washington. Includes grid. Covers southern Michigan. Insets: Map of the Straits of Michillimackinac. -- Map of Pte. Ste. Ignace. -- Map of the most important parts of the lead mine district near the Mississippi River. -- Map of the private claims at Green Bay -- Map of Michillimackinac.: Original version published New York, N.Y. : J.H. Colton and Co., 1836.; Scale not given",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:23Z",
+  "layer_modified_dt": "2023-02-03T21:16:22Z",
   "dc_language_sm": [
     "eng"
   ],

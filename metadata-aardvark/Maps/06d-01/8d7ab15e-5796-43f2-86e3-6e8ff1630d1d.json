@@ -29,7 +29,7 @@
   "dct_spatial_sm": [
     "Germany"
   ],
-  "locn_geometry": "ENVELOPE(7.65,12.1333,53.7333,51.25)",
+  "locn_geometry": "POLYGON((7.65 53.7333, 12.1333 53.7333, 12.1333 51.25, 7.65 51.25, 7.65 53.7333))",
   "dcat_bbox": "ENVELOPE(7.65,12.1333,53.7333,51.25)",
   "dcat_centroid": "52.49165,9.89165",
   "pcdm_memberOf_sm": [
@@ -45,6 +45,6 @@
   "dct_identifier_sm": [
     "8d7ab15e-5796-43f2-86e3-6e8ff1630d1d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:00Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

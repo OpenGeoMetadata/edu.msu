@@ -16,12 +16,12 @@
     "Real Property",
     "Landowners"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13167831\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/417/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:417/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/417\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/417/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13167831\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/417/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/417\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/417/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/417/MODS/view\"}",
   "dct_spatial_sm": [
-    "Delta County, Michigan",
+    "Michigan--Delta County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:23Z",
+  "layer_modified_dt": "2023-05-12T20:37:56Z",
   "dc_language_sm": [
     "eng"
   ],

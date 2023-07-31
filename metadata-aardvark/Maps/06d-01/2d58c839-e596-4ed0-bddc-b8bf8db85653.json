@@ -15,7 +15,7 @@
   ],
   "dcat_keyword_sm": [
     "Seven Years' War",
-    " 1756-1763",
+    "1756-1763",
     "Michigan State University Map Library"
   ],
   "dct_temporal_sm": [
@@ -31,7 +31,7 @@
   "dct_spatial_sm": [
     "Germany"
   ],
-  "locn_geometry": "ENVELOPE(1.4166,19.0666,55.05,44.95)",
+  "locn_geometry": "POLYGON((1.4166 55.05, 19.0666 55.05, 19.0666 44.95, 1.4166 44.95, 1.4166 55.05))",
   "dcat_bbox": "ENVELOPE(1.4166,19.0666,55.05,44.95)",
   "dcat_centroid": "50.0,10.2416",
   "pcdm_memberOf_sm": [
@@ -47,6 +47,6 @@
   "dct_identifier_sm": [
     "2d58c839-e596-4ed0-bddc-b8bf8db85653"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:05Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

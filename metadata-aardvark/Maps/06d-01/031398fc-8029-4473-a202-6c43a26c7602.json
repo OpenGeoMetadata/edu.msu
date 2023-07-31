@@ -20,9 +20,9 @@
     "[1914 TO 1914]"
   ],
   "dct_spatial_sm": [
-    "San Francisco, California"
+    "California--San Francisco"
   ],
-  "locn_geometry": "ENVELOPE(-122.51,-122.35,37.8001,37.68)",
+  "locn_geometry": "POLYGON((-122.51 37.8001, -122.35 37.8001, -122.35 37.68, -122.51 37.68, -122.51 37.8001))",
   "dcat_bbox": "ENVELOPE(-122.51,-122.35,37.8001,37.68)",
   "dcat_centroid": "37.74005,-122.43",
   "pcdm_memberOf_sm": [
@@ -38,6 +38,6 @@
   "dct_identifier_sm": [
     "031398fc-8029-4473-a202-6c43a26c7602"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

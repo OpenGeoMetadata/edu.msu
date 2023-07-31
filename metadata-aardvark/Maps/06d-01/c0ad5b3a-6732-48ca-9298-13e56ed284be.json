@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Gibson, John"
+    "Gibson, J. (John), active 1750-1792"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1763"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-97.2,-52.11,55.76,21.28)",
+  "locn_geometry": "POLYGON((-97.2 55.76, -52.11 55.76, -52.11 21.28, -97.2 21.28, -97.2 55.76))",
   "dcat_bbox": "ENVELOPE(-97.2,-52.11,55.76,21.28)",
   "dcat_centroid": "38.519999999999996,-74.655",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "c0ad5b3a-6732-48ca-9298-13e56ed284be"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:45Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

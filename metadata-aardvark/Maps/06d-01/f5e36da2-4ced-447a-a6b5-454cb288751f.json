@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Place marketing literature"
+    "Place marketing literature",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1931/1933"
@@ -29,7 +30,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.13333333,-82.3,44.11666667,41.63333333)",
+  "locn_geometry": "POLYGON((-84.13333333 44.11666667, -82.3 44.11666667, -82.3 41.63333333, -84.13333333 41.63333333, -84.13333333 44.11666667))",
   "dcat_bbox": "ENVELOPE(-84.13333333,-82.3,44.11666667,41.63333333)",
   "dcat_centroid": "42.875,-83.21666666499999",
   "pcdm_memberOf_sm": [
@@ -47,11 +48,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "221.27 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1095\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1095/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1095/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1095/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1095\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1095/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1095/MODS/view\"}",
   "id": "f5e36da2-4ced-447a-a6b5-454cb288751f",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5pg1kj4g"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

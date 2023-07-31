@@ -27,6 +27,10 @@
     "Real Property",
     "Landowners"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1920-1929"
   ],
@@ -38,29 +42,29 @@
     "[1920 TO 1929]"
   ],
   "dct_spatial_sm": [
-    "Elkart County, Indiana",
+    "Indiana--Elkart County",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-85.8856,-85.7706,41.6083,41.522)",
+  "locn_geometry": "POLYGON((-85.8856 41.6083, -85.7706 41.6083, -85.7706 41.522, -85.8856 41.522, -85.8856 41.6083))",
   "dcat_bbox": "ENVELOPE(-85.8856,-85.7706,41.6083,41.522)",
   "dcat_centroid": "41.56515,-85.8281",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "06d-01-01",
-    "06d-01"
+    "ark-85335-m5h12wk7f",
+    "06d-01-01"
   ],
   "dct_license_sm": [
     "https://creativecommons.org/publicdomain/mark/1.0/"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b5566171\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/969/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:969/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/969\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/969/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b5566171\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/969/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/969\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/969/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/969/MODS/view\"}",
   "id": "ark-85335-m5fn1243z",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5fn1243z"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:58Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

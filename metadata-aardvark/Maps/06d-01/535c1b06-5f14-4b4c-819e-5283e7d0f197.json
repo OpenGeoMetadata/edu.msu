@@ -27,10 +27,10 @@
     "[1906 TO 1906]"
   ],
   "dct_spatial_sm": [
-    "El Paso County, Texas",
+    "Texas--El Paso County",
     "Texas"
   ],
-  "locn_geometry": "ENVELOPE(-106.5166,-106.4311,31.8111,31.7463)",
+  "locn_geometry": "POLYGON((-106.5166 31.8111, -106.4311 31.8111, -106.4311 31.7463, -106.5166 31.7463, -106.5166 31.8111))",
   "dcat_bbox": "ENVELOPE(-106.5166,-106.4311,31.8111,31.7463)",
   "dcat_centroid": "31.7787,-106.47385",
   "pcdm_memberOf_sm": [
@@ -41,11 +41,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/UnitedStates/882-d-a-1906-elpaso.jpg\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/UnitedStates/882-d-a-1906-elpaso.jpg\",\"http://iiif.io/api/presentation#manifest\":\"/manifest\",\"http://www.loc.gov/mods/v3\":\"/MODS/view\"}",
   "id": "535c1b06-5f14-4b4c-819e-5283e7d0f197",
   "dct_identifier_sm": [
     "535c1b06-5f14-4b4c-819e-5283e7d0f197"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:51Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

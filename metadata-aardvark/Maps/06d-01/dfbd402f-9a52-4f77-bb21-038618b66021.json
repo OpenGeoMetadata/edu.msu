@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "John Farmer"
+    "Farmer, John, 1798-1859"
   ],
   "dct_publisher_sm": [
     "Silas Farmer"
@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1873"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-87.33,-82.12,48.31,41.7)",
+  "locn_geometry": "POLYGON((-87.33 48.31, -82.12 48.31, -82.12 41.7, -87.33 41.7, -87.33 48.31))",
   "dcat_bbox": "ENVELOPE(-87.33,-82.12,48.31,41.7)",
   "dcat_centroid": "45.005,-84.725",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "dfbd402f-9a52-4f77-bb21-038618b66021"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

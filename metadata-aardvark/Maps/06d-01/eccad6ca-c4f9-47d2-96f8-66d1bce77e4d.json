@@ -25,10 +25,10 @@
     "[1965 TO 1965]"
   ],
   "dct_spatial_sm": [
-    "Ingham County, Michigan",
+    "Michigan--Ingham County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.6,-84.13333333,42.76666667,42.41666667)",
+  "locn_geometry": "POLYGON((-84.6 42.76666667, -84.13333333 42.76666667, -84.13333333 42.41666667, -84.6 42.41666667, -84.6 42.76666667))",
   "dcat_bbox": "ENVELOPE(-84.6,-84.13333333,42.76666667,42.41666667)",
   "dcat_centroid": "42.591666669999995,-84.366666665",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "268.76 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1060\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1060/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1060/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1060/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1060\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1060/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1060/MODS/view\"}",
   "id": "eccad6ca-c4f9-47d2-96f8-66d1bce77e4d",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5sf2p754"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

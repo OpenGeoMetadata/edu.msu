@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Finlayson, James"
+    "Finlayson, J. (James)"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1822"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-88.16,-81.66,47.16,41.16)",
+  "locn_geometry": "POLYGON((-88.16 47.16, -81.66 47.16, -81.66 41.16, -88.16 41.16, -88.16 47.16))",
   "dcat_bbox": "ENVELOPE(-88.16,-81.66,47.16,41.16)",
   "dcat_centroid": "44.16,-84.91",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "fe09e8ea-4e55-4ca9-a773-1b653d71a4c7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

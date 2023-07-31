@@ -28,10 +28,10 @@
     "[1977 TO 1977]"
   ],
   "dct_spatial_sm": [
-    "Gladwin County, Michigan",
+    "Michigan--Gladwin County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.60805556,-84.16583333,44.16166667,43.81333333)",
+  "locn_geometry": "POLYGON((-84.60805556 44.16166667, -84.16583333 44.16166667, -84.16583333 43.81333333, -84.60805556 43.81333333, -84.60805556 44.16166667))",
   "dcat_bbox": "ENVELOPE(-84.60805556,-84.16583333,44.16166667,43.81333333)",
   "dcat_centroid": "43.9875,-84.386944445",
   "pcdm_memberOf_sm": [
@@ -49,11 +49,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "185.6 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1104\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1104/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1104/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1104/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1104\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1104/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1104/MODS/view\"}",
   "id": "3be5b730-9484-4e3d-9cc1-5053e6c41865",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5v69b789"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:40:59Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

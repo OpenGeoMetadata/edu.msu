@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1707"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(24.25,50.61,25,5)",
+  "locn_geometry": "POLYGON((24.25 25, 50.61 25, 50.61 5, 24.25 5, 24.25 25))",
   "dcat_bbox": "ENVELOPE(24.25,50.61,25,5)",
   "dcat_centroid": "15.0,37.43",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "6c4b70e1-4e84-485c-9754-c48e60504e35"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:56Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

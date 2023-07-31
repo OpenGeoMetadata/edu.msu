@@ -9,12 +9,12 @@
   "solr_year_i": "1964",
   "dc_description_s": "Scale approximately 1:135,000; Scale determined from section lines.",
   "dc_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1022\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1022/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1022/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1022/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1022\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1022/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1022/MODS/view\"}",
   "dct_spatial_sm": [
-    "Jackson County, Michigan",
+    "Michigan--Jackson County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-05-17T20:40:59Z",
+  "layer_modified_dt": "2023-05-12T20:37:40Z",
   "dc_language_sm": [
     "eng"
   ],

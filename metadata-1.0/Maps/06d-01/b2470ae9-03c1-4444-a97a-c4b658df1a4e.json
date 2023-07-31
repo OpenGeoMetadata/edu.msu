@@ -9,12 +9,12 @@
   "solr_year_i": "1936",
   "dc_description_s": "Scale approximately 1:63,000; Cartographic material.",
   "dc_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1062\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1062/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1062/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1062/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1062\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1062/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1062/MODS/view\"}",
   "dct_spatial_sm": [
-    "Dickinson County, Michigan",
+    "Michigan--Dickinson County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-05-17T20:41:01Z",
+  "layer_modified_dt": "2023-05-12T20:37:41Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -25,10 +25,10 @@
     "[1936 TO 1936]"
   ],
   "dct_spatial_sm": [
-    "Dickinson County, Michigan",
+    "Michigan--Dickinson County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-88.13611111,-87.61861111,46.2475,45.72166667)",
+  "locn_geometry": "POLYGON((-88.13611111 46.2475, -87.61861111 46.2475, -87.61861111 45.72166667, -88.13611111 45.72166667, -88.13611111 46.2475))",
   "dcat_bbox": "ENVELOPE(-88.13611111,-87.61861111,46.2475,45.72166667)",
   "dcat_centroid": "45.984583334999996,-87.87736111000001",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "499.97 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1062\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1062/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1062/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1062/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1062\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1062/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1062/MODS/view\"}",
   "id": "b2470ae9-03c1-4444-a97a-c4b658df1a4e",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m56d5r68g"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:01Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

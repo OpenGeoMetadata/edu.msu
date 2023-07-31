@@ -21,11 +21,16 @@
     "Maps"
   ],
   "gbl_resourceType_sm": [
+    "Atlases",
     "Cadastral maps"
   ],
   "dct_subject_sm": [
     "Real Property",
     "Landowners"
+  ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1930-1939"
@@ -38,10 +43,10 @@
     "[1930 TO 1939]"
   ],
   "dct_spatial_sm": [
-    "Kent County, Michigan",
+    "Michigan--Kent County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.7907,-85.311,43.2943,42.7681)",
+  "locn_geometry": "POLYGON((-85.7907 43.2943, -85.311 43.2943, -85.311 42.7681, -85.7907 42.7681, -85.7907 43.2943))",
   "dcat_bbox": "ENVELOPE(-85.7907,-85.311,43.2943,42.7681)",
   "dcat_centroid": "43.0312,-85.55085",
   "pcdm_memberOf_sm": [
@@ -56,11 +61,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13195445\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/573/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:573/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/573\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/573/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13195445\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/573\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/573/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/573/MODS/view\"}",
   "id": "ark-85335-m52r3q830",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m52r3q830"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:43Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

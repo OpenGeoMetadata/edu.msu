@@ -22,7 +22,7 @@
   "dct_spatial_sm": [
     "Colorado"
   ],
-  "locn_geometry": "ENVELOPE(-109.14,-102.07,41.06,36.96)",
+  "locn_geometry": "POLYGON((-109.14 41.06, -102.07 41.06, -102.07 36.96, -109.14 36.96, -109.14 41.06))",
   "dcat_bbox": "ENVELOPE(-109.14,-102.07,41.06,36.96)",
   "dcat_centroid": "39.010000000000005,-105.60499999999999",
   "pcdm_memberOf_sm": [
@@ -38,6 +38,6 @@
   "dct_identifier_sm": [
     "b70a9792-c99e-427f-a297-c3ceda1ab95b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:59Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

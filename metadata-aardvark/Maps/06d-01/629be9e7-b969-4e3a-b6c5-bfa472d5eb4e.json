@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States Bureau of Soils"
+    "United States. Bureau of Chemistry and Soils"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
@@ -17,7 +17,8 @@
     "Geological maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1933"
@@ -29,9 +30,9 @@
     "[1933 TO 1933]"
   ],
   "dct_spatial_sm": [
-    "Ingham County, Michigan"
+    "Michigan--Ingham County"
   ],
-  "locn_geometry": "ENVELOPE(-84.58,-84.16,42.75,42.5)",
+  "locn_geometry": "POLYGON((-84.58 42.75, -84.16 42.75, -84.16 42.5, -84.58 42.5, -84.58 42.75))",
   "dcat_bbox": "ENVELOPE(-84.58,-84.16,42.75,42.5)",
   "dcat_centroid": "42.625,-84.37",
   "pcdm_memberOf_sm": [
@@ -47,6 +48,6 @@
   "dct_identifier_sm": [
     "629be9e7-b969-4e3a-b6c5-bfa472d5eb4e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:25Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -25,10 +25,10 @@
     "[1956 TO 1956]"
   ],
   "dct_spatial_sm": [
-    "Calhoun County, Michigan",
+    "Michigan--Calhoun County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.29944444,-84.70944444,42.42194444,42.07027778)",
+  "locn_geometry": "POLYGON((-85.29944444 42.42194444, -84.70944444 42.42194444, -84.70944444 42.07027778, -85.29944444 42.07027778, -85.29944444 42.42194444))",
   "dcat_bbox": "ENVELOPE(-85.29944444,-84.70944444,42.42194444,42.07027778)",
   "dcat_centroid": "42.24611111,-85.00444444",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "233.78 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1065\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1065/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1065/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1065/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1065\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1065/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1065/MODS/view\"}",
   "id": "c0e0086b-ea90-4d28-9bc3-04ee0d44b9f5",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m55b00x7d"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

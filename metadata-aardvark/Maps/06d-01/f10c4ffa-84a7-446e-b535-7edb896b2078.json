@@ -26,10 +26,10 @@
     "[1977 TO 1977]"
   ],
   "dct_spatial_sm": [
-    "Barry County, Michigan",
+    "Michigan--Barry County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.54555556,-85.07333333,42.77055556,42.41944444)",
+  "locn_geometry": "POLYGON((-85.54555556 42.77055556, -85.07333333 42.77055556, -85.07333333 42.41944444, -85.54555556 42.41944444, -85.54555556 42.77055556))",
   "dcat_bbox": "ENVELOPE(-85.54555556,-85.07333333,42.77055556,42.41944444)",
   "dcat_centroid": "42.595,-85.309444445",
   "pcdm_memberOf_sm": [
@@ -47,11 +47,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "168.58 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1088\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1088/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1088/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1088/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1088\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1088/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1088/MODS/view\"}",
   "id": "f10c4ffa-84a7-446e-b535-7edb896b2078",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m55h7dq15"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,8 +7,13 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "World maps"
+  ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "202212bbox",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "-1749"
@@ -20,7 +25,7 @@
     "[1749 TO 1749]"
   ],
   "dct_spatial_sm": [
-    "Earth"
+    "World"
   ],
   "locn_geometry": "ENVELOPE(-180,180,90,-90)",
   "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
@@ -38,6 +43,6 @@
   "dct_identifier_sm": [
     "c65b2a09-e8f5-4db7-ad03-f802b439d83f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:11Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

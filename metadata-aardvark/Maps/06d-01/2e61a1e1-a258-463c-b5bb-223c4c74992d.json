@@ -25,10 +25,10 @@
     "[1967 TO 1967]"
   ],
   "dct_spatial_sm": [
-    "Bay County, Michigan",
+    "Michigan--Bay County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.16805556,-83.69833333,43.99694444,43.47861111)",
+  "locn_geometry": "POLYGON((-84.16805556 43.99694444, -83.69833333 43.99694444, -83.69833333 43.47861111, -84.16805556 43.47861111, -84.16805556 43.99694444))",
   "dcat_bbox": "ENVELOPE(-84.16805556,-83.69833333,43.99694444,43.47861111)",
   "dcat_centroid": "43.737777775,-83.933194445",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "144.6 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1079\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1079/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1079/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1079/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1079\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1079/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1079/MODS/view\"}",
   "id": "2e61a1e1-a258-463c-b5bb-223c4c74992d",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m57942q5c"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

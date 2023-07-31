@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1785"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-104.4,-51.5,55.36,24.51)",
+  "locn_geometry": "POLYGON((-104.4 55.36, -51.5 55.36, -51.5 24.51, -104.4 24.51, -104.4 55.36))",
   "dcat_bbox": "ENVELOPE(-104.4,-51.5,55.36,24.51)",
   "dcat_centroid": "39.935,-77.95",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "9ba31e91-fe68-4105-a3a7-2e2873014247"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

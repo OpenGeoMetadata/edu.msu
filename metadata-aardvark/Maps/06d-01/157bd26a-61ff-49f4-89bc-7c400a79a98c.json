@@ -11,7 +11,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1906"
@@ -23,9 +24,9 @@
     "[1906 TO 1906]"
   ],
   "dct_spatial_sm": [
-    "Van Buren County, Michigan"
+    "Michigan--Van Buren County"
   ],
-  "locn_geometry": "ENVELOPE(-86.2236,-86.1082,42.244,42.1569)",
+  "locn_geometry": "POLYGON((-86.2236 42.244, -86.1082 42.244, -86.1082 42.1569, -86.2236 42.1569, -86.2236 42.244))",
   "dcat_bbox": "ENVELOPE(-86.2236,-86.1082,42.244,42.1569)",
   "dcat_centroid": "42.200450000000004,-86.1659",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,6 @@
   "dct_identifier_sm": [
     "157bd26a-61ff-49f4-89bc-7c400a79a98c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:47Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

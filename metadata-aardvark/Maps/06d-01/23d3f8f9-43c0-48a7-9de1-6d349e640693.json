@@ -8,7 +8,7 @@
   ],
   "dct_creator_sm": [
     "Michigan",
-    "State Highway Department"
+    "Michigan. State Highway Department"
   ],
   "dct_publisher_sm": [
     "Michigan",
@@ -21,7 +21,8 @@
   "dcat_keyword_sm": [
     "United States",
     "Public Roads Administration",
-    "Roads"
+    "Roads",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1940"
@@ -34,10 +35,10 @@
     "[1940 TO 1940]"
   ],
   "dct_spatial_sm": [
-    "Huron County, Michigan",
+    "Michigan--Huron County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.49611111,-82.60444444,44.07,43.6675)",
+  "locn_geometry": "POLYGON((-83.49611111 44.07, -82.60444444 44.07, -82.60444444 43.6675, -83.49611111 43.6675, -83.49611111 44.07))",
   "dcat_bbox": "ENVELOPE(-83.49611111,-82.60444444,44.07,43.6675)",
   "dcat_centroid": "43.86875,-83.050277775",
   "pcdm_memberOf_sm": [
@@ -55,11 +56,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "811.25 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1017\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1017/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1017/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1017/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1017\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1017/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1017/MODS/view\"}",
   "id": "23d3f8f9-43c0-48a7-9de1-6d349e640693",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5zs2n874"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:40:59Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

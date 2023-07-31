@@ -25,7 +25,8 @@
   "dcat_keyword_sm": [
     "Agricultural resources",
     "Land capability for agriculture",
-    "Soil productivity"
+    "Soil productivity",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1977"
@@ -38,10 +39,10 @@
     "[1977 TO 1977]"
   ],
   "dct_spatial_sm": [
-    "Genesee County, Michigan",
+    "Michigan--Genesee County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.9319,-83.4531,43.2231,42.7806)",
+  "locn_geometry": "POLYGON((-83.9319 43.2231, -83.4531 43.2231, -83.4531 42.7806, -83.9319 42.7806, -83.9319 43.2231))",
   "dcat_bbox": "ENVELOPE(-83.9319,-83.4531,43.2231,42.7806)",
   "dcat_centroid": "43.001850000000005,-83.6925",
   "pcdm_memberOf_sm": [
@@ -65,6 +66,6 @@
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5222t257"
   ],
-  "gbl_mdModified_dt": "2022-04-11T21:21:02Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }
