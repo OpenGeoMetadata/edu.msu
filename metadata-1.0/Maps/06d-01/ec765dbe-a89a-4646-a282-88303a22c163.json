@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-3.0301,-2.86,54.95,54.8301)",
   "solr_year_i": "1746",
   "dc_creator_sm": [
-    "Smith, G."
+    "Smith, G. (Cartographer)"
   ],
   "dc_description_s": "Title from cartouche. Includes inset drawing: The West prospect of Carlisle Castle. Includes index.: Original version published [London]: [Gentleman's Magazine], [1746?]; Scale approximately 1:50,000",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Magazines/621-c-B-1746Cumbria.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/JPEGS/621-c-B-1746Cumbria/\"}",
   "dct_spatial_sm": [
-    "Great Britain"
+    "England--Carlisle",
+    "England"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:44Z",
+  "layer_modified_dt": "2023-02-03T21:16:03Z",
   "dc_language_sm": [
     "eng"
   ],

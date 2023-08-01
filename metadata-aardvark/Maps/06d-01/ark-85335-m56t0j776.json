@@ -27,6 +27,10 @@
     "Real Property",
     "Landowners"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1936-1938"
   ],
@@ -38,29 +42,29 @@
     "[1936 TO 1938]"
   ],
   "dct_spatial_sm": [
-    "Newaygo County, Michigan",
+    "Michigan--Newaygo County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.920496,-85.800526,43.380372,43.292915)",
+  "locn_geometry": "POLYGON((-85.920496 43.380372, -85.800526 43.380372, -85.800526 43.292915, -85.920496 43.292915, -85.920496 43.380372))",
   "dcat_bbox": "ENVELOPE(-85.920496,-85.800526,43.380372,43.292915)",
   "dcat_centroid": "43.3366435,-85.860511",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "06d-01-01",
-    "06d-01"
+    "ark-85335-m56m34g21",
+    "06d-01-01"
   ],
   "dct_license_sm": [
     "https://creativecommons.org/publicdomain/mark/1.0/"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13208790\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/743/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:743/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/743\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/743/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13208790\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/743/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/743\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/743/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/743/MODS/view\"}",
   "id": "ark-85335-m56t0j776",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m56t0j776"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:33Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

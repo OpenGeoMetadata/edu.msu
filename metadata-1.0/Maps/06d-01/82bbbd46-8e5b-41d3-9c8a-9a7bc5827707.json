@@ -11,9 +11,9 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Michigan/montmorency_t29r1e.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/Michigan/montmorency_t29r1e\"}",
   "dct_spatial_sm": [
-    "Montmorency County, Michigan"
+    "Michigan--Montmorency County"
   ],
-  "layer_modified_dt": "2022-06-24T02:43:23Z",
+  "layer_modified_dt": "2023-02-03T21:11:33Z",
   "dc_language_sm": [
     "eng"
   ],

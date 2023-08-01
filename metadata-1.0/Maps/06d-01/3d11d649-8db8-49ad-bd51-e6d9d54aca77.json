@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(-122.51,-122.35,37.8001,37.68)",
   "solr_year_i": "1914",
   "dc_creator_sm": [
-    "Matthews-Northrup Works."
+    "Matthews-Northrup Works"
   ],
   "dc_description_s": "California invites the world, Panama-Pacific Exposition. Includes indexes and inset of \"San Francisco and adjacent territory.\" Text of \"San Francisco, what to see, how to see it,\" map of \"Southern Pacific and connections,\" and ill. on verso.: Original version published [San Francisco, Calif.] : Southern Pacific Co., 1914; Scale approximately 1:30,800",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/UnitedStates/813-d-1914-front.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/UnitedStates/813-d-1914-front\"}",
   "dct_spatial_sm": [
-    "San Francisco, California"
+    "California--San Francisco"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:18Z",
+  "layer_modified_dt": "2023-02-03T21:24:53Z",
   "dc_language_sm": [
     "eng"
   ],

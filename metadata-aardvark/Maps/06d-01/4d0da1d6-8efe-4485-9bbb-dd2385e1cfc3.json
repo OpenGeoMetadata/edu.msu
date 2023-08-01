@@ -28,10 +28,10 @@
     "[1975 TO 1975]"
   ],
   "dct_spatial_sm": [
-    "Genesee County, Michigan",
+    "Michigan--Genesee County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.91666667,-83.45,43.21666667,42.76666667)",
+  "locn_geometry": "POLYGON((-83.91666667 43.21666667, -83.45 43.21666667, -83.45 42.76666667, -83.91666667 42.76666667, -83.91666667 43.21666667))",
   "dcat_bbox": "ENVELOPE(-83.91666667,-83.45,43.21666667,42.76666667)",
   "dcat_centroid": "42.99166667,-83.683333335",
   "pcdm_memberOf_sm": [
@@ -49,11 +49,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "361.96 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1085\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1085/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1085/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1085/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1085\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1085/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1085/MODS/view\"}",
   "id": "4d0da1d6-8efe-4485-9bbb-dd2385e1cfc3",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5dz04x7f"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

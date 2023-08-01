@@ -4,14 +4,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Morse, Sidney, E."
+    "Morse, Sidney E. (Sidney Edwards), 1794-1871"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1844"
@@ -25,7 +26,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.42,-82.12,48.31,41.7)",
+  "locn_geometry": "POLYGON((-90.42 48.31, -82.12 48.31, -82.12 41.7, -90.42 41.7, -90.42 48.31))",
   "dcat_bbox": "ENVELOPE(-90.42,-82.12,48.31,41.7)",
   "dcat_centroid": "45.005,-86.27000000000001",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,6 @@
   "dct_identifier_sm": [
     "ddb898ac-94f9-47e1-9106-687a4f7509e8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:55Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

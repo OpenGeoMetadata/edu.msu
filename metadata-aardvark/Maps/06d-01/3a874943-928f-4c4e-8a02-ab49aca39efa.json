@@ -22,7 +22,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.51,-83.77,48.22,45.09)",
+  "locn_geometry": "POLYGON((-90.51 48.22, -83.77 48.22, -83.77 45.09, -90.51 45.09, -90.51 48.22))",
   "dcat_bbox": "ENVELOPE(-90.51,-83.77,48.22,45.09)",
   "dcat_centroid": "46.655,-87.14",
   "pcdm_memberOf_sm": [
@@ -38,6 +38,6 @@
   "dct_identifier_sm": [
     "3a874943-928f-4c4e-8a02-ab49aca39efa"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:37Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

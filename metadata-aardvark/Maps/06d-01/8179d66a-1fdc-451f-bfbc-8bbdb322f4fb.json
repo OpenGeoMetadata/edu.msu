@@ -16,6 +16,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1953"
   ],
@@ -27,10 +31,10 @@
     "[1953 TO 1953]"
   ],
   "dct_spatial_sm": [
-    "Grand Traverse County, Michigan",
+    "Michigan--Grand Traverse County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.82027778,-85.33166667,45.00027778,44.51138889)",
+  "locn_geometry": "POLYGON((-85.82027778 45.00027778, -85.33166667 45.00027778, -85.33166667 44.51138889, -85.82027778 44.51138889, -85.82027778 45.00027778))",
   "dcat_bbox": "ENVELOPE(-85.82027778,-85.33166667,45.00027778,44.51138889)",
   "dcat_centroid": "44.755833335,-85.575972225",
   "pcdm_memberOf_sm": [
@@ -48,11 +52,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "367 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1076\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1076/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1076/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1076/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1076\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1076/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1076/MODS/view\"}",
   "id": "8179d66a-1fdc-451f-bfbc-8bbdb322f4fb",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5fx75t8m"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

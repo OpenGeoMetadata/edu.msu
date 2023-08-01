@@ -27,10 +27,10 @@
     "[1973 TO 1973]"
   ],
   "dct_spatial_sm": [
-    "Baraga County, Michigan",
+    "Michigan--Baraga County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-88.68194444,-87.99166667,46.96694444,46.41888889)",
+  "locn_geometry": "POLYGON((-88.68194444 46.96694444, -87.99166667 46.96694444, -87.99166667 46.41888889, -88.68194444 46.41888889, -88.68194444 46.96694444))",
   "dcat_bbox": "ENVELOPE(-88.68194444,-87.99166667,46.96694444,46.41888889)",
   "dcat_centroid": "46.692916665,-88.336805555",
   "pcdm_memberOf_sm": [
@@ -48,11 +48,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "249.56 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1035\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1035/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1035/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1035/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1035\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1035/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1035/MODS/view\"}",
   "id": "4c6926b9-33cf-47c7-bd3e-d2ea518c94f2",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m50v8cd0h"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

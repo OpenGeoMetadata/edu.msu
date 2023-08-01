@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88.16,-81.66,47.16,41.16)",
   "solr_year_i": "1822",
   "dc_creator_sm": [
-    "Finlayson, James"
+    "Finlayson, J. (James)"
   ],
   "dc_description_s": "Shows portions of Wisconsin, Illinois, Indiana, Ohio, and Ontario. Relief shown by hachures. Title in upper margin: Geographical, statistical, and historical map of Michigan Territory. Text in side panels. Prime meridian: Washington. \"No. 36.\" From A complete historical, chronological, and geographical American atlas ... / H.C. Carey and I. Lea. 1822.: Original version published [Philadelphia] : [Carey & Lea], [1822]; Scale approximately 1:1,900,000",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:20Z",
+  "layer_modified_dt": "2023-02-03T21:22:22Z",
   "dc_language_sm": [
     "eng"
   ],

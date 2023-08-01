@@ -25,7 +25,7 @@
   "dct_spatial_sm": [
     "Jamaica"
   ],
-  "locn_geometry": "ENVELOPE(-76.8455,-76.838,17.9404,17.9333)",
+  "locn_geometry": "POLYGON((-76.8455 17.9404, -76.838 17.9404, -76.838 17.9333, -76.8455 17.9333, -76.8455 17.9404))",
   "dcat_bbox": "ENVELOPE(-76.8455,-76.838,17.9404,17.9333)",
   "dcat_centroid": "17.93685,-76.84174999999999",
   "pcdm_memberOf_sm": [
@@ -41,6 +41,6 @@
   "dct_identifier_sm": [
     "7c274ad5-9c89-47b4-87ab-3332cc62437c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:21Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -25,10 +25,10 @@
     "[1963 TO 1963]"
   ],
   "dct_spatial_sm": [
-    "Alpena County, Michigan",
+    "Michigan--Alpena County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.88833333,-83.19027778,45.20694444,44.85638889)",
+  "locn_geometry": "POLYGON((-83.88833333 45.20694444, -83.19027778 45.20694444, -83.19027778 44.85638889, -83.88833333 44.85638889, -83.88833333 45.20694444))",
   "dcat_bbox": "ENVELOPE(-83.88833333,-83.19027778,45.20694444,44.85638889)",
   "dcat_centroid": "45.031666665,-83.539305555",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "308.13 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1039\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1039/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1039/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1039/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1039\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1039/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1039/MODS/view\"}",
   "id": "9d27a0c8-e4ea-4577-a42d-469fae39c823",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5kd1sg10"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

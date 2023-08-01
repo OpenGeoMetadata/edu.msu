@@ -8,9 +8,9 @@
   "solr_geom": "ENVELOPE(-18.6,52.3,37.16,-35.3)",
   "solr_year_i": "1841",
   "dc_creator_sm": [
-    "Samuel G. Goodrich",
-    "George W. Boynton",
-    "Charles D. Strong"
+    "Boynton, George W., -1884",
+    "Charles D. Strong",
+    "Goodrich, Samuel G. (Samuel Griswold), 1793-1860"
   ],
   "dc_description_s": "Relief shown by hachures. Shows boundaries. Shows names of places, regions, and physical features. \"Entered according to Act of Congress in the year 1841 by S.G. Goodrich in the Clerks Office of the District Court of Massachusetts.\" \"49.\" Plate 49, detached from atlas: Goodrich, Samuel G. (Samuel Griswold), 1793-1860. A general atlas of the world. Boston: C.D. Strong, 1841. Prime meridian: Greenwich. Scale approximately 1:27,000,000.",
   "dc_format_s": "JPEG",
@@ -18,7 +18,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:52Z",
+  "layer_modified_dt": "2023-02-03T21:16:13Z",
   "dc_language_sm": [
     "eng"
   ],

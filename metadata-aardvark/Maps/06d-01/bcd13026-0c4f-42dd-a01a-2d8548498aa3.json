@@ -24,10 +24,10 @@
     "[1966 TO 1966]"
   ],
   "dct_spatial_sm": [
-    "Branch County, Michigan",
+    "Michigan--Branch County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.29361111,-84.82416667,42.07333333,41.75916667)",
+  "locn_geometry": "POLYGON((-85.29361111 42.07333333, -84.82416667 42.07333333, -84.82416667 41.75916667, -85.29361111 41.75916667, -85.29361111 42.07333333))",
   "dcat_bbox": "ENVELOPE(-85.29361111,-84.82416667,42.07333333,41.75916667)",
   "dcat_centroid": "41.91625,-85.05888888999999",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "177.59 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1064\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1064/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1064/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1064/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1064\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1064/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1064/MODS/view\"}",
   "id": "bcd13026-0c4f-42dd-a01a-2d8548498aa3",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5r49j569"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:40:59Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

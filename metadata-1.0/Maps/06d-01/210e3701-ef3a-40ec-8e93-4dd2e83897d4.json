@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-96,-52,52,41)",
   "solr_year_i": "1755",
   "dc_creator_sm": [
-    "Robert de Vaugondy, Gilles"
+    "Robert de Vaugondy, Gilles, 1688-1766"
   ],
   "dc_description_s": "Relief shown pictorially and by hachures. Prime meridian: [Ferro]. \"par le Sr. Robert de Vaugondy, géog? ordinaire du roi ; C. Haussard, sculp.\" Cf. Karpinski, LXIV. Inset: Supplement pour les lacs du Canada. Original version published [Paris]: [Robert de Vaugondy], 1755. Scale approximately 1:4,000,000",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Great Lakes"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:20Z",
+  "layer_modified_dt": "2023-02-03T21:23:14Z",
   "dc_language_sm": [
     "eng"
   ],

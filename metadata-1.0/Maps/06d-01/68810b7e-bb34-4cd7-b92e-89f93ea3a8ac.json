@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-93,-40,65,30)",
   "solr_year_i": "1721",
   "dc_creator_sm": [
-    "Sanson, Nicolas"
+    "Sanson, Nicolas, 1600-1667"
   ],
   "dc_description_s": "Relief shown pictorially. Author attribution based on LC's cataloging of earlier variant of same title, and Cumming 129, published \"chez Pierre Mortier Libraire,\" [1700]. \"Avec privilege de nos Seigneurs les Etats.\" J. Covens and C. Mortier began operating as a firm in 1721--Stock catalogs of maps and atlases by Covens & Mortier, p. 11. Originally printed on 2 sheets. Includes inset of Boston harbor area.: Original version published Amsterdam: Chez Jean Cóvens et Corneille Mortier, [172-?]. Scale approximately 1:6,000,000",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:57Z",
+  "layer_modified_dt": "2023-02-03T21:17:24Z",
   "dc_language_sm": [
     "eng"
   ],

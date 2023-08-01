@@ -25,7 +25,7 @@
   "dct_spatial_sm": [
     "Great Lakes"
   ],
-  "locn_geometry": "ENVELOPE(9.6,18.83,54.95,50.86)",
+  "locn_geometry": "POLYGON((9.6 54.95, 18.83 54.95, 18.83 50.86, 9.6 50.86, 9.6 54.95))",
   "dcat_bbox": "ENVELOPE(9.6,18.83,54.95,50.86)",
   "dcat_centroid": "52.905,14.215",
   "pcdm_memberOf_sm": [
@@ -41,6 +41,6 @@
   "dct_identifier_sm": [
     "90e58745-de41-4b35-a02f-2fc6f53c28ff"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:58Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

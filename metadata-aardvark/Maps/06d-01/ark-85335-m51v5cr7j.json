@@ -27,6 +27,10 @@
     "Real Property",
     "Landowners"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1927-1945"
   ],
@@ -41,26 +45,26 @@
     "Calhoun County Michigan",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.946902,-84.82867,42.422196,42.334087)",
+  "locn_geometry": "POLYGON((-84.946902 42.422196, -84.82867 42.422196, -84.82867 42.334087, -84.946902 42.334087, -84.946902 42.422196))",
   "dcat_bbox": "ENVELOPE(-84.946902,-84.82867,42.422196,42.334087)",
   "dcat_centroid": "42.3781415,-84.887786",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "06d-01-01",
-    "06d-01"
+    "ark-85335-m5rv0fc34",
+    "06d-01-01"
   ],
   "dct_license_sm": [
     "https://creativecommons.org/publicdomain/mark/1.0/"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159047\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/253/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:253/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/253\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/253/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159047\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/253/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/253\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/253/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/253/MODS/view\"}",
   "id": "ark-85335-m51v5cr7j",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m51v5cr7j"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:48Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

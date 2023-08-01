@@ -5,7 +5,7 @@
   "dc_title_s": "South Porter, Township 8S Range 13W: Cass County, Michigan",
   "dct_provenance_s": "Michigan State University",
   "layer_slug_s": "ark-85335-m5086370b",
-  "solr_geom": "ENVELOPE(-85.791753,-85.790597,41.761236,41.759483)",
+  "solr_geom": "ENVELOPE(-85.872817,-85.782524,41.806667,41.759338)",
   "solr_year_i": "1920",
   "dc_creator_sm": [
     "W.W. Hixson & Co."
@@ -16,12 +16,12 @@
     "Real Property",
     "Landowners"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b12942201\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/97/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:97/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/97\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/97/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b12942201\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/97/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/97\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/97/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/97/MODS/view\"}",
   "dct_spatial_sm": [
-    "Cass County, Michigan",
+    "Michigan--Cass County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:18Z",
+  "layer_modified_dt": "2023-06-23T18:47:35Z",
   "dc_language_sm": [
     "eng"
   ],

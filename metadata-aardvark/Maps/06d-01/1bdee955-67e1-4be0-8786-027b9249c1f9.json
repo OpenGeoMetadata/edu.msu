@@ -28,10 +28,10 @@
     "[1966 TO 1966]"
   ],
   "dct_spatial_sm": [
-    "Clinton County, Michigan",
+    "Michigan--Clinton County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.83333333,-84.38333333,43.11666667,42.775)",
+  "locn_geometry": "POLYGON((-84.83333333 43.11666667, -84.38333333 43.11666667, -84.38333333 42.775, -84.83333333 42.775, -84.83333333 43.11666667))",
   "dcat_bbox": "ENVELOPE(-84.83333333,-84.38333333,43.11666667,42.775)",
   "dcat_centroid": "42.945833335,-84.60833333",
   "pcdm_memberOf_sm": [
@@ -49,11 +49,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "118.9 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1067\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1067/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1067/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1067/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1067\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1067/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1067/MODS/view\"}",
   "id": "1bdee955-67e1-4be0-8786-027b9249c1f9",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m52f7mm9j"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

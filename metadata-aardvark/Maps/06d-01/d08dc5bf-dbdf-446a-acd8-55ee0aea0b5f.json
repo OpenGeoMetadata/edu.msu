@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bonne, Rigobert"
+    "Bonne, Rigobert, 1727-1794"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1780-1789"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Eastern Hemisphere"
   ],
-  "locn_geometry": "ENVELOPE(-14.13,167.35,60.83,-35.08)",
+  "locn_geometry": "POLYGON((-14.13 60.83, 167.35 60.83, 167.35 -35.08, -14.13 -35.08, -14.13 60.83))",
   "dcat_bbox": "ENVELOPE(-14.13,167.35,60.83,-35.08)",
   "dcat_centroid": "12.875,76.61",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "d08dc5bf-dbdf-446a-acd8-55ee0aea0b5f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

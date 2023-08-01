@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Anville, Jean Baptiste Bourguignon d'"
+    "Anville, Jean Baptiste Bourguignon d', 1697-1782"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1754"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(-17.78,43.71,37.51,5)",
+  "locn_geometry": "POLYGON((-17.78 37.51, 43.71 37.51, 43.71 5, -17.78 5, -17.78 37.51))",
   "dcat_bbox": "ENVELOPE(-17.78,43.71,37.51,5)",
   "dcat_centroid": "21.255,12.965",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "d644148f-deed-460b-844b-530c1b9ea247"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:38Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

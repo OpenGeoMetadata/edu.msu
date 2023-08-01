@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-87.33,-82.12,48.31,41.7)",
   "solr_year_i": "1873",
   "dc_creator_sm": [
-    "John Farmer"
+    "Farmer, John, 1798-1859"
   ],
   "dc_description_s": "Map of Michigan showing surveyed counties, cities and towns, townships and township names, and section lines. Shows county seats, Indian villages, Indian reserves, railroads, mills, prairies, swamps and marshes, canals, and roads. Plank roads and \"most important roads\" are indicated. Shows distances in miles between various points on Lake Michigan and Lake Huron. Shoreline conditions are noted (rockiness, steepness, wooded banks, etc.) Town of \"Rio Grand\" is shown north of Lansing, in Lansing Township, Ingham County. Town of \"Grand River City\" is shown west of Lansing, in Delta Township, Eaton County. \"Note. Michigan is bounded west by Lake Michigan, Menomonie River of Green Bay and Montreal River of Lake Superior.\" \"Entered according to act of Congress in the Clerks Office of the District Court of the United States for the District of Michigan at Detroit on the 11th day of March 1844 by John Farmer of Detroit. Entered according to Act of Congress as aforesaid on the 6th day of March A.D. 1849.\" \"Entered according to Act of Congress, in thee year 1873 by Silas Farmer, in the office of the Librarian of Congress, at Washington.\": Scale approximately 1:785,000.",
   "dc_format_s": "JPEG",
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2022-06-24T02:43:33Z",
+  "layer_modified_dt": "2023-02-03T21:21:40Z",
   "dc_language_sm": [
     "eng"
   ],

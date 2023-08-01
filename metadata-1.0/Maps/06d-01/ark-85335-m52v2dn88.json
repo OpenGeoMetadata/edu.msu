@@ -2,7 +2,7 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "https://n2t.net/ark:/85335/m52v2dn88",
   "dc_rights_s": "Public",
-  "dc_title_s": "Manistee County, Michigan",
+  "dc_title_s": "Plat Book of Manistee County, Michigan",
   "dct_provenance_s": "Michigan State University",
   "layer_slug_s": "ark-85335-m52v2dn88",
   "solr_geom": "ENVELOPE(-86.3882,-85.8202,44.5186,44.1634)",
@@ -16,12 +16,12 @@
     "Real Property",
     "Landowners"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13208170\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/694/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:694/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/694\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/694/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13208170\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/694/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/694\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/694/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/694/MODS/view\"}",
   "dct_spatial_sm": [
-    "Manistee County, Michigan",
+    "Michigan--Manistee County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:56Z",
+  "layer_modified_dt": "2023-05-12T20:38:05Z",
   "dc_language_sm": [
     "eng"
   ],

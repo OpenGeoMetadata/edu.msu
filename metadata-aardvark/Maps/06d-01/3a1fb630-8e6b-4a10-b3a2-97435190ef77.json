@@ -20,9 +20,9 @@
     "[1906 TO 1906]"
   ],
   "dct_spatial_sm": [
-    "Washington, D.C."
+    "D.C.--Washington"
   ],
-  "locn_geometry": "ENVELOPE(-77.1198,-76.9094,38.9955,38.7916)",
+  "locn_geometry": "POLYGON((-77.1198 38.9955, -76.9094 38.9955, -76.9094 38.7916, -77.1198 38.7916, -77.1198 38.9955))",
   "dcat_bbox": "ENVELOPE(-77.1198,-76.9094,38.9955,38.7916)",
   "dcat_centroid": "38.893550000000005,-77.0146",
   "pcdm_memberOf_sm": [
@@ -38,6 +38,6 @@
   "dct_identifier_sm": [
     "3a1fb630-8e6b-4a10-b3a2-97435190ef77"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:45Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

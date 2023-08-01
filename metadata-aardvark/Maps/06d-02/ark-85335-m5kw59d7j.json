@@ -25,7 +25,8 @@
   "dcat_keyword_sm": [
     "Agricultural resources",
     "Land capability for agriculture",
-    "Soil productivity"
+    "Soil productivity",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1982"
@@ -38,10 +39,10 @@
     "[1982 TO 1982]"
   ],
   "dct_spatial_sm": [
-    "Ingham County, Michigan",
+    "Michigan--Ingham County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.6036,-84.1406,42.7764,42.4214)",
+  "locn_geometry": "POLYGON((-84.6036 42.7764, -84.1406 42.7764, -84.1406 42.4214, -84.6036 42.4214, -84.6036 42.7764))",
   "dcat_bbox": "ENVELOPE(-84.6036,-84.1406,42.7764,42.4214)",
   "dcat_centroid": "42.5989,-84.3721",
   "pcdm_memberOf_sm": [
@@ -65,6 +66,6 @@
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5kw59d7j"
   ],
-  "gbl_mdModified_dt": "2022-04-11T21:21:02Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

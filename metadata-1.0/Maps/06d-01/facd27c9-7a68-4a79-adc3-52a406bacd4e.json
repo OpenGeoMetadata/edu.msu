@@ -9,11 +9,11 @@
   "solr_year_i": "1965",
   "dc_description_s": "Scale approximately 1:125,000; Includes index, promotional text, color illustrations, inset of Beaver Island, and 1965 Beaver Island Boat Company schedule.",
   "dc_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1031\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1031/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1031/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1031/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1031\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1031/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1031/MODS/view\"}",
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2022-05-17T20:40:59Z",
+  "layer_modified_dt": "2023-05-12T20:37:41Z",
   "dc_language_sm": [
     "eng"
   ],

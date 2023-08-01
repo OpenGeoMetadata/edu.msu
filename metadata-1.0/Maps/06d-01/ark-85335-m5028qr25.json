@@ -16,12 +16,12 @@
     "Real Property",
     "Landowners"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159145\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/390/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:390/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/390\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/390/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159145\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/390/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/390\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/390/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/390/MODS/view\"}",
   "dct_spatial_sm": [
-    "Alcona County, Michigan",
+    "Michigan--Alcona County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:16Z",
+  "layer_modified_dt": "2023-05-12T20:37:55Z",
   "dc_language_sm": [
     "eng"
   ],

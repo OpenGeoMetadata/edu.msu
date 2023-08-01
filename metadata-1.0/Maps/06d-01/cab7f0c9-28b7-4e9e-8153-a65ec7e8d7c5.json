@@ -5,17 +5,17 @@
   "dc_title_s": "Map of North America",
   "dct_provenance_s": "Michigan State University",
   "layer_slug_s": "cab7f0c9-28b7-4e9e-8153-a65ec7e8d7c5",
-  "solr_geom": "ENVELOPE(170.6,-8.3,84,5.5)",
+  "solr_geom": "ENVELOPE(-169.2,-41.5,81.2,4.0)",
   "solr_year_i": "1866",
   "dc_creator_sm": [
-    "Mitchell, S. Augustus"
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868"
   ],
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/North_America_Canada/NA-G1019M67-1867.jpg\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/North_America_Canada/NA-G1019M67-1867.jpg\",\"http://iiif.io/api/presentation#manifest\":\"/manifest\",\"http://www.loc.gov/mods/v3\":\"/MODS/view\"}",
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:23Z",
+  "layer_modified_dt": "2023-06-23T18:47:32Z",
   "dc_language_sm": [
     "eng"
   ],

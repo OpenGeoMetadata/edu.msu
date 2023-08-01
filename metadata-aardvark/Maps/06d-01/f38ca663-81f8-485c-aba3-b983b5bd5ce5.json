@@ -26,10 +26,10 @@
     "[1948 TO 1948]"
   ],
   "dct_spatial_sm": [
-    "Cass County, Michigan",
+    "Michigan--Cass County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-86.22527778,-85.75916667,42.07138889,41.75888889)",
+  "locn_geometry": "POLYGON((-86.22527778 42.07138889, -85.75916667 42.07138889, -85.75916667 41.75888889, -86.22527778 41.75888889, -86.22527778 42.07138889))",
   "dcat_bbox": "ENVELOPE(-86.22527778,-85.75916667,42.07138889,41.75888889)",
   "dcat_centroid": "41.91513889,-85.992222225",
   "pcdm_memberOf_sm": [
@@ -47,11 +47,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "198.83 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1045\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1045/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1045/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1045/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1045\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1045/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1045/MODS/view\"}",
   "id": "f38ca663-81f8-485c-aba3-b983b5bd5ce5",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5fn12n83"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

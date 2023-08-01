@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-18.6,52.3,37.13,-35.3)",
   "solr_year_i": "1828",
   "dc_creator_sm": [
-    "Brué, Adrien Hubert"
+    "Brué, Adrien Hubert, 1786-1832"
   ],
   "dc_description_s": "Relief indicated by hachures. Includes text. Paris meridian.Original version published Paris: Brue, 1828. Scale approximately 1:24,710,400",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:11Z",
+  "layer_modified_dt": "2023-02-03T21:17:23Z",
   "dc_language_sm": [
     "eng"
   ],

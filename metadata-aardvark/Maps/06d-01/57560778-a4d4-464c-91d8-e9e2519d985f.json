@@ -27,10 +27,10 @@
     "[1958 TO 1958]"
   ],
   "dct_spatial_sm": [
-    "Benzie County, Michigan",
+    "Michigan--Benzie County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-86.25916667,-85.81583333,44.7775,44.51166667)",
+  "locn_geometry": "POLYGON((-86.25916667 44.7775, -85.81583333 44.7775, -85.81583333 44.51166667, -86.25916667 44.51166667, -86.25916667 44.7775))",
   "dcat_bbox": "ENVELOPE(-86.25916667,-85.81583333,44.7775,44.51166667)",
   "dcat_centroid": "44.644583335,-86.0375",
   "pcdm_memberOf_sm": [
@@ -48,11 +48,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "127.51 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1091\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1091/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1091/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1091/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1091\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1091/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1091/MODS/view\"}",
   "id": "57560778-a4d4-464c-91d8-e9e2519d985f",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5x060824"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

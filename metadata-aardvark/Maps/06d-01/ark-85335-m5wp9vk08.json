@@ -21,11 +21,16 @@
     "Maps"
   ],
   "gbl_resourceType_sm": [
+    "Atlases",
     "Cadastral maps"
   ],
   "dct_subject_sm": [
     "Real Property",
     "Landowners"
+  ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1927-1936"
@@ -38,10 +43,10 @@
     "[1927 TO 1936]"
   ],
   "dct_spatial_sm": [
-    "Luce County, Michigan",
+    "Michigan--Luce County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.8652,-85.2368,46.7552,46.2447)",
+  "locn_geometry": "POLYGON((-85.8652 46.7552, -85.2368 46.7552, -85.2368 46.2447, -85.8652 46.2447, -85.8652 46.7552))",
   "dcat_bbox": "ENVELOPE(-85.8652,-85.2368,46.7552,46.2447)",
   "dcat_centroid": "46.49995,-85.551",
   "pcdm_memberOf_sm": [
@@ -56,11 +61,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13293221\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/918/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:918/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/918\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/918/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13293221\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/918\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/918/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/918/MODS/view\"}",
   "id": "ark-85335-m5wp9vk08",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5wp9vk08"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:44Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

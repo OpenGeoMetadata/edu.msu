@@ -25,7 +25,8 @@
   "dcat_keyword_sm": [
     "Agricultural resources",
     "Land capability for agriculture",
-    "Soil productivity"
+    "Soil productivity",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1985"
@@ -38,10 +39,10 @@
     "[1985 TO 1985]"
   ],
   "dct_spatial_sm": [
-    "Oakland County, Michigan",
+    "Michigan--Oakland County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.6892,-83.0833,42.8886,42.4311)",
+  "locn_geometry": "POLYGON((-83.6892 42.8886, -83.0833 42.8886, -83.0833 42.4311, -83.6892 42.4311, -83.6892 42.8886))",
   "dcat_bbox": "ENVELOPE(-83.6892,-83.0833,42.8886,42.4311)",
   "dcat_centroid": "42.65985,-83.38624999999999",
   "pcdm_memberOf_sm": [
@@ -65,6 +66,6 @@
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5mw2b97s"
   ],
-  "gbl_mdModified_dt": "2022-04-11T21:21:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

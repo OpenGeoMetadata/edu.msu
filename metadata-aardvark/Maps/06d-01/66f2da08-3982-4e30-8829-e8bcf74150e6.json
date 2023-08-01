@@ -7,14 +7,17 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Gentleman's Magazine"
+    "Gentleman's magazine (London, England)"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1775"
@@ -26,11 +29,11 @@
     "[1775 TO 1775]"
   ],
   "dct_spatial_sm": [
-    "Boston, Massachusetts"
+    "Massachusetts--Boston"
   ],
-  "locn_geometry": "ENVELOPE(-71.0501,-71.05,42.3601,42.36)",
-  "dcat_bbox": "ENVELOPE(-71.0501,-71.05,42.3601,42.36)",
-  "dcat_centroid": "42.36005,-71.05005",
+  "locn_geometry": "POLYGON((-71.071461 42.384788, -71.044596 42.384788, -71.044596 42.36862, -71.071461 42.36862, -71.071461 42.384788))",
+  "dcat_bbox": "ENVELOPE(-71.071461,-71.044596,42.384788,42.36862)",
+  "dcat_centroid": "42.376704000000004,-71.0580285",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,6 +47,6 @@
   "dct_identifier_sm": [
     "66f2da08-3982-4e30-8829-e8bcf74150e6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:39Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -25,7 +25,8 @@
   "dcat_keyword_sm": [
     "Agricultural resources",
     "Land capability for agriculture",
-    "Soil productivity"
+    "Soil productivity",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1977"
@@ -38,10 +39,10 @@
     "[1977 TO 1977]"
   ],
   "dct_spatial_sm": [
-    "Ottawa County, Michigan",
+    "Michigan--Ottawa County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-86.2717,-85.7819,43.2058,42.7675)",
+  "locn_geometry": "POLYGON((-86.2717 43.2058, -85.7819 43.2058, -85.7819 42.7675, -86.2717 42.7675, -86.2717 43.2058))",
   "dcat_bbox": "ENVELOPE(-86.2717,-85.7819,43.2058,42.7675)",
   "dcat_centroid": "42.98665,-86.0268",
   "pcdm_memberOf_sm": [
@@ -65,6 +66,6 @@
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5wd3rx4d"
   ],
-  "gbl_mdModified_dt": "2022-04-11T21:21:02Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

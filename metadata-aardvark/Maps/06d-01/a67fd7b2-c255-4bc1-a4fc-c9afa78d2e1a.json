@@ -7,16 +7,17 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Coyle, Randolph,cartographer.",
-    "American Colonization Society.",
-    "Edward Weber & Co.,lithographer."
+    "American Colonization Society",
+    "Coyle, Randolph",
+    "Edward Weber & Co., lithographer."
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1845"
@@ -30,7 +31,7 @@
   "dct_spatial_sm": [
     "Liberia"
   ],
-  "locn_geometry": "ENVELOPE(-11.46,-7.36,8.55,4.3)",
+  "locn_geometry": "POLYGON((-11.46 8.55, -7.36 8.55, -7.36 4.3, -11.46 4.3, -11.46 8.55))",
   "dcat_bbox": "ENVELOPE(-11.46,-7.36,8.55,4.3)",
   "dcat_centroid": "6.425000000000001,-9.41",
   "pcdm_memberOf_sm": [
@@ -46,6 +47,6 @@
   "dct_identifier_sm": [
     "a67fd7b2-c255-4bc1-a4fc-c9afa78d2e1a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:43Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

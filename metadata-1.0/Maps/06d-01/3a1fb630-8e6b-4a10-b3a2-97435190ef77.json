@@ -10,9 +10,9 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/UnitedStates/822-C-1906-schools.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/UnitedStates/822-C-1906-schools\"}",
   "dct_spatial_sm": [
-    "Washington, D.C."
+    "D.C.--Washington"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:45Z",
+  "layer_modified_dt": "2023-02-03T21:21:32Z",
   "dc_language_sm": [
     "eng"
   ],

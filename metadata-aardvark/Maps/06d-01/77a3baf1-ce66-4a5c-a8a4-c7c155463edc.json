@@ -8,7 +8,9 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1903"
@@ -22,9 +24,9 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(170.6,-66.9,71.5,18.8)",
-  "dcat_bbox": "ENVELOPE(170.6,-66.9,71.5,18.8)",
-  "dcat_centroid": "45.15,51.849999999999994",
+  "locn_geometry": "POLYGON((-126.2 50.1, -64.4 50.1, -64.4 24.1, -126.2 24.1, -126.2 50.1))",
+  "dcat_bbox": "ENVELOPE(-126.2,-64.4,50.1,24.1)",
+  "dcat_centroid": "37.1,-95.30000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -38,6 +40,6 @@
   "dct_identifier_sm": [
     "77a3baf1-ce66-4a5c-a8a4-c7c155463edc"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:19Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

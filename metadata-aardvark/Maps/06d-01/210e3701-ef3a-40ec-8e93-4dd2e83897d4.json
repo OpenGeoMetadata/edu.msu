@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Robert de Vaugondy, Gilles"
+    "Robert de Vaugondy, Gilles, 1688-1766"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1755"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Great Lakes"
   ],
-  "locn_geometry": "ENVELOPE(-96,-52,52,41)",
+  "locn_geometry": "POLYGON((-96 52, -52 52, -52 41, -96 41, -96 52))",
   "dcat_bbox": "ENVELOPE(-96,-52,52,41)",
   "dcat_centroid": "46.5,-74.0",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "210e3701-ef3a-40ec-8e93-4dd2e83897d4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

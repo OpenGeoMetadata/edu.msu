@@ -4,14 +4,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Jeffreys, Thomas"
+    "Jefferys, Thomas, -1771"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1748"
@@ -25,7 +26,7 @@
   "dct_spatial_sm": [
     "Baltic Sea"
   ],
-  "locn_geometry": "ENVELOPE(2.2,28.3,65.7,51.7)",
+  "locn_geometry": "POLYGON((2.2 65.7, 28.3 65.7, 28.3 51.7, 2.2 51.7, 2.2 65.7))",
   "dcat_bbox": "ENVELOPE(2.2,28.3,65.7,51.7)",
   "dcat_centroid": "58.7,15.25",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,6 @@
   "dct_identifier_sm": [
     "cdbaabc5-143a-41a3-bb70-5ff2fa49dbde"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:30Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Sanson, Nicolas"
+    "Sanson, Nicolas, 1600-1667"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1721"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-93,-40,65,30)",
+  "locn_geometry": "POLYGON((-93 65, -40 65, -40 30, -93 30, -93 65))",
   "dcat_bbox": "ENVELOPE(-93,-40,65,30)",
   "dcat_centroid": "47.5,-66.5",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "68810b7e-bb34-4cd7-b92e-89f93ea3a8ac"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

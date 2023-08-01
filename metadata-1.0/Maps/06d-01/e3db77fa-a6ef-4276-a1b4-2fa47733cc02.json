@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(8.43,29.96,0,-26)",
   "solr_year_i": "1801",
   "dc_creator_sm": [
-    "Reinecke, J. C. M.(Johann Christoph Matthias)"
+    "Reinecke, J. C. M. (Johann Christoph Matthias), 1770-1818"
   ],
   "dc_description_s": "Relief shown by hachures. Covers central Africa from Angola in the south to Mozambique, Zambia, and Congo in the north. In right margin: \"An dieses blatt schliesst sich die charte von der Kafferkuste.\": Original version published Weimar: Verlage des Industrie Comptoirs, 1801. Scale approximately 1:6,000,000",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:02Z",
+  "layer_modified_dt": "2023-02-03T21:17:30Z",
   "dc_language_sm": [
     "eng"
   ],

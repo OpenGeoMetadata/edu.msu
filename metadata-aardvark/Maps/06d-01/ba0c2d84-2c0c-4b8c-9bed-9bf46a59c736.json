@@ -28,10 +28,10 @@
     "[1965 TO 1965]"
   ],
   "dct_spatial_sm": [
-    "Houghton County, Michigan",
+    "Michigan--Houghton County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-88.98333333,-88.21666667,47.28333333,46.41666667)",
+  "locn_geometry": "POLYGON((-88.98333333 47.28333333, -88.21666667 47.28333333, -88.21666667 46.41666667, -88.98333333 46.41666667, -88.98333333 47.28333333))",
   "dcat_bbox": "ENVELOPE(-88.98333333,-88.21666667,47.28333333,46.41666667)",
   "dcat_centroid": "46.849999999999994,-88.6",
   "pcdm_memberOf_sm": [
@@ -49,11 +49,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "206.22 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1016\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1016/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1016/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1016/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1016\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1016/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1016/MODS/view\"}",
   "id": "ba0c2d84-2c0c-4b8c-9bed-9bf46a59c736",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m56971t6m"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:40:59Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

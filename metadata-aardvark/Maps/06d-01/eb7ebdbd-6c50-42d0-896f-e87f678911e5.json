@@ -26,10 +26,10 @@
     "[1975 TO 1975]"
   ],
   "dct_spatial_sm": [
-    "Cheboygan County, Michigan",
+    "Michigan--Cheboygan County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.73388889,-84.2475,45.78861111,45.19833333)",
+  "locn_geometry": "POLYGON((-84.73388889 45.78861111, -84.2475 45.78861111, -84.2475 45.19833333, -84.73388889 45.19833333, -84.73388889 45.78861111))",
   "dcat_bbox": "ENVELOPE(-84.73388889,-84.2475,45.78861111,45.19833333)",
   "dcat_centroid": "45.49347222,-84.490694445",
   "pcdm_memberOf_sm": [
@@ -47,11 +47,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "339.32 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1082\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1082/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1082/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1082/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1082\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1082/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1082/MODS/view\"}",
   "id": "eb7ebdbd-6c50-42d0-896f-e87f678911e5",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5ws8kg7n"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:40:59Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

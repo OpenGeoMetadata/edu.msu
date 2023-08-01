@@ -27,6 +27,10 @@
     "Real Property",
     "Landowners"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_temporal_sm": [
     "1927-1939"
   ],
@@ -38,29 +42,29 @@
     "[1927 TO 1939]"
   ],
   "dct_spatial_sm": [
-    "Kalkaska County, Michigan",
+    "Michigan--Kalkaska County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.211917,-85.093914,44.684852,44.596749)",
+  "locn_geometry": "POLYGON((-85.211917 44.684852, -85.093914 44.684852, -85.093914 44.596749, -85.211917 44.596749, -85.211917 44.684852))",
   "dcat_bbox": "ENVELOPE(-85.211917,-85.093914,44.684852,44.596749)",
   "dcat_centroid": "44.6408005,-85.1529155",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "06d-01-01",
-    "06d-01"
+    "ark-85335-m5ht2hp94",
+    "06d-01-01"
   ],
   "dct_license_sm": [
     "https://creativecommons.org/publicdomain/mark/1.0/"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13195440\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/566/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:566/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/566\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/566/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13195440\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/566/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/566\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/566/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/566/MODS/view\"}",
   "id": "ark-85335-m5tx36j5w",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5tx36j5w"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:05Z",
+  "gbl_mdModified_dt": "2023-05-12T20:38:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

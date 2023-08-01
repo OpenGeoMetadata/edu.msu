@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(7.76,15.61,46.13,40.75)",
   "solr_year_i": "1764",
   "dc_creator_sm": [
-    "Gibson, John"
+    "Gibson, J. (John), active 1750-1792"
   ],
   "dc_description_s": "Original version published [London]: Gentleman's Magazine, [1764?]; Scale approximately 1:2,300,000",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Italy"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:38Z",
+  "layer_modified_dt": "2023-02-03T21:16:21Z",
   "dc_language_sm": [
     "eng"
   ],

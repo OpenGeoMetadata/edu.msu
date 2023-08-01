@@ -16,12 +16,12 @@
     "Real Property",
     "Landowners"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159043\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/209/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:209/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/209\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/209/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159043\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/209/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/209\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/209/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/209/MODS/view\"}",
   "dct_spatial_sm": [
-    "Clinton County, Michigan",
+    "Michigan--Clinton County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:21Z",
+  "layer_modified_dt": "2023-05-12T20:37:47Z",
   "dc_language_sm": [
     "eng"
   ],

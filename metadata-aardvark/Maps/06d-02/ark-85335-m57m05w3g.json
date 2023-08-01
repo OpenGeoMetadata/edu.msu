@@ -25,7 +25,8 @@
   "dcat_keyword_sm": [
     "Agricultural resources",
     "Land capability for agriculture",
-    "Soil productivity"
+    "Soil productivity",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1984"
@@ -38,10 +39,10 @@
     "[1984 TO 1984]"
   ],
   "dct_spatial_sm": [
-    "Monroe County, Michigan",
+    "Michigan--Monroe County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.7739,-83.1889,42.0942,41.7233)",
+  "locn_geometry": "POLYGON((-83.7739 42.0942, -83.1889 42.0942, -83.1889 41.7233, -83.7739 41.7233, -83.7739 42.0942))",
   "dcat_bbox": "ENVELOPE(-83.7739,-83.1889,42.0942,41.7233)",
   "dcat_centroid": "41.90875,-83.48140000000001",
   "pcdm_memberOf_sm": [
@@ -65,6 +66,6 @@
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m57m05w3g"
   ],
-  "gbl_mdModified_dt": "2022-04-11T21:21:02Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

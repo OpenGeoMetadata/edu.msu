@@ -25,7 +25,8 @@
   "dcat_keyword_sm": [
     "Agricultural resources",
     "Land capability for agriculture",
-    "Soil productivity"
+    "Soil productivity",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1985"
@@ -38,10 +39,10 @@
     "[1985 TO 1985]"
   ],
   "dct_spatial_sm": [
-    "Charlevoix County, Michigan",
+    "Michigan--Charlevoix County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.8461,-84.7317,45.8414,45.1156)",
+  "locn_geometry": "POLYGON((-85.8461 45.8414, -84.7317 45.8414, -84.7317 45.1156, -85.8461 45.1156, -85.8461 45.8414))",
   "dcat_bbox": "ENVELOPE(-85.8461,-84.7317,45.8414,45.1156)",
   "dcat_centroid": "45.4785,-85.28890000000001",
   "pcdm_memberOf_sm": [
@@ -65,6 +66,6 @@
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5rn32402"
   ],
-  "gbl_mdModified_dt": "2022-04-11T21:21:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

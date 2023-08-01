@@ -25,10 +25,10 @@
     "[1966 TO 1966]"
   ],
   "dct_spatial_sm": [
-    "Emmet County, Michigan",
+    "Michigan--Emmet County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.12027778,-84.73138889,45.78944444,45.27)",
+  "locn_geometry": "POLYGON((-85.12027778 45.78944444, -84.73138889 45.78944444, -84.73138889 45.27, -85.12027778 45.27, -85.12027778 45.78944444))",
   "dcat_bbox": "ENVELOPE(-85.12027778,-84.73138889,45.78944444,45.27)",
   "dcat_centroid": "45.52972222,-84.925833335",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "190.08 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1033\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1033/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1033/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1033/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1033\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1033/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1033/MODS/view\"}",
   "id": "5284c407-7bea-4e45-8c59-5b7915babe09",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5rf5nb5w"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:01Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

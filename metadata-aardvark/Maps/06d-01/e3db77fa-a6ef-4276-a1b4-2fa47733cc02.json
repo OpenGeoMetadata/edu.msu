@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Reinecke, J. C. M.(Johann Christoph Matthias)"
+    "Reinecke, J. C. M. (Johann Christoph Matthias), 1770-1818"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Michigan State University Map Library"
+    "Michigan State University Map Library",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1801"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(8.43,29.96,0,-26)",
+  "locn_geometry": "POLYGON((8.43 0, 29.96 0, 29.96 -26, 8.43 -26, 8.43 0))",
   "dcat_bbox": "ENVELOPE(8.43,29.96,0,-26)",
   "dcat_centroid": "-13.0,19.195",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "e3db77fa-a6ef-4276-a1b4-2fa47733cc02"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:02Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

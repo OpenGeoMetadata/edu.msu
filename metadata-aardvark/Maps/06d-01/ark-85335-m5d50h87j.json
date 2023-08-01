@@ -21,11 +21,16 @@
     "Maps"
   ],
   "gbl_resourceType_sm": [
+    "Atlases",
     "Cadastral maps"
   ],
   "dct_subject_sm": [
     "Real Property",
     "Landowners"
+  ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1926-1929"
@@ -38,10 +43,10 @@
     "[1926 TO 1929]"
   ],
   "dct_spatial_sm": [
-    "Clinton County, Michigan",
+    "Michigan--Clinton County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.8393,-84.3623,43.1199,42.7696)",
+  "locn_geometry": "POLYGON((-84.8393 43.1199, -84.3623 43.1199, -84.3623 42.7696, -84.8393 42.7696, -84.8393 43.1199))",
   "dcat_bbox": "ENVELOPE(-84.8393,-84.3623,43.1199,42.7696)",
   "dcat_centroid": "42.94475,-84.60079999999999",
   "pcdm_memberOf_sm": [
@@ -56,11 +61,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159043\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/195/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:195/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/195\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/195/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159043\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/195\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/195/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/195/MODS/view\"}",
   "id": "ark-85335-m5d50h87j",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5d50h87j"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:54Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

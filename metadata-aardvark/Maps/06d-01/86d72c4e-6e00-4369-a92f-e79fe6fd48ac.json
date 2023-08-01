@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Roads",
-    "Place marketing literature"
+    "Place marketing literature",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1965"
@@ -28,10 +29,10 @@
     "[1965 TO 1965]"
   ],
   "dct_spatial_sm": [
-    "Kalamazoo County, Michigan",
+    "Michigan--Kalamazoo County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-85.76583333,-85.2925,42.42138889,42.06972222)",
+  "locn_geometry": "POLYGON((-85.76583333 42.42138889, -85.2925 42.42138889, -85.2925 42.06972222, -85.76583333 42.06972222, -85.76583333 42.42138889))",
   "dcat_bbox": "ENVELOPE(-85.76583333,-85.2925,42.42138889,42.06972222)",
   "dcat_centroid": "42.245555555,-85.529166665",
   "pcdm_memberOf_sm": [
@@ -49,11 +50,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "230.45 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1025\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1025/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1025/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1025/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1025\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1025/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1025/MODS/view\"}",
   "id": "86d72c4e-6e00-4369-a92f-e79fe6fd48ac",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5d50ht1t"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:40:59Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

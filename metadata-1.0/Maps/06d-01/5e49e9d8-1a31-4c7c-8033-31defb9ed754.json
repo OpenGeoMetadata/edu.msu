@@ -9,12 +9,12 @@
   "solr_year_i": "1966",
   "dc_description_s": "Scale [ca.1:200,000]; Includes illustrations, location map and inset map of Drummond Island.",
   "dc_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1063\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1063/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1063/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1063/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1063\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1063/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1063/MODS/view\"}",
   "dct_spatial_sm": [
-    "Chippewa County, Michigan",
+    "Michigan--Chippewa County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-05-17T20:41:00Z",
+  "layer_modified_dt": "2023-05-12T20:37:41Z",
   "dc_language_sm": [
     "eng"
   ],

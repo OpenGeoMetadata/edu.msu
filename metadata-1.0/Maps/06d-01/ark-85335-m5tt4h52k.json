@@ -16,12 +16,12 @@
     "Real Property",
     "Landowners"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159047\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/248/datastream/OBJ/download\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:248/info.json\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/248\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/248/datastream/MODS/view/\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159047\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/248/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/248\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/248/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/248/MODS/view\"}",
   "dct_spatial_sm": [
     "Calhoun County Michigan",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:24Z",
+  "layer_modified_dt": "2023-05-12T20:37:49Z",
   "dc_language_sm": [
     "eng"
   ],

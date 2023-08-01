@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Cadillac Printing Company",
-    "Roads"
+    "Roads",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1961"
@@ -28,10 +29,10 @@
     "[1961 TO 1961]"
   ],
   "dct_spatial_sm": [
-    "Crawford County, Michigan",
+    "Michigan--Crawford County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.85333333,-84.37277778,44.85777778,44.50722222)",
+  "locn_geometry": "POLYGON((-84.85333333 44.85777778, -84.37277778 44.85777778, -84.37277778 44.50722222, -84.85333333 44.50722222, -84.85333333 44.85777778))",
   "dcat_bbox": "ENVELOPE(-84.85333333,-84.37277778,44.85777778,44.50722222)",
   "dcat_centroid": "44.682500000000005,-84.613055555",
   "pcdm_memberOf_sm": [
@@ -49,11 +50,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "125.25 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1048\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1048/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1048/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1048/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1048\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1048/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1048/MODS/view\"}",
   "id": "c2b5498b-812e-495a-a74d-fbf5bfd4efb0",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5kk9680j"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

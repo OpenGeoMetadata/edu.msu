@@ -28,10 +28,10 @@
     "[1881 TO 1881]"
   ],
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.1039,-83.0072,42.3664,42.255)",
+  "locn_geometry": "POLYGON((-83.1039 42.3664, -83.0072 42.3664, -83.0072 42.255, -83.1039 42.255, -83.1039 42.3664))",
   "dcat_bbox": "ENVELOPE(-83.1039,-83.0072,42.3664,42.255)",
   "dcat_centroid": "42.3107,-83.05555",
   "pcdm_memberOf_sm": [
@@ -47,6 +47,6 @@
   "dct_identifier_sm": [
     "97d906b2-98fb-4c28-9767-d96915d153db"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:11Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

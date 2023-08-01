@@ -12,12 +12,12 @@
   ],
   "dc_description_s": "Scale approximately 1:63,360; Shows public survey grid, water features, transportation and recreation facilities.",
   "dc_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1076\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1076/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1076/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1076/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1076\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1076/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1076/MODS/view\"}",
   "dct_spatial_sm": [
-    "Grand Traverse County, Michigan",
+    "Michigan--Grand Traverse County",
     "Michigan"
   ],
-  "layer_modified_dt": "2022-05-17T20:41:00Z",
+  "layer_modified_dt": "2023-05-12T20:37:42Z",
   "dc_language_sm": [
     "eng"
   ],

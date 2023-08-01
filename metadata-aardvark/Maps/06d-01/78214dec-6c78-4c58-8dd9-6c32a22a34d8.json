@@ -22,7 +22,7 @@
   "dct_spatial_sm": [
     "New Mexico"
   ],
-  "locn_geometry": "ENVELOPE(-109.0502,-103.002,37.0003,31.3322)",
+  "locn_geometry": "POLYGON((-109.0502 37.0003, -103.002 37.0003, -103.002 31.3322, -109.0502 31.3322, -109.0502 37.0003))",
   "dcat_bbox": "ENVELOPE(-109.0502,-103.002,37.0003,31.3322)",
   "dcat_centroid": "34.166250000000005,-106.0261",
   "pcdm_memberOf_sm": [
@@ -38,6 +38,6 @@
   "dct_identifier_sm": [
     "78214dec-6c78-4c58-8dd9-6c32a22a34d8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:44Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

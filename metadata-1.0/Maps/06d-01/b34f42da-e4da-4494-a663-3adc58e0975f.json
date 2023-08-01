@@ -11,9 +11,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Magazines/621-c-D-1766-400.jpg\",\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/scanned/Europe/621-c-D-1766-400\"}",
   "dct_spatial_sm": [
-    "Great Britain, United Kingdom"
+    "England--London",
+    "England--York",
+    "England"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:30Z",
+  "layer_modified_dt": "2023-02-03T21:26:14Z",
   "dc_language_sm": [
     "eng"
   ],

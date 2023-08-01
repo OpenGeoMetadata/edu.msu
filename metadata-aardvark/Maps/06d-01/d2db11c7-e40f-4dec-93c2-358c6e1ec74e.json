@@ -30,10 +30,10 @@
     "[1958 TO 1958]"
   ],
   "dct_spatial_sm": [
-    "Allegan, Michigan",
+    "Michigan--Allegan",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-86.27361111,-85.54277778,42.76888889,42.41861111)",
+  "locn_geometry": "POLYGON((-86.27361111 42.76888889, -85.54277778 42.76888889, -85.54277778 42.41861111, -86.27361111 42.41861111, -86.27361111 42.76888889))",
   "dcat_bbox": "ENVELOPE(-86.27361111,-85.54277778,42.76888889,42.41861111)",
   "dcat_centroid": "42.59375,-85.90819444499999",
   "pcdm_memberOf_sm": [
@@ -51,11 +51,11 @@
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF",
   "gbl_fileSize_s": "212.14 MB",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1098\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1098/datastream/OBJ/Download/\",\"http://iiif.io/api/image\":\"https://d.lib.msu.edu/sites/all/libraries/openseadragon/images/iiif-server/iiif/2/maps:1098/info.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/1098/datastream/OBJ/Download/\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1098\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1098/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/1098/MODS/view\"}",
   "id": "d2db11c7-e40f-4dec-93c2-358c6e1ec74e",
   "dct_identifier_sm": [
     "https://n2t.net/ark:/85335/m5pc2w534"
   ],
-  "gbl_mdModified_dt": "2022-05-17T20:41:00Z",
+  "gbl_mdModified_dt": "2023-05-12T20:37:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }
