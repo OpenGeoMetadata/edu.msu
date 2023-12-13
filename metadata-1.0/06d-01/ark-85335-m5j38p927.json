@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_1196|https://n2t.net/ark:/85335/m5j38p927",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Road map, Luce County, Michigan",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m5j38p927",
+  "solr_geom": "ENVELOPE(-85.86,-85.24,46.76,46.24)",
+  "solr_year_i": "1975",
+  "dc_creator_sm": [
+    "Luce County Road Commission"
+  ],
+  "dc_description_s": "Extent: 1 map | Scale approximately 1:127,000",
+  "dc_format_s": "TIFF/JPEG",
+  "dc_subject_sm": [
+    "Roads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1196\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1196/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1196/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1196/OBJ/download\"}]}",
+  "dct_spatial_sm": [
+    "Michigan--Luce County",
+    "Michigan"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Commission",
+  "dct_issued_s": "1975",
+  "dct_temporal_sm": [
+    "1975"
+  ]
+}

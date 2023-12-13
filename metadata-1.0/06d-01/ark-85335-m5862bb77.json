@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_54|https://n2t.net/ark:/85335/m5862bb77",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Genehoa, Jaloffi, et Sierraliones regna",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m5862bb77",
+  "solr_geom": "ENVELOPE(-17.68,-13.35,17.77,9.18)",
+  "solr_year_i": "1600",
+  "dc_creator_sm": [
+    "Jansson, Jan",
+    "1588-1664",
+    "Janssonius van Waesberge, Johannes",
+    "1616-1680"
+  ],
+  "dc_description_s": "Extent: 1 map | Notes: Relief shown pictorially.|Map oriented with north to the left.|Includes a decorative title cartouche and compass rose. | Scale approximately 3,100,000",
+  "dc_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/54\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/54/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/54/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/54/OBJ/download\"}]}",
+  "dct_spatial_sm": [
+    "Guinea-Bissau",
+    "Africa, West",
+    "West Africa",
+    "Guinea",
+    "Senegal",
+    "Gambia",
+    "Sierra Leone"
+  ],
+  "dc_language_sm": [
+    "lat"
+  ],
+  "dc_publisher_s": "Apud heredes Joannis Janssonii",
+  "dct_issued_s": "1664/1674",
+  "dct_temporal_sm": [
+    "16xx"
+  ]
+}

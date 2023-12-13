@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_1047|https://n2t.net/ark:/85335/m5x924g60",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Official county road map of Crawford County, Michigan",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m5x924g60",
+  "solr_geom": "ENVELOPE(-84.85,-84.37,44.86,44.51)",
+  "solr_year_i": "1961",
+  "dc_creator_sm": [
+    "Crawford County Road Commission",
+    "Cadillac Printing Company"
+  ],
+  "dc_description_s": "Extent: 1 map | Notes: Includes ancillary map of Grayling, location map, and text including a description of \"Michigan's Great Divide\" between the Manistee River and the Au Sable River.|Text and illustrations on verso. | Scale approximately 1:120,000",
+  "dc_format_s": "TIFF/JPEG",
+  "dc_subject_sm": [
+    "Roads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1047\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1047/manifest\"}",
+  "dct_spatial_sm": [
+    "Michigan--Crawford County",
+    "Michigan--Grayling",
+    "Michigan"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Crawford County Road Commission",
+  "dct_issued_s": "1961",
+  "dct_temporal_sm": [
+    "1961"
+  ]
+}

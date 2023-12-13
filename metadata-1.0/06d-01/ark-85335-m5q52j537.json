@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_1219|https://n2t.net/ark:/85335/m5q52j537",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plat book of Presque Isle County, Michigan",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m5q52j537",
+  "solr_geom": "ENVELOPE(-84.25,-83.38,45.64,45.20)",
+  "solr_year_i": "1900",
+  "dc_creator_sm": [
+    "W.W. Hixson & Co."
+  ],
+  "dc_description_s": "Extent: 1 atlas (23 unnumbered pages) | Abstract: Atlas of township property maps showing names of rural landowners. | Notes: Cover lacking. Cover title inferred from similar atlases by same publisher.|Range of possible publication dates estimated from designation of highway M-101 and routing of U.S. Highway 23 on folded county map.|Scale determined from section lines.|Includes folded map: Presque Isle County, Michigan. | Scale approximately 1:51,000",
+  "dc_format_s": "TIFF/JPEG",
+  "dc_subject_sm": [
+    "Landowners",
+    "Real property"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1219\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1219/manifest\"}",
+  "dct_spatial_sm": [
+    "Michigan--Presque Isle County",
+    "Michigan"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Published by W.W. Hixson & Co.",
+  "dct_issued_s": "1927/1939",
+  "dct_temporal_sm": [
+    "19xx"
+  ]
+}

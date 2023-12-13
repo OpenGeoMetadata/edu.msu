@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_1118|https://n2t.net/ark:/85335/m55m6505f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Midland County - Midland, Michigan, official road map 1971",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m55m6505f",
+  "solr_geom": "ENVELOPE(-84.61,-84.16,43.83,43.47)",
+  "solr_year_i": "1971",
+  "dc_creator_sm": [
+    "Midland County Road Commission",
+    "Midland County (Mich.)",
+    "Board of Commissioners"
+  ],
+  "dc_description_s": "Extent: 2 maps on 1 sheet | Abstract: County road map and city street map. | Notes: Title from panel.|Includes text, indexes to roads and streets, 3 ancillary maps, and illustrations.|Ancillary maps: City of Coleman, Midland County, Michigan -- Village of Sanford, Midland County, Michigan -- Midland area. | Scale 1:60,000. 1 in. = 5,000 ft|Scale 1:21,600. 1 in. = 1,800 ft",
+  "dc_format_s": "TIFF/JPEG",
+  "dc_subject_sm": [
+    "Roads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1118\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1118/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1118/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1118/OBJ/download\"}]}",
+  "dct_spatial_sm": [
+    "Michigan--Midland",
+    "Michigan--Coleman",
+    "Michigan--Sanford",
+    "Michigan--Midland County",
+    "Michigan"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Published by the Midland County Road Commission and the Midland County Board of Commissioners",
+  "dct_issued_s": "1971",
+  "dct_temporal_sm": [
+    "1971"
+  ]
+}

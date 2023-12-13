@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_6|https://n2t.net/ark:/85335/m5ns14",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Le Canada, ou Nouvelle France, &c",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m5ns14",
+  "solr_geom": "ENVELOPE(-93.50,-40.95,62.42,30.75)",
+  "solr_year_i": "1656",
+  "dc_creator_sm": [
+    "Sanson, Nicolas",
+    "1600-1667",
+    "Somer, J.",
+    "Mariette, Pierre",
+    "1603-1657"
+  ],
+  "dc_description_s": "Extent: 1 map | Notes: Relief shown pictorially.|Title in decorated cartouche.|Appeared in editions of Nicolas Sanson, Cartes générales de toutes les parties du monde (Paris, 1658) and Nicolas Sanson, Cartes générales de la géographie ancienne et nouvelle (Paris, 1675). | Scale not given",
+  "dc_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/6\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/6/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/6/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/6/OBJ/download\"}]}",
+  "dct_spatial_sm": [
+    "Great Lakes Region (North America)",
+    "North America",
+    "Great Lakes Region"
+  ],
+  "dc_language_sm": [
+    "fre"
+  ],
+  "dc_publisher_s": "Chez Pierre Mariette",
+  "dct_issued_s": "1656",
+  "dct_temporal_sm": [
+    "1656"
+  ]
+}

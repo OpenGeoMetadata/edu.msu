@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_1109|https://n2t.net/ark:/85335/m5pn91733",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Leelanau County, Michigan",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m5pn91733",
+  "solr_geom": "ENVELOPE(-86.16,-85.53,45.49,44.77)",
+  "solr_year_i": "1960",
+  "dc_creator_sm": [
+    "Leelanau County Road Commission",
+    "Leelanau County (Mich.)",
+    "Board of Supervisors"
+  ],
+  "dc_description_s": "Extent: 1 map | Notes: Title from panel.|Tourism promotional text, road index, location map, and illustrations on verso. | Scale not given",
+  "dc_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1109\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1109/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1109/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1109/OBJ/download\"}]}",
+  "dct_spatial_sm": [
+    "Michigan--Leelanau County",
+    "Michigan"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Leland County Board of Supervisors",
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ]
+}

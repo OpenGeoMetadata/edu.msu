@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_71|https://n2t.net/ark:/85335/m5vx06338",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Africae nova descriptio",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m5vx06338",
+  "solr_geom": "ENVELOPE(-26.50,60.00,40.33,-40.33)",
+  "solr_year_i": "1631",
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon",
+    "1571-1638"
+  ],
+  "dc_description_s": "Extent: 1 map | Abstract: 1631 version of Willem Jansz. Blaeu's 1617 map, one of the better known and more decorative 17th century maps of Africa. | Notes: Relief shown pictorially.|Includes images of galleons, sea monsters, and various animals.|Nine city views within decorative border at top: Tanger Tangiers -- Ceuta -- Alger Algiers -- Tunis -- Alexandria -- Alcair Cairo -- Mozambique Island of Mozambique -- S. Georgius della Mina St. George of the Mine Castle in Elmina, Ghana -- Canaria Canary Islands.|Ten illustrations of figures in regional dress within decorative border at left and right: Marocchi Moroccans -- Senagenses Senegalese -- Mercatores in Guinea traders in Guinea -- Cab: lopo Gonsalvi Accolae locals of Cape Lopez in Gabon -- Miles Congensis Congolese -- Aegyptij Egyptians -- Abissini Ethiopians -- Cafres in Mozambique -- Rex in Madagascar king in Madagascar -- Cap: bonae Spaei habitatores inhabitants of the Cape of Good Hope.|Latin text on verso with \"F\" at bottom right. | Scale approximately 1:30,000,000",
+  "dc_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/71\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/71/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/71/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/71/OBJ/download\"}]}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dc_language_sm": [
+    "lat"
+  ],
+  "dc_publisher_s": "Guiljelmo Blaeuw",
+  "dct_issued_s": "1631",
+  "dct_temporal_sm": [
+    "1631"
+  ]
+}

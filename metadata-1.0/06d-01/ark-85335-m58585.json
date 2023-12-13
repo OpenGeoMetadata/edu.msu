@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_9|https://n2t.net/ark:/85335/m58585",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the state of Michigan and the surrounding country, exhibiting the sections and the latest surveys",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m58585",
+  "solr_geom": "ENVELOPE(-87.95,-82.38,46.98,41.40)",
+  "solr_year_i": "1855",
+  "dc_creator_sm": [
+    "Farmer, John",
+    "1798-1859"
+  ],
+  "dc_description_s": "Extent: 1 map | Abstract: Map of Michigan showing surveyed counties, cities and towns, townships and township names, and sections. Shows distances in miles between various points on Lake Michigan. Shows county seats, Indian villages, railroads, mills, prairies, swamps and marshes, canals, and roads. Plank roads and \"most important roads\" are indicated. | Notes: Town of \"Rio Grand\" is shown north of Lansing, in Lansing Township, Ingham County. Town of \"Hamilton\" is shown in vicinity of present-day Okemos. A stream named Alcotte Creek is shown in the vicinity of Lansing. Present-day Williamstown Township in Ingham County is named \"Phelps Town\" or \"Phelpstown\" Township. Shows \"proposed route of Clinton and Kalamazoo Canal.\" \"Grand river road\" is labeled in Ingham County.|Prime meridian: Greenwich.|Includes notes about shoreline conditions (rockiness, steepness, etc.) and 1 inset: Plat of the copper district on L. Superior / engraved by J. Farmer. | Scale approximately 1:786,111",
+  "dc_format_s": "TIFF/JPEG",
+  "dc_subject_sm": [
+    "Distances, etc",
+    "Canals",
+    "Administrative and political divisions",
+    "Distances",
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/9\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/9/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/9/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/9/OBJ/download\"}]}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "John Farmer",
+  "dct_issued_s": "1855",
+  "dct_temporal_sm": [
+    "1855"
+  ]
+}

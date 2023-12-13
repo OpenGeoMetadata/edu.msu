@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_55|https://n2t.net/ark:/85335/m5cz32506",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Afrique",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m5cz32506",
+  "solr_geom": "ENVELOPE(-38.0,76.0,40.0,-40.0)",
+  "solr_year_i": "1888",
+  "dc_creator_sm": [
+    "Erhard (Firm)"
+  ],
+  "dc_description_s": "Extent: 1 map | Abstract: Digital scan of a map of Africa from a late-19th century French encyclopedia. Shows boundaries, cities, and physical features. | Notes: Relief shown by hachures.|Prime meridian: Paris.|From: La grande encyclopédie : inventaire raisonné des sciences, des lettres et des arts / par une société de savants et de gens de lettres; sous la direction de mm. Berthelot...Hartwig Derenbourg etc.. Paris : Lamirault et cie, 1886-1902. | Scale 1:38,000,000",
+  "dc_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/55\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/55/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/55/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/55/OBJ/download\"}]}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dc_language_sm": [
+    "fre"
+  ],
+  "dc_publisher_s": "H. Lamirault et Cie., Editeurs",
+  "dct_issued_s": "1888",
+  "dct_temporal_sm": [
+    "1888"
+  ]
+}

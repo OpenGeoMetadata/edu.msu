@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_1121|https://n2t.net/ark:/85335/m5f18w68n",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Official road map of Missaukee County, Michigan",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m5f18w68n",
+  "solr_geom": "ENVELOPE(-85.34,-84.85,44.51,44.16)",
+  "solr_year_i": "1900",
+  "dc_creator_sm": [
+    "Missaukee County Road Commission",
+    "Lake City Chamber of Commerce (Lake City, Mich.)"
+  ],
+  "dc_description_s": "Extent: 1 map | Notes: Title from panel.|Panel illustration shows two standing women holding skis. Panel text is black, red, and white on a blue background.|Text, \"Missaukee County Road Commission, home of national bear hunt\" logo, location map, and illustrations on verso. | Scale approximately 1:120,000",
+  "dc_format_s": "TIFF/JPEG",
+  "dc_subject_sm": [
+    "Roads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1121\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1121/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1121/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1121/OBJ/download\"}]}",
+  "dct_spatial_sm": [
+    "Michigan--Missaukee County",
+    "Michigan"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Missaukee County Road Commission|Lake City Chamber of Commerce",
+  "dct_issued_s": "1950/1959",
+  "dct_temporal_sm": [
+    "19xx"
+  ]
+}

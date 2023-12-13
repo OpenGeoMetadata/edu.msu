@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_1064|https://n2t.net/ark:/85335/m5r49j569",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Branch County, Michigan",
+  "dct_provenance_s": "Michigan State University",
+  "layer_slug_s": "ark-85335-m5r49j569",
+  "solr_geom": "ENVELOPE(-85.29,-84.82,42.07,41.76)",
+  "solr_year_i": "1966",
+  "dc_description_s": "Extent: 1 map | Notes: Indexed.|Cartographic material. | Scale approximately 1:130,000",
+  "dc_format_s": "TIFF/JPEG",
+  "dc_subject_sm": [
+    "Roads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1064\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1064/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1064/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1064/OBJ/download\"}]}",
+  "dct_spatial_sm": [
+    "Michigan--Branch County",
+    "Michigan"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1966",
+  "dct_temporal_sm": [
+    "1966"
+  ]
+}
