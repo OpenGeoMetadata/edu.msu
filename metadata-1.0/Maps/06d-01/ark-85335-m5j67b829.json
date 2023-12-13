@@ -1,33 +1,32 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "https://n2t.net/ark:/85335/m5j67b829",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_721|https://n2t.net/ark:/85335/m5j67b829",
   "dc_rights_s": "Public",
-  "dc_title_s": "Norwich, Township 24N Range 6W: Missaukee County, Michigan",
+  "dc_title_s": "Norwich, Township 24N Range 6W",
   "dct_provenance_s": "Michigan State University",
   "layer_slug_s": "ark-85335-m5j67b829",
-  "solr_geom": "ENVELOPE(-85.095808,-84.850934,44.511078,44.421955)",
-  "solr_year_i": "1926",
+  "solr_geom": "ENVELOPE(-85.0958,-84.8509,44.5111,44.422)",
+  "solr_year_i": "1900",
   "dc_creator_sm": [
     "W.W. Hixson & Co."
   ],
-  "dc_description_s": "Page from: Plat book of Missaukee County, Michigan |Scale approximately 1:51,000",
-  "dc_format_s": "TIFF",
+  "dc_description_s": "Extent: 1 map | Notes: Page from: Plat book of Missaukee County, Michigan | Scale approximately 1:51,000",
+  "dc_format_s": "TIFF/JPEG",
   "dc_subject_sm": [
-    "Real Property",
-    "Landowners"
+    "Landowners",
+    "Real property"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13208588\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/721/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/721\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/721/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/721/MODS/view\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/721\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/721/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/721/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/721/OBJ/download\"}]}",
   "dct_spatial_sm": [
     "Michigan--Missaukee County",
     "Michigan"
   ],
-  "layer_modified_dt": "2023-05-12T20:38:06Z",
   "dc_language_sm": [
     "eng"
   ],
   "dc_publisher_s": "W.W. Hixson & Co.",
   "dct_issued_s": "1926/1929",
   "dct_temporal_sm": [
-    "1926-1929"
+    "19xx"
   ]
 }

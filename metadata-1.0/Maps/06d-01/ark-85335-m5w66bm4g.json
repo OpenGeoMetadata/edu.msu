@@ -1,33 +1,33 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "https://n2t.net/ark:/85335/m5w66bm4g",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_455|https://n2t.net/ark:/85335/m5w66bm4g",
   "dc_rights_s": "Public",
-  "dc_title_s": "Allen, Township 6S Range 4W: Hillsdale County, Mich",
+  "dc_title_s": "Allen, Township 6S Range 4W",
   "dct_provenance_s": "Michigan State University",
   "layer_slug_s": "ark-85335-m5w66bm4g",
-  "solr_geom": "ENVELOPE(-84.826095,-84.709274,41.985702,41.897884)",
-  "solr_year_i": "1929",
+  "solr_geom": "ENVELOPE(-84.8261,-84.7093,41.9857,41.8979)",
+  "solr_year_i": "1900",
   "dc_creator_sm": [
     "W.W. Hixson & Co."
   ],
-  "dc_description_s": "Page from: Plat book of Hillsdale County, Mich |Scale approximately 1:51,000",
-  "dc_format_s": "TIFF",
+  "dc_description_s": "Extent: 1 map | Notes: Page from: Plat book of Hillsdale County, Mich. | Scale approximately 1:51,000",
+  "dc_format_s": "TIFF/JPEG",
   "dc_subject_sm": [
-    "Real Property",
-    "Landowners"
+    "Landowners",
+    "Real property",
+    "History"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13183746\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/455/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/455\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/455/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/455/MODS/view\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/455\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/455/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/455/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/455/OBJ/download\"}]}",
   "dct_spatial_sm": [
     "Michigan--Hillsdale County",
     "Michigan"
   ],
-  "layer_modified_dt": "2023-05-12T20:37:57Z",
   "dc_language_sm": [
     "eng"
   ],
   "dc_publisher_s": "W.W. Hixson & Co.",
   "dct_issued_s": "1929/1940",
   "dct_temporal_sm": [
-    "1929-1940"
+    "19xx"
   ]
 }

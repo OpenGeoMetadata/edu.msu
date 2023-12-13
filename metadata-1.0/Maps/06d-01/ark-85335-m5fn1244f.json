@@ -1,33 +1,32 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "https://n2t.net/ark:/85335/m5fn1244f",
+  "dc_identifier_s": "oai:d.lib.msu.edu:maps_223|https://n2t.net/ark:/85335/m5fn1244f",
   "dc_rights_s": "Public",
-  "dc_title_s": "Grant, Township 17N Range 4W: Clare County, Michigan",
+  "dc_title_s": "Grant, Township 17N Range 4W",
   "dct_provenance_s": "Michigan State University",
   "layer_slug_s": "ark-85335-m5fn1244f",
-  "solr_geom": "ENVELOPE(-84.850453,-84.727528,43.901736,43.814322)",
-  "solr_year_i": "1926",
+  "solr_geom": "ENVELOPE(-84.8505,-84.7275,43.9017,43.8143)",
+  "solr_year_i": "1900",
   "dc_creator_sm": [
     "W.W. Hixson & Co."
   ],
-  "dc_description_s": "Page from: Plat book of Clare County, Michigan |Scale approximately 1:51,000",
-  "dc_format_s": "TIFF",
+  "dc_description_s": "Extent: 1 map | Notes: Page from: Plat book of Clare County, Michigan | Scale approximately 1:51,000",
+  "dc_format_s": "TIFF/JPEG",
   "dc_subject_sm": [
-    "Real Property",
-    "Landowners"
+    "Landowners",
+    "Real property"
   ],
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159044\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/223/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/223\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/223/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/223/MODS/view\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/223\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/223/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/223/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/223/OBJ/download\"}]}",
   "dct_spatial_sm": [
     "Michigan--Clare County",
     "Michigan"
   ],
-  "layer_modified_dt": "2023-05-12T20:37:48Z",
   "dc_language_sm": [
     "eng"
   ],
-  "dc_publisher_s": "W.W. Hixson & Co.",
+  "dc_publisher_s": "Published by W.W. Hixson & Co.",
   "dct_issued_s": "1926/1939",
   "dct_temporal_sm": [
-    "1926-1939"
+    "19xx"
   ]
 }
