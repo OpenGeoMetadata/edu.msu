@@ -1,11 +1,9 @@
 {
-  "dct_title_s": "Home, Township 16N Range 12W: Newaygo County, Michigan",
-  "dct_alternative_sm": [
-    "Home, Township 16N Range 12W"
-  ],
+  "dct_title_s": "Home, Township 16N Range 12W",
   "dct_description_sm": [
-    "Page from: Plat book of Newaygo County, Michigan ",
-    "Scale approximately 1:51,000"
+    "Extent: 1 map ",
+    " Notes: Page from: Plat book of Newaygo County, Michigan ",
+    " Scale approximately 1:51,000"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,57 +12,50 @@
     "W.W. Hixson & Co."
   ],
   "dct_publisher_sm": [
-    "W.W. Hixson & Co."
+    "Published by W.W. Hixson & Co."
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "gbl_resourceType_sm": [
-    "Cadastral maps"
-  ],
   "dct_subject_sm": [
-    "Real Property",
-    "Landowners"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
-    "1936-1938"
+    "193x"
   ],
   "dct_issued_s": "1936/1938",
   "gbl_indexYear_im": [
-    "1936"
+    "1930"
   ],
   "gbl_dateRange_drsim": [
-    "[1936 TO 1938]"
+    "[1930 TO 1939]"
   ],
   "dct_spatial_sm": [
     "Michigan--Newaygo County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-85.800397 43.815608, -85.681389 43.815608, -85.681389 43.727461, -85.800397 43.727461, -85.800397 43.815608))",
-  "dcat_bbox": "ENVELOPE(-85.800397,-85.681389,43.815608,43.727461)",
-  "dcat_centroid": "43.7715345,-85.740893",
+  "locn_geometry": "POLYGON((-85.8004 43.8156, -85.6814 43.8156, -85.6814 43.7275, -85.8004 43.7275, -85.8004 43.8156))",
+  "dcat_bbox": "ENVELOPE(-85.8004,-85.6814,43.8156,43.7275)",
+  "dcat_centroid": "43.771550000000005,-85.7409",
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
   ],
   "dct_isPartOf_sm": [
     "ark-85335-m56m34g21",
-    "06d-01-01"
+    "06d-01"
   ],
-  "dct_license_sm": [
-    "https://creativecommons.org/publicdomain/mark/1.0/"
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13208790\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/742/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/742\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/742/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/742/MODS/view\"}",
+  "dct_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/742\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/742/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/742/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/742/OBJ/download\"}]}",
   "id": "ark-85335-m5tt4h513",
   "dct_identifier_sm": [
+    "oai:d.lib.msu.edu:maps_742",
     "https://n2t.net/ark:/85335/m5tt4h513"
   ],
-  "gbl_mdModified_dt": "2023-05-12T20:38:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

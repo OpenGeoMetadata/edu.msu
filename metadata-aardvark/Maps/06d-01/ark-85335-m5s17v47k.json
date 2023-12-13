@@ -1,11 +1,9 @@
 {
-  "dct_title_s": "Stockbridge, Township 1N Range 2E: Ingham Co.",
-  "dct_alternative_sm": [
-    "Stockbridge, Township 1N Range 2E"
-  ],
+  "dct_title_s": "Stockbridge, Township 1N Range 2E",
   "dct_description_sm": [
-    "Page from: Plat book of Ingham Co. ",
-    "Scale approximately 1:51,000"
+    "Extent: 1 map ",
+    " Notes: Page from: Plat book of Ingham Co. ",
+    " Scale approximately 1:51,000"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,51 +18,44 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "gbl_resourceType_sm": [
-    "Cadastral maps"
-  ],
   "dct_subject_sm": [
-    "Real Property",
-    "Landowners"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
-    "1929-1938"
+    "19xx"
   ],
   "dct_issued_s": "1929/1938",
   "gbl_indexYear_im": [
-    "1929"
+    "1900"
   ],
   "gbl_dateRange_drsim": [
-    "[1929 TO 1938]"
+    "[1900 TO 1999]"
   ],
   "dct_spatial_sm": [
     "Michigan--Ingham County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-84.258382 42.512469, -84.140606 42.512469, -84.140606 42.42462, -84.258382 42.42462, -84.258382 42.512469))",
-  "dcat_bbox": "ENVELOPE(-84.258382,-84.140606,42.512469,42.42462)",
-  "dcat_centroid": "42.4685445,-84.199494",
+  "locn_geometry": "POLYGON((-84.2584 42.5125, -84.1406 42.5125, -84.1406 42.4246, -84.2584 42.4246, -84.2584 42.5125))",
+  "dcat_bbox": "ENVELOPE(-84.2584,-84.1406,42.5125,42.4246)",
+  "dcat_centroid": "42.46855,-84.1995",
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
   ],
   "dct_isPartOf_sm": [
     "ark-85335-m5sx65n3p",
-    "06d-01-01"
+    "06d-01"
   ],
-  "dct_license_sm": [
-    "https://creativecommons.org/publicdomain/mark/1.0/"
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13183775\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/500/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/500\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/500/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/500/MODS/view\"}",
+  "dct_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/500\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/500/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/500/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/500/OBJ/download\"}]}",
   "id": "ark-85335-m5s17v47k",
   "dct_identifier_sm": [
+    "oai:d.lib.msu.edu:maps_500",
     "https://n2t.net/ark:/85335/m5s17v47k"
   ],
-  "gbl_mdModified_dt": "2023-05-12T20:37:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

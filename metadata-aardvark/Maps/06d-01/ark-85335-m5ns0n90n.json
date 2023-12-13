@@ -1,11 +1,9 @@
 {
-  "dct_title_s": "Clinton, Township 2N Range 13E: Macomb County, Michigan",
-  "dct_alternative_sm": [
-    "Clinton, Township 2N Range 13E"
-  ],
+  "dct_title_s": "Clinton, Township 2N Range 13E",
   "dct_description_sm": [
-    "Page from: Plat book of Macomb County, Michigan ",
-    "Scale approximately 1:51,000"
+    "Extent: 1 map ",
+    " Notes: Page from: Plat book of Macomb County, Michigan ",
+    " Scale approximately 1:51,000"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,51 +18,44 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "gbl_resourceType_sm": [
-    "Cadastral maps"
-  ],
   "dct_subject_sm": [
-    "Real Property",
-    "Landowners"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
-    "1931-1939"
+    "193x"
   ],
   "dct_issued_s": "1931/1939",
   "gbl_indexYear_im": [
-    "1931"
+    "1930"
   ],
   "gbl_dateRange_drsim": [
-    "[1931 TO 1939]"
+    "[1930 TO 1939]"
   ],
   "dct_spatial_sm": [
     "Michigan--Macomb County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-82.973296 42.629888, -82.855995 42.629888, -82.855995 42.539339, -82.973296 42.539339, -82.973296 42.629888))",
-  "dcat_bbox": "ENVELOPE(-82.973296,-82.855995,42.629888,42.539339)",
-  "dcat_centroid": "42.5846135,-82.9146455",
+  "locn_geometry": "POLYGON((-82.9733 42.6299, -82.856 42.6299, -82.856 42.5393, -82.9733 42.5393, -82.9733 42.6299))",
+  "dcat_bbox": "ENVELOPE(-82.9733,-82.856,42.6299,42.5393)",
+  "dcat_centroid": "42.584599999999995,-82.91465",
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
   ],
   "dct_isPartOf_sm": [
     "ark-85335-m5pr7p60b",
-    "06d-01-01"
+    "06d-01"
   ],
-  "dct_license_sm": [
-    "https://creativecommons.org/publicdomain/mark/1.0/"
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13208121\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/687/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/687\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/687/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/687/MODS/view\"}",
+  "dct_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/687\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/687/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/687/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/687/OBJ/download\"}]}",
   "id": "ark-85335-m5ns0n90n",
   "dct_identifier_sm": [
+    "oai:d.lib.msu.edu:maps_687",
     "https://n2t.net/ark:/85335/m5ns0n90n"
   ],
-  "gbl_mdModified_dt": "2023-05-12T20:38:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

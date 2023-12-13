@@ -1,11 +1,9 @@
 {
-  "dct_title_s": "Yates, Township 17N Range 12W: Lake Co.",
-  "dct_alternative_sm": [
-    "Yates, Township 17N Range 12W"
-  ],
+  "dct_title_s": "Yates, Township 17N Range 12W",
   "dct_description_sm": [
-    "Page from: Plat book of Lake Co. ",
-    "Scale approximately 1:51,000"
+    "Extent: 1 map ",
+    " Notes: Page from: Plat book of Lake Co. ",
+    " Scale approximately 1:51,000"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,57 +12,50 @@
     "W.W. Hixson & Co."
   ],
   "dct_publisher_sm": [
-    "W.W. Hixson & Company"
+    "published by W.W. Hixson & Company"
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "gbl_resourceType_sm": [
-    "Cadastral maps"
-  ],
   "dct_subject_sm": [
-    "Real Property",
-    "Landowners"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
-    "1929-1939"
+    "19xx"
   ],
   "dct_issued_s": "1929/1939",
   "gbl_indexYear_im": [
-    "1929"
+    "1900"
   ],
   "gbl_dateRange_drsim": [
-    "[1929 TO 1939]"
+    "[1900 TO 1999]"
   ],
   "dct_spatial_sm": [
     "Michigan--Lake County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-85.801817 43.902033, -85.681499 43.902033, -85.681499 43.814253, -85.801817 43.814253, -85.801817 43.902033))",
-  "dcat_bbox": "ENVELOPE(-85.801817,-85.681499,43.902033,43.814253)",
-  "dcat_centroid": "43.858143,-85.741658",
+  "locn_geometry": "POLYGON((-85.8018 43.902, -85.6815 43.902, -85.6815 43.8143, -85.8018 43.8143, -85.8018 43.902))",
+  "dcat_bbox": "ENVELOPE(-85.8018,-85.6815,43.902,43.8143)",
+  "dcat_centroid": "43.85815,-85.74164999999999",
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
   ],
   "dct_isPartOf_sm": [
     "ark-85335-m59k4751q",
-    "06d-01-01"
+    "06d-01"
   ],
-  "dct_license_sm": [
-    "https://creativecommons.org/publicdomain/mark/1.0/"
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13196378\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/604/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/604\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/604/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/604/MODS/view\"}",
+  "dct_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/604\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/604/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/604/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/604/OBJ/download\"}]}",
   "id": "ark-85335-m55q4sz1s",
   "dct_identifier_sm": [
+    "oai:d.lib.msu.edu:maps_604",
     "https://n2t.net/ark:/85335/m55q4sz1s"
   ],
-  "gbl_mdModified_dt": "2023-05-12T20:38:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

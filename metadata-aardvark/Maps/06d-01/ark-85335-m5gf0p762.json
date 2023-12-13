@@ -1,11 +1,9 @@
 {
-  "dct_title_s": "Yankee Springs, Township 3N Range 10W: Barry County, Michigan",
-  "dct_alternative_sm": [
-    "Yankee Springs, Township 3N Range 10W"
-  ],
+  "dct_title_s": "Yankee Springs, Township 3N Range 10W",
   "dct_description_sm": [
-    "Page from: Plat book of Barry County, Michigan ",
-    "Scale approximately 1:51,000"
+    "Extent: 1 map ",
+    " Notes: Page from: Plat book of Barry County, Michigan ",
+    " Scale approximately 1:51,000"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,57 +12,50 @@
     "W.W. Hixson & Co."
   ],
   "dct_publisher_sm": [
-    "W.W. Hixson & Co."
+    "Published by W.W. Hixson & Co."
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "gbl_resourceType_sm": [
-    "Cadastral maps"
-  ],
   "dct_subject_sm": [
-    "Real Property",
-    "Landowners"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
+    "Landowners",
+    "Real property"
   ],
   "dct_temporal_sm": [
-    "1920-1939"
+    "19xx"
   ],
   "dct_issued_s": "1920/1939",
   "gbl_indexYear_im": [
-    "1920"
+    "1900"
   ],
   "gbl_dateRange_drsim": [
-    "[1920 TO 1939]"
+    "[1900 TO 1999]"
   ],
   "dct_spatial_sm": [
     "Michigan--Barry County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-85.545112 42.682521, -85.426725 42.682521, -85.426725 42.594719, -85.545112 42.594719, -85.545112 42.682521))",
-  "dcat_bbox": "ENVELOPE(-85.545112,-85.426725,42.682521,42.594719)",
-  "dcat_centroid": "42.63862,-85.4859185",
+  "locn_geometry": "POLYGON((-85.5451 42.6825, -85.4267 42.6825, -85.4267 42.5947, -85.5451 42.5947, -85.5451 42.6825))",
+  "dcat_bbox": "ENVELOPE(-85.5451,-85.4267,42.6825,42.5947)",
+  "dcat_centroid": "42.6386,-85.4859",
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
   ],
   "dct_isPartOf_sm": [
     "ark-85335-m5p55ft97",
-    "06d-01-01"
+    "06d-01"
   ],
-  "dct_license_sm": [
-    "https://creativecommons.org/publicdomain/mark/1.0/"
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13159132\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/306/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/306\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/306/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/306/MODS/view\"}",
+  "dct_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/306\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/306/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/306/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/306/OBJ/download\"}]}",
   "id": "ark-85335-m5gf0p762",
   "dct_identifier_sm": [
+    "oai:d.lib.msu.edu:maps_306",
     "https://n2t.net/ark:/85335/m5gf0p762"
   ],
-  "gbl_mdModified_dt": "2023-05-12T20:37:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

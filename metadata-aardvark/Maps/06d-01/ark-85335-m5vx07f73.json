@@ -1,11 +1,9 @@
 {
-  "dct_title_s": "Minden, Township 14N Range 14E: Sanilac County, Michigan",
-  "dct_alternative_sm": [
-    "Minden, Township 14N Range 14E"
-  ],
+  "dct_title_s": "Minden, Township 14N Range 14E",
   "dct_description_sm": [
-    "Page from: Plat book of Sanilac County, Michigan ",
-    "Scale approximately 1:51,000"
+    "Extent: 1 map ",
+    " Notes: Page from: Plat book of Sanilac County, Michigan ",
+    " Scale approximately 1:51,000"
   ],
   "dct_language_sm": [
     "eng"
@@ -20,51 +18,45 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "gbl_resourceType_sm": [
-    "Cadastral maps"
-  ],
   "dct_subject_sm": [
-    "Real Property",
-    "Landowners"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
+    "Landowners",
+    "Real property",
+    "History"
   ],
   "dct_temporal_sm": [
-    "1924-1932"
+    "19xx"
   ],
   "dct_issued_s": "1924/1932",
   "gbl_indexYear_im": [
-    "1924"
+    "1900"
   ],
   "gbl_dateRange_drsim": [
-    "[1924 TO 1932]"
+    "[1900 TO 1999]"
   ],
   "dct_spatial_sm": [
     "Michigan--Sanilac County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-82.878379 43.685904, -82.756605 43.685904, -82.756605 43.59547, -82.878379 43.59547, -82.878379 43.685904))",
-  "dcat_bbox": "ENVELOPE(-82.878379,-82.756605,43.685904,43.59547)",
-  "dcat_centroid": "43.640687,-82.81749199999999",
+  "locn_geometry": "POLYGON((-82.8784 43.6859, -82.7566 43.6859, -82.7566 43.5955, -82.8784 43.5955, -82.8784 43.6859))",
+  "dcat_bbox": "ENVELOPE(-82.8784,-82.7566,43.6859,43.5955)",
+  "dcat_centroid": "43.640699999999995,-82.8175",
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
   ],
   "dct_isPartOf_sm": [
     "ark-85335-m58p5wn5w",
-    "06d-01-01"
+    "06d-01"
   ],
-  "dct_license_sm": [
-    "https://creativecommons.org/publicdomain/mark/1.0/"
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b13290429\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/880/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/880\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/880/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/880/MODS/view\"}",
+  "dct_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/880\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/880/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/880/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/880/OBJ/download\"}]}",
   "id": "ark-85335-m5vx07f73",
   "dct_identifier_sm": [
+    "oai:d.lib.msu.edu:maps_880",
     "https://n2t.net/ark:/85335/m5vx07f73"
   ],
-  "gbl_mdModified_dt": "2023-05-12T20:38:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

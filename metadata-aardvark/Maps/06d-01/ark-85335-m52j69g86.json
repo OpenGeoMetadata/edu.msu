@@ -1,11 +1,12 @@
 {
   "dct_title_s": "Plat book of Eaton County, Michigan",
-  "dct_alternative_sm": [
-    "Plat book of Eaton County, Michigan"
-  ],
   "dct_description_sm": [
-    "Cover lacking. Cover title inferred from similar atlases by same publisher. ",
-    "Scale approximately 1:51,000"
+    "Extent: 1 atlas (16 unnumbered pages) ",
+    " Abstract: Atlas of township property maps showing names of rural landowners. ",
+    " Notes: Cover lacking. Cover title inferred from similar atlases by same publisher.",
+    "Scale determined from section lines.",
+    "Publication date estimated by the route of M-100 in maps (not labeled). ",
+    " Scale approximately 1:51,000"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,58 +15,50 @@
     "W.W. Hixson & Co."
   ],
   "dct_publisher_sm": [
-    "W. W. Hixson & Co."
+    "Published by W. W. Hixson & Co."
   ],
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "gbl_resourceType_sm": [
-    "Atlases",
-    "Cadastral maps"
-  ],
   "dct_subject_sm": [
-    "Real Property",
-    "Landowners"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
+    "Landowners",
+    "Real property",
+    "Small business"
   ],
   "dct_temporal_sm": [
-    "1932-1939"
+    "193x"
   ],
   "dct_issued_s": "1932/1939",
   "gbl_indexYear_im": [
-    "1932"
+    "1930"
   ],
   "gbl_dateRange_drsim": [
-    "[1932 TO 1939]"
+    "[1930 TO 1939]"
   ],
   "dct_spatial_sm": [
     "Michigan--Eaton County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-85.0745 42.7712, -84.6025 42.7712, -84.6025 42.4209, -85.0745 42.4209, -85.0745 42.7712))",
-  "dcat_bbox": "ENVELOPE(-85.0745,-84.6025,42.7712,42.4209)",
-  "dcat_centroid": "42.596050000000005,-84.83850000000001",
+  "locn_geometry": "POLYGON((-85.0744 42.7711, -84.6025 42.7711, -84.6025 42.4208, -85.0744 42.4208, -85.0744 42.7711))",
+  "dcat_bbox": "ENVELOPE(-85.0744,-84.6025,42.7711,42.4208)",
+  "dcat_centroid": "42.59595,-84.83845",
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
   ],
   "dct_isPartOf_sm": [
-    "06d-01-01",
     "06d-01"
   ],
-  "dct_license_sm": [
-    "https://creativecommons.org/publicdomain/mark/1.0/"
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b12942223\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/170\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/170/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/170/MODS/view\"}",
+  "dct_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/170\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/170/manifest\"}",
   "id": "ark-85335-m52j69g86",
   "dct_identifier_sm": [
+    "oai:d.lib.msu.edu:maps_170",
     "https://n2t.net/ark:/85335/m52j69g86"
   ],
-  "gbl_mdModified_dt": "2023-05-12T20:37:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,10 +1,8 @@
 {
-  "dct_title_s": "Hog Islands/Little Beaver Island, Township 39 & 40N/38 & 39N Range 9W/11W: Charlevoix County, Michigan",
-  "dct_alternative_sm": [
-    "Hog Islands/Little Beaver Island, Township 39 & 40N/38 & 39N Range 9W/11W"
-  ],
+  "dct_title_s": "Hog Islands/Little Beaver Island, Township 39 & 40N/38 & 39N Range 9W/11W",
   "dct_description_sm": [
-    "Page from: Plat book of Charlevoix County, Michigan"
+    "Extent: 1 map ",
+    " Notes: Page from: Plat book of Charlevoix County, Michigan"
   ],
   "dct_language_sm": [
     "eng"
@@ -19,19 +17,11 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "gbl_resourceType_sm": [
-    "Cadastral maps"
-  ],
   "dct_subject_sm": [
-    "Real Property",
-    "Landowners"
-  ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
+    "Real property"
   ],
   "dct_temporal_sm": [
-    "1930-1939"
+    "193x"
   ],
   "dct_issued_s": "1930/1939",
   "gbl_indexYear_im": [
@@ -44,26 +34,26 @@
     "Michigan--Charlevoix County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-85.695609 45.775891, -85.683931 45.775891, -85.683931 45.769894, -85.695609 45.769894, -85.695609 45.775891))",
-  "dcat_bbox": "ENVELOPE(-85.695609,-85.683931,45.775891,45.769894)",
-  "dcat_centroid": "45.7728925,-85.68977000000001",
+  "locn_geometry": "POLYGON((-85.6956 45.7759, -85.6839 45.7759, -85.6839 45.7699, -85.6956 45.7699, -85.6956 45.7759))",
+  "dcat_bbox": "ENVELOPE(-85.6956,-85.6839,45.7759,45.7699)",
+  "dcat_centroid": "45.7729,-85.68975",
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
   ],
   "dct_isPartOf_sm": [
-    "ark-85335-m54t6f44t",
-    "06d-01-01"
+    "ark-85335-m5xg9gp47",
+    "06d-01"
   ],
-  "dct_license_sm": [
-    "https://creativecommons.org/publicdomain/mark/1.0/"
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Mark 1.0: This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://catalog.lib.msu.edu/record=b4226787\",\"http://schema.org/downloadUrl\":\"https://d.lib.msu.edu/maps/960/datastream/OBJ/download\",\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/960\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/960/manifest\",\"http://www.loc.gov/mods/v3\":\"https://d.lib.msu.edu/maps/960/MODS/view\"}",
+  "dct_format_s": "TIFF/JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/960\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/960/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/960/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/960/OBJ/download\"}]}",
   "id": "ark-85335-m58s4m174",
   "dct_identifier_sm": [
+    "oai:d.lib.msu.edu:maps_960",
     "https://n2t.net/ark:/85335/m58s4m174"
   ],
-  "gbl_mdModified_dt": "2023-05-12T20:38:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }
