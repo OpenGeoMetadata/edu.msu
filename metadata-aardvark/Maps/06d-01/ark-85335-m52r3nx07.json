@@ -5,8 +5,7 @@
     " Abstract: Map showing the Garden of Eden located inside a bend of a river formed by the confluences of the Hiddekel [Tigris], Perath [Euphrates], Pison [Pishon], and Gihon rivers, with the Tree of Life and Fountain of Life at its center. ",
     " Notes: Oriented with north to the left.",
     "Map detached from Gentleman's magazine, likely from either the December 1737 issue or a supplement to the December 1737 issue, in volume VII. Associated with the article \"Account of the Garden of Eden, by the author of Account of the Old World\" on pages 66-69 of the February 1738 issue, in volume VIII.",
-    "Includes illustrations and note. ",
-    " Scale not given"
+    "Includes illustrations and note."
   ],
   "dct_language_sm": [
     "eng"
@@ -43,7 +42,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/14\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/14/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/14/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/14/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/14\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/14/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/14/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/14/manifest\"}",
   "id": "ark-85335-m52r3nx07",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_14",

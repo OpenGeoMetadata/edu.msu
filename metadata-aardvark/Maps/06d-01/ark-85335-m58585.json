@@ -5,8 +5,7 @@
     " Abstract: Map of Michigan showing surveyed counties, cities and towns, townships and township names, and sections. Shows distances in miles between various points on Lake Michigan. Shows county seats, Indian villages, railroads, mills, prairies, swamps and marshes, canals, and roads. Plank roads and \"most important roads\" are indicated. ",
     " Notes: Town of \"Rio Grand\" is shown north of Lansing, in Lansing Township, Ingham County. Town of \"Hamilton\" is shown in vicinity of present-day Okemos. A stream named Alcotte Creek is shown in the vicinity of Lansing. Present-day Williamstown Township in Ingham County is named \"Phelps Town\" or \"Phelpstown\" Township. Shows \"proposed route of Clinton and Kalamazoo Canal.\" \"Grand river road\" is labeled in Ingham County.",
     "Prime meridian: Greenwich.",
-    "Includes notes about shoreline conditions (rockiness, steepness, etc.) and 1 inset: Plat of the copper district on L. Superior / engraved by J. Farmer. ",
-    " Scale approximately 1:786,111"
+    "Includes notes about shoreline conditions (rockiness, steepness, etc.) and 1 inset: Plat of the copper district on L. Superior / engraved by J. Farmer."
   ],
   "dct_language_sm": [
     "eng"
@@ -23,11 +22,11 @@
     "Maps"
   ],
   "dct_subject_sm": [
-    "Distances, etc",
     "Canals",
     "Administrative and political divisions",
     "Distances",
-    "Railroads"
+    "Railroads",
+    "Railroads--Distances, etc."
   ],
   "dct_temporal_sm": [
     "1855"
@@ -56,7 +55,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/9\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/9/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/9/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/9/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/9\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/9/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/9/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/9/manifest\"}",
   "id": "ark-85335-m58585",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_9",

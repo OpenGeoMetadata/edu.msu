@@ -6,8 +6,7 @@
     " Notes: Oriented with north to the upper right.",
     "From: Gentleman's Magazine, and Historical Chronicle, vol. 27, 1757.",
     "Detached from: The gentleman's magazine, and historical chronicle. Volume XXVII : for the year M.DCC.LVII. London : Printed for D. Henry, and R. Cave, 1757. Map was originally published in the June 1757 issue, but may have been relocated elsewhere within bound volumes of Volume XXVII.",
-    "Prime meridian: London. ",
-    " Scale approximately 1:2,543,400"
+    "Prime meridian: London."
   ],
   "dct_language_sm": [
     "eng"
@@ -23,7 +22,7 @@
     "Maps"
   ],
   "dct_subject_sm": [
-    "Seven Years' War, 1756-1763"
+    "Seven Years' War (1756-1763)"
   ],
   "dct_temporal_sm": [
     "1757"
@@ -55,7 +54,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/18\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/18/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/18/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/18/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/18\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/18/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/18/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/18/manifest\"}",
   "id": "ark-85335-m5ks6j476",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_18",

@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 2 maps ",
     " Abstract: Cadastral maps of Mason showing property boundaries, building footprints, and names of property owners. Shows former \"A Street,\" \"B Street,\" etc., street naming system. ",
-    " Notes: Likely detached from: County atlas of Ingham, Michigan / from recent and actual surveys and records under the superintendence of F. W. Beers. New York : F.W. Beers & Co., 1874. Pages 74-75 and 78-79. ",
-    " Scale 1:3,960. 20 rods to the inch"
+    " Notes: Likely detached from: County atlas of Ingham, Michigan / from recent and actual surveys and records under the superintendence of F. W. Beers. New York : F.W. Beers & Co., 1874. Pages 74-75 and 78-79."
   ],
   "dct_language_sm": [
     "eng"
@@ -50,7 +49,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/84\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/84/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/84/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/84/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/84\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/84/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/84/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/84/manifest\"}",
   "id": "ark-85335-m5jh3d28x",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_84",

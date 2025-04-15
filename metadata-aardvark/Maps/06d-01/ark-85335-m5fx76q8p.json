@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Notes: Base map May, 1963; revised June, 1966.",
-    "1 in. = 25,000 vehicles. ",
-    " Scale 1:48,000"
+    "1 in. = 25,000 vehicles."
   ],
   "dct_language_sm": [
     "eng"
@@ -50,7 +49,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1177\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1177/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1177/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1177/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1177\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1177/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1177/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1177/manifest\"}",
   "id": "ark-85335-m5fx76q8p",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1177",

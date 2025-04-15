@@ -4,8 +4,7 @@
     "Extent: 1 map ",
     " Notes: Printed from same plate as Delamarche imprint but with change of publisher and addition below title of: Supplément à l'atlas de M. Robert de Vaugondy.",
     "Prime meridians: Isle de Fer and Paris.",
-    "Includes table at lower right giving populations of individual states. ",
-    " Scale 1:7,500,000"
+    "Includes table at lower right giving populations of individual states."
   ],
   "dct_language_sm": [
     "fre"
@@ -51,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/5\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/5/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/5/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/5/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/5\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/5/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/5/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/5/manifest\"}",
   "id": "ark-85335-m5sw1d",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_5",

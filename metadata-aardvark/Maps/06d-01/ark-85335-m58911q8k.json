@@ -1,8 +1,7 @@
 {
   "dct_title_s": "An accurate map of his R. H. the Duke of York's journey thro Italy in 1763 & 1764",
   "dct_description_sm": [
-    "Extent: 1 map ",
-    " Scale approximately 1:2,300,000"
+    "Extent: 1 map"
   ],
   "dct_language_sm": [
     "eng"
@@ -48,7 +47,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/25\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/25/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/25/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/25/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/25\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/25/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/25/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/25/manifest\"}",
   "id": "ark-85335-m58911q8k",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_25",

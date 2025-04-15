@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Notes: Includes road index.",
-    "Also shows trunk lines, primary county roads and McNitt black-top roads. ",
-    " Scale not given (W 84°21ʹ48ʺ--W 83°45ʹ47ʺ/N 42°04ʹ56ʺ--N 41°42ʹ23ʺ)"
+    "Also shows trunk lines, primary county roads and McNitt black-top roads."
   ],
   "dct_language_sm": [
     "eng"
@@ -47,7 +46,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1209\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1209/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1209/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1209/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1209\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1209/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1209/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1209/manifest\"}",
   "id": "ark-85335-m5s46kz7p",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1209",

@@ -4,8 +4,7 @@
     "Extent: 1 map ",
     " Abstract: Map of Halifax, Nova Scotia, showing fortifications. ",
     " Notes: Detached from the October 1749 issue of: The gentleman's magazine. London : Printed by E. Cave, jun.",
-    "Includes text of pages 439-440 (both sides) and \"Explanation\" (index to buildings and sites). ",
-    " Scale not given"
+    "Includes text of pages 439-440 (both sides) and \"Explanation\" (index to buildings and sites)."
   ],
   "dct_language_sm": [
     "eng"
@@ -46,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/83\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/83/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/83/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/83/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/83\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/83/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/83/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/83/manifest\"}",
   "id": "ark-85335-m56688j68",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_83",

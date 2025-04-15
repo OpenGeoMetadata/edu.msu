@@ -5,8 +5,7 @@
     " Notes: Relief shown pictorially and by hachures.",
     "Scales in lieues communes de France de 2282 toises, and grandes lieues de France de 2853 toises.",
     "Prime meridian: Paris.",
-    "Removed from: Charlevoix, Pierre F.X. de. Histoire et description de la Nouvelle France. Paris, 1744. ",
-    " Scale approximately 1:4,000,000"
+    "Removed from: Charlevoix, Pierre F.X. de. Histoire et description de la Nouvelle France. Paris, 1744."
   ],
   "dct_language_sm": [
     "fre"
@@ -46,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/3\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/3/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/3/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/3/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/3\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/3/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/3/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/3/manifest\"}",
   "id": "ark-85335-m5200j",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_3",

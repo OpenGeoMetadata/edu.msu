@@ -5,8 +5,7 @@
     " Abstract: Map of the fort at Vijayadurg (also known as Vijaydurg or Viziadrug, historically also known as Gariah or Gheriah) in present-day Sindhudurg district, Maharashtra state, on the southwestern coast of India. ",
     " Notes: Depths shown by soundings.",
     "Detached from: The gentleman's magazine, and historical chronicle. Volume XXVI : for the year M.DCC.LVI. London : Printed for D. Henry, and R. Cave, 1756. Map followed page 618 in: Supplement to the gentleman's magazine : for the year 1756.",
-    "Includes descriptive index (\"Explanation\") to various features of the fort and surrounding area. ",
-    " Scale approximately 1:110,000"
+    "Includes descriptive index (\"Explanation\") to various features of the fort and surrounding area."
   ],
   "dct_language_sm": [
     "eng"
@@ -17,9 +16,6 @@
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Fortification"
   ],
   "dct_temporal_sm": [
     "1756"
@@ -50,7 +46,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/48\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/48/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/48/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/48/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/48\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/48/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/48/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/48/manifest\"}",
   "id": "ark-85335-m5kh0dz8r",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_48",

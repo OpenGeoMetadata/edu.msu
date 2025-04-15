@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Abstract: Map of eastern Michigan showing township and range lines for surveyed areas. Covers area north and west to Saginaw County, and south and east to border. ",
-    " Notes: Prime meridian: Washington. ",
-    " Scale 1:253,440. 4 miles to an inch"
+    " Notes: Prime meridian: Washington."
   ],
   "dct_language_sm": [
     "eng"
@@ -48,7 +47,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/13\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/13/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/13/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/13/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/13\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/13/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/13/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/13/manifest\"}",
   "id": "ark-85335-m5rs2f",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_13",

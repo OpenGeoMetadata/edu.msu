@@ -2,8 +2,7 @@
   "dct_title_s": "County of Montmorency Town 29 Range 1 East",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Abstract: Manuscript cadastral map of a survey township that later became the western portion of Albert Township, in southwestern Montmorency County, Michigan. Shows names of property owners. ",
-    " Scale approximately 1:32,000"
+    " Abstract: Manuscript cadastral map of a survey township that later became the western portion of Albert Township, in southwestern Montmorency County, Michigan. Shows names of property owners."
   ],
   "dct_language_sm": [
     "eng"
@@ -48,7 +47,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/95\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/95/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/95/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/95/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/95\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/95/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/95/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/95/manifest\"}",
   "id": "ark-85335-m56d5pb12",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_95",

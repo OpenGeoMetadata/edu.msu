@@ -5,8 +5,7 @@
     " Notes: Prime meridians: Greenwich and Washington.",
     "Includes grid.",
     "Covers southern Michigan.",
-    "Insets: Map of the Straits of Michillimackinac. -- Map of Pte. Ste. Ignace. -- Map of the most important parts of the lead mine district near the Mississippi River. -- Map of the private claims at Green Bay -- Map of Michillimackinac. ",
-    " Scale not given"
+    "Insets: Map of the Straits of Michillimackinac. -- Map of Pte. Ste. Ignace. -- Map of the most important parts of the lead mine district near the Mississippi River. -- Map of the private claims at Green Bay -- Map of Michillimackinac."
   ],
   "dct_language_sm": [
     "eng"
@@ -49,7 +48,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/12\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/12/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/12/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/12/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/12\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/12/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/12/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/12/manifest\"}",
   "id": "ark-85335-m5wk4c",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_12",

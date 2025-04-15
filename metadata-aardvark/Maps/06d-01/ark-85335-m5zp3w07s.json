@@ -4,8 +4,7 @@
     "Extent: 1 map ",
     " Abstract: Map of central Washington, D.C, showing locations of deaths from tuberculosis (\"consumption\") classified by race (\"white\" and \"colored\"). Also shows block numbers. ",
     " Notes: Map detached from a United States House of Representatives document (Serial Set 4302 H.doc.7): Report of the Commissioners of the District of Columbia for the year ended June 30, 1901.",
-    "Includes directory of \"Width of streets and avenues.\". ",
-    " Scale approximately 1:13,670"
+    "Includes directory of \"Width of streets and avenues.\"."
   ],
   "dct_language_sm": [
     "eng"
@@ -56,7 +55,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/70\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/70/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/70/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/70/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/70\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/70/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/70/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/70/manifest\"}",
   "id": "ark-85335-m5zp3w07s",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_70",

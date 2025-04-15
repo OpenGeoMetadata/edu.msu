@@ -2,8 +2,7 @@
   "dct_title_s": "Major natural gas and oil pipe lines",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Abstract: Map of Macomb County, Michigan, showing oil lines, gas lines, gas storage fields, regulator stations, and storage meter stations. ",
-    " Scale approximately 1:98,000"
+    " Abstract: Map of Macomb County, Michigan, showing oil lines, gas lines, gas storage fields, regulator stations, and storage meter stations."
   ],
   "dct_language_sm": [
     "eng"
@@ -56,7 +55,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1113\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1113/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1113/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1113/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1113\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1113/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1113/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1113/manifest\"}",
   "id": "ark-85335-m5r49k23x",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1113",

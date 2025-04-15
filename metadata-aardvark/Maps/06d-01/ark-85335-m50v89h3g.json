@@ -5,8 +5,7 @@
     " Notes: Relief shown pictorially.",
     "Map was likely extracted from: Volume II of A new and comprehensive system of philology; or, a treatise of the literary arts and sciences, according to their present state / by Benjamin Martin, published in 1764, originally published in monthly installments as: The general magazine of arts and sciences, philosophical, philological, mathematical and mechanical.",
     "Prime meridian: London.",
-    "Shows colonial boundaries. ",
-    " Scale not given"
+    "Shows colonial boundaries."
   ],
   "dct_language_sm": [
     "eng"
@@ -56,7 +55,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/27\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/27/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/27/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/27/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/27\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/27/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/27/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/27/manifest\"}",
   "id": "ark-85335-m50v89h3g",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_27",

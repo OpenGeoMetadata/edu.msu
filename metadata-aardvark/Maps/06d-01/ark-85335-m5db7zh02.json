@@ -4,8 +4,7 @@
     "Extent: 1 map ",
     " Notes: Title from panel.",
     "Includes distance chart.",
-    "Text including descriptions of \"Interesting drives from Grand Rapids,\" descriptive index to parks, indexes to points of interest and golf courses, and illustrations on verso. ",
-    " Scale approximately 1:125,000"
+    "Text including descriptions of \"Interesting drives from Grand Rapids,\" descriptive index to parks, indexes to points of interest and golf courses, and illustrations on verso."
   ],
   "dct_language_sm": [
     "eng"
@@ -53,7 +52,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1141\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1141/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1141/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1141/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1141\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1141/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1141/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1141/manifest\"}",
   "id": "ark-85335-m5db7zh02",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1141",

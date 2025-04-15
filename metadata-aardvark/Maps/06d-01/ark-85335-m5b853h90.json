@@ -4,8 +4,7 @@
     "Extent: 1 map ",
     " Abstract: Digital scan of the Bloomingdale Township portion of a larger 1906 map of Van Buren County, Michigan. The county map was cut into township-sized pieces, and the pieces were later found pasted into an 1895 atlas of Van Buren County, now in the collection of the Michigan State University Map Library. Each township map cut from the 1906 county map was pasted onto a blank page opposite the map of the corresponding township in the 1895 county atlas. Shows parcel boundaries and names of property owners, Public Land Survey System township and section numbering, roads, railroads, residences, schools, churches, municipalities, and water features. ",
     " Notes: Original was cut from map: Orton, M. K. A farm map of Vanburen County, Michigan / compiled from official records and local inspection by W.H. Goss, County Surveyor ; drawn by M.K. Orton. Rockford, Ill. : W.W. Hixson, 1906.",
-    "Original was pasted into atlas: Kace Publishing Company. Illustrated atlas of Van Buren County, Michigan / compiled from official records and local inspections, by the Kace Publishing Company. Racine, Wis. : Kace Publishing Company, 1895. ",
-    " Scale approximately 1:39,250"
+    "Original was pasted into atlas: Kace Publishing Company. Illustrated atlas of Van Buren County, Michigan / compiled from official records and local inspections, by the Kace Publishing Company. Racine, Wis. : Kace Publishing Company, 1895."
   ],
   "dct_language_sm": [
     "eng"
@@ -52,7 +51,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/34\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/34/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/34/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/34/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/34\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/34/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/34/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/34/manifest\"}",
   "id": "ark-85335-m5b853h90",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_34",

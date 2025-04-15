@@ -4,8 +4,7 @@
     "Extent: 1 map ",
     " Notes: Title from panel.",
     "Panel illustration shows two standing women holding skis. Panel text is black, red, and white on a blue background.",
-    "Text, \"Missaukee County Road Commission, home of national bear hunt\" logo, location map, and illustrations on verso. ",
-    " Scale approximately 1:120,000"
+    "Text, \"Missaukee County Road Commission, home of national bear hunt\" logo, location map, and illustrations on verso."
   ],
   "dct_language_sm": [
     "eng"
@@ -53,7 +52,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1121\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1121/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1121/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1121/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1121\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1121/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1121/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1121/manifest\"}",
   "id": "ark-85335-m5f18w68n",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1121",

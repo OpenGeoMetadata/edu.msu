@@ -6,8 +6,7 @@
     "Author attribution based on LC's cataloging of earlier variant of same title, and Cumming 129, published \"chez Pierre Mortier Libraire,\" 1700.",
     "J. Covens and C. Mortier began operating as a firm in 1721--Stock catalogs of maps and atlases by Covens & Mortier, p. 11.",
     "Originally printed on 2 sheets.",
-    "Includes inset of Boston harbor area. ",
-    " Scale approximately 1:6,000,000"
+    "Includes inset of Boston harbor area."
   ],
   "dct_language_sm": [
     "fre"
@@ -51,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/8\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/8/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/8/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/8/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/8\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/8/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/8/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/8/manifest\"}",
   "id": "ark-85335-m5cz81",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_8",

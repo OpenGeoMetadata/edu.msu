@@ -6,8 +6,7 @@
     " Notes: Relief shown pictorially.",
     "In: The Gentleman's Magazine for January 1759.",
     "Likely detached from: The gentleman's magazine, and historical chronicle. Volume XXIX : for the year M.DCC.LIX. London : Printed for D. Henry, and R. Cave, 1759. Map was originally published in the January 1759 issue, and was apparently relocated to follow the preface of bound volumes of Volume XXIX.",
-    "Prime meridian: London. ",
-    " Scale approximately 1:4,250,000"
+    "Prime meridian: London."
   ],
   "dct_language_sm": [
     "eng"
@@ -24,8 +23,7 @@
   ],
   "dct_subject_sm": [
     "Military campaigns",
-    "Campaigns",
-    "Seven Years' War, 1756-1763"
+    "Seven Years' War (1756-1763)"
   ],
   "dct_temporal_sm": [
     "1759"
@@ -54,7 +52,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/16\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/16/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/16/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/16/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/16\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/16/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/16/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/16/manifest\"}",
   "id": "ark-85335-m5tb0xv5m",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_16",

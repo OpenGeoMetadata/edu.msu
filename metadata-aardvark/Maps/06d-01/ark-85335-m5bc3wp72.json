@@ -2,8 +2,7 @@
   "dct_title_s": "Traffic flow 1965, 24 hour average, Oakland County, Michigan",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Notes: Base map \"Date of map May 1963, revised June 1966.\". ",
-    " Scale 1:48,000. 1 = 4,000"
+    " Notes: Base map \"Date of map May 1963, revised June 1966.\"."
   ],
   "dct_language_sm": [
     "eng"
@@ -49,7 +48,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1181\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1181/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1181/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1181/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1181\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1181/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1181/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1181/manifest\"}",
   "id": "ark-85335-m5bc3wp72",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1181",

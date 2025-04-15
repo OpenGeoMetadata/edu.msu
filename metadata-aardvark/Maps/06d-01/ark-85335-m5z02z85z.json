@@ -6,8 +6,7 @@
     " Notes: Published in the Gentlemen's magazine for January 1761.",
     "Detached from: The gentleman's magazine, and historical chronicle. Volume XXXI : for the year M.DCC.LXI. London : Printed for D. Henry 1761. Map was originally published in the January 1761 issue, and was apparently relocated to the end of bound volumes of Volume XXXI.",
     "Prime meridian: London.",
-    "Includes 2 inset maps: Dutchy of Saxon Lauwenburg Duchy of Saxe-Lauenburg -- Dutchy's of Bremen and Ferden Duchies of Bremen and Verden. ",
-    " Scale approximately 1:1,448,228"
+    "Includes 2 inset maps: Dutchy of Saxon Lauwenburg Duchy of Saxe-Lauenburg -- Dutchy's of Bremen and Ferden Duchies of Bremen and Verden."
   ],
   "dct_language_sm": [
     "eng"
@@ -52,7 +51,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/17\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/17/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/17/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/17/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/17\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/17/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/17/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/17/manifest\"}",
   "id": "ark-85335-m5z02z85z",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_17",

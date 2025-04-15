@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Notes: Prime meridian: Washington D.C.",
-    "Includes statistical data for each state. ",
-    " Scale approximately 1:2,000,000"
+    "Includes statistical data for each state."
   ],
   "dct_language_sm": [
     "eng"
@@ -48,7 +47,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/4\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/4/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/4/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/4/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/4\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/4/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/4/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/4/manifest\"}",
   "id": "ark-85335-m5xg4n",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_4",

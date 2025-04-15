@@ -2,8 +2,7 @@
   "dct_title_s": "Map of the northern parts of Ohio, Indiana and Illinois with Michigan and that part of the Ouisconsin territory lying east of the Mississippi River",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Notes: Manuscript note: \"To accompany Mr. Thomas' report no. 380, on boundary of Ohio & Michigan.\". ",
-    " Scale not given"
+    " Notes: Manuscript note: \"To accompany Mr. Thomas' report no. 380, on boundary of Ohio & Michigan.\"."
   ],
   "dct_language_sm": [
     "eng"
@@ -46,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/87\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/87/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/87/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/87/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/87\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/87/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/87/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/87/manifest\"}",
   "id": "ark-85335-m52n4zh8s",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_87",

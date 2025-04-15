@@ -4,8 +4,7 @@
     "Extent: 1 map ",
     " Notes: Oriented with north to the upper right.",
     "Includes Index guide to streets.",
-    "Includes advertising for First Morgage Bond Company, Inc. ",
-    " Scale approximately 1:45,000"
+    "Includes advertising for First Morgage Bond Company, Inc."
   ],
   "dct_language_sm": [
     "eng"
@@ -19,9 +18,6 @@
   "schema_provider_s": "Michigan State University",
   "gbl_resourceClass_sm": [
     "Maps"
-  ],
-  "dct_subject_sm": [
-    "Street-railroads"
   ],
   "dct_temporal_sm": [
     "1919"
@@ -52,7 +48,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/53\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/53/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/53/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/53/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/53\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/53/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/53/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/53/manifest\"}",
   "id": "ark-85335-m5nc5sc5c",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_53",

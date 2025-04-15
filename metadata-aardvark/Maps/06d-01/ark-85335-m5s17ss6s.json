@@ -4,8 +4,7 @@
     "Extent: 1 map ",
     " Abstract: Digital scan of a map of the Lower Peninsula of Michigan, from an 1873 atlas. Shows counties, civil townships, cities and towns, roads, railroads, and water features. ",
     " Notes: From: Beers, F. W. (Frederick W.). Atlas of Calhoun Co. Michigan : from recent and actual surveys and records / under the superintendence of F.W. Beers. New York :  F.W. Beers & Co., 1873.",
-    "Prime meridians: Greenwich and Washington. ",
-    " Scale not determined"
+    "Prime meridians: Greenwich and Washington."
   ],
   "dct_language_sm": [
     "eng"
@@ -49,7 +48,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/60\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/60/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/60/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/60/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/60\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/60/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/60/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/60/manifest\"}",
   "id": "ark-85335-m5s17ss6s",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_60",

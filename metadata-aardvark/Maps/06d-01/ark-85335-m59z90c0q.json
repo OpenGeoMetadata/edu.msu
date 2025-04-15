@@ -4,8 +4,7 @@
     "Extent: 1 map ",
     " Abstract: Map of Colorado showing land grants, forest reserves, railroads, land offices, etc. ",
     " Notes: Relief shown by shading.",
-    "Map detached from a United States Senate document in the United States congressional serial set (Serial Set 4220 S.doc.34): Letter from the Secretary of the Interior, transmitting a report of the Commissioner of Indian Affairs and accompanying draft of a bill providing for an appropriation to compensate the Confederated Bands of Ute Indians for the lands of their reservation in Colorado. ",
-    " Scale 1:760,320 1 in. = 12 miles"
+    "Map detached from a United States Senate document in the United States congressional serial set (Serial Set 4220 S.doc.34): Letter from the Secretary of the Interior, transmitting a report of the Commissioner of Indian Affairs and accompanying draft of a bill providing for an appropriation to compensate the Confederated Bands of Ute Indians for the lands of their reservation in Colorado."
   ],
   "dct_language_sm": [
     "eng"
@@ -61,7 +60,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/82\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/82/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/82/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/82/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/82\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/82/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/82/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/82/manifest\"}",
   "id": "ark-85335-m59z90c0q",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_82",
