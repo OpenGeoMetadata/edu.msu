@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Notes: On panel title: \"Golden Anniversary edition,1913-1963.\".",
-    "Index and panel title on verso. ",
-    " Scale approximately 1:145,000"
+    "Index and panel title on verso."
   ],
   "dct_language_sm": [
     "eng"
@@ -50,7 +49,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1213\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1213/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1213/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1213/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1213\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1213/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1213/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1213/manifest\"}",
   "id": "ark-85335-m5ht2k44c",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1213",

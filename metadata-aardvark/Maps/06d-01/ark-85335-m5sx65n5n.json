@@ -2,8 +2,7 @@
   "dct_title_s": "Redding, Township 19N Range 6W",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Notes: Page from: Plat book of Clare County, Michigan ",
-    " Scale approximately 1:51,000"
+    " Notes: Page from: Plat book of Clare County, Michigan"
   ],
   "dct_language_sm": [
     "eng"
@@ -51,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/232\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/232/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/232/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/232/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/232\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/232/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/232/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/232/manifest\"}",
   "id": "ark-85335-m5sx65n5n",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_232",

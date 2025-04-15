@@ -8,8 +8,7 @@
     "Differs from other versions in photo selection on recto, and inclusion of table of fishing sites on verso. Recto includes images of a \"commercial fisherman\" and \"clubhouse at Keweenaw Park,\" among several others.",
     "Date of publication from postal cancellation stamp.",
     "Includes \"Inset, Isle Royale Nat'leaves Park, Keweenaw County\" and color illustrations.",
-    "Promotional text \"Keweenaw, a glorious vacationland,\" table of fishing sites (\"Where to fish in Keweenaw County,\"), Isle Royale National Park ferry schedule, location map, and color illustrations on verso. ",
-    " Scale approximately 1:130,000"
+    "Promotional text \"Keweenaw, a glorious vacationland,\" table of fishing sites (\"Where to fish in Keweenaw County,\"), Isle Royale National Park ferry schedule, location map, and color illustrations on verso."
   ],
   "dct_language_sm": [
     "eng"
@@ -56,7 +55,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1144\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1144/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1144/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1144/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1144\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1144/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1144/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1144/manifest\"}",
   "id": "ark-85335-m5s759b7z",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1144",

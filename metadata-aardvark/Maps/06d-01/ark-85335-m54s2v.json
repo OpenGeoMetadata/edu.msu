@@ -5,8 +5,7 @@
     " Abstract: Map showing counties; townships and the names of organized townships; cities and towns; major rivers and streams; and railroads and railroad stations. ",
     " Notes: Relief shown by hachures.",
     "According to a comparison (January 21, 2015) with the Newberry Library's Atlas of Historical County Boundaries, some county boundaries on this map were outdated or otherwise incorrect at the time of its publication, including: boundaries of Genesee, Lapeer, and Tuscola counties that were reflective of 1843 boundary adjustments, and that had since been superseded; the inclusion of Charlevoix County, which had been eliminated in 1853; and the absence of Leelanau County, which had been created in 1840, and Manitou County, which had been created in 1855.",
-    "Includes continuation inset map of the western portion of the Upper Peninsula. ",
-    " Scale approximately 1:975,360"
+    "Includes continuation inset map of the western portion of the Upper Peninsula."
   ],
   "dct_language_sm": [
     "eng"
@@ -51,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/10\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/10/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/10/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/10/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/10\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/10/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/10/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/10/manifest\"}",
   "id": "ark-85335-m54s2v",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_10",

@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Abstract: Pages 61 and 62 of the February 1770 issue of The Gentleman's magazine, including a map submitted by \"J.P.\" showing a proposal for the layout of a town accommodating 176 families in the North American colonies, and accompanying text. ",
-    " Notes: Includes text describing the map (both sides). ",
-    " Scale approximately 1:14,300"
+    " Notes: Includes text describing the map (both sides)."
   ],
   "dct_language_sm": [
     "eng"
@@ -45,7 +44,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/77\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/77/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/77/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/77/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/77\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/77/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/77/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/77/manifest\"}",
   "id": "ark-85335-m5gq6r24q",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_77",

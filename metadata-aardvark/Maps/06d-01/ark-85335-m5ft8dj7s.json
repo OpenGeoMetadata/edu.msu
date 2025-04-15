@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Notes: Includes indexes and inset of \"San Francisco and adjacent territory.\".",
-    "Text of \"San Francisco, what to see, how to see it,\" map of \"Southern Pacific and connections,\" and ill. on verso. ",
-    " Scale approximately 1:30,800"
+    "Text of \"San Francisco, what to see, how to see it,\" map of \"Southern Pacific and connections,\" and ill. on verso."
   ],
   "dct_language_sm": [
     "eng"
@@ -51,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/86\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/86/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/86/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/86/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/86\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/86/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/86/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/86/manifest\"}",
   "id": "ark-85335-m5ft8dj7s",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_86",

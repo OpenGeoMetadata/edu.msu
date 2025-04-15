@@ -2,8 +2,7 @@
   "dct_title_s": "A map of Upper Saxony comprehending that part of Germany which is the present seat of war",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Notes: From: Gentleman's Magazine, and Historical Chronicle, vol. 27, 1757. ",
-    " Scale approximately 1:2,534,400"
+    " Notes: From: Gentleman's Magazine, and Historical Chronicle, vol. 27, 1757."
   ],
   "dct_language_sm": [
     "eng"
@@ -41,7 +40,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/89\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/89/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/89/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/89/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/89\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/89/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/89/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/89/manifest\"}",
   "id": "ark-85335-m5b27pr3z",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_89",

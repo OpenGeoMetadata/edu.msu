@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Abstract: Map of Sanilac County, Michigan, showing named telephone exchange boundaries, including \"Gen'l Tel. Co.\" and \"Continental Tel. Co.\" exchanges. ",
-    " Notes: Includes revision date history table and location map. ",
-    " Scale approximately 1:130,000"
+    " Notes: Includes revision date history table and location map."
   ],
   "dct_language_sm": [
     "eng"
@@ -55,7 +54,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1140\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1140/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1140/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1140/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1140\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1140/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1140/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1140/manifest\"}",
   "id": "ark-85335-m5x924996",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1140",

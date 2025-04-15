@@ -2,8 +2,7 @@
   "dct_title_s": "Putnam, Township 1N Range 4E",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Notes: Page from: Plat book of Livingston County, Michigan ",
-    " Scale approximately 1:51,000"
+    " Notes: Page from: Plat book of Livingston County, Michigan"
   ],
   "dct_language_sm": [
     "eng"
@@ -52,7 +51,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/670\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/670/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/670/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/670/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/670\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/670/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/670/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/670/manifest\"}",
   "id": "ark-85335-m5542km4n",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_670",

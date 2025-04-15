@@ -2,8 +2,7 @@
   "dct_title_s": "Battle Creek, Township 2S Range 8W",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Notes: Page from: Plat book of Calhoun County Michigan ",
-    " Scale approximately 1:51,000"
+    " Notes: Page from: Plat book of Calhoun County Michigan"
   ],
   "dct_language_sm": [
     "eng"
@@ -51,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/243\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/243/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/243/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/243/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/243\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/243/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/243/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/243/manifest\"}",
   "id": "ark-85335-m5st7g83t",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_243",

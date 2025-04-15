@@ -5,9 +5,7 @@
     " Abstract: County road map and city street map. ",
     " Notes: Title from panel.",
     "Includes text, indexes to roads and streets, 3 ancillary maps, and illustrations.",
-    "Ancillary maps: City of Coleman, Midland County, Michigan -- Village of Sanford, Midland County, Michigan -- Midland area. ",
-    " Scale 1:60,000. 1 in. = 5,000 ft",
-    "Scale 1:21,600. 1 in. = 1,800 ft"
+    "Ancillary maps: City of Coleman, Midland County, Michigan -- Village of Sanford, Midland County, Michigan -- Midland area."
   ],
   "dct_language_sm": [
     "eng"
@@ -58,7 +56,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1118\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1118/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1118/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1118/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1118\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1118/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1118/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1118/manifest\"}",
   "id": "ark-85335-m55m6505f",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1118",

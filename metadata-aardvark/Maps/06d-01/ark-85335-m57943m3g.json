@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Notes: Includes index to roads.",
-    "Illustrations, location map, and map of public hunting lands on verso. ",
-    " Scale approximately 1:150,000"
+    "Illustrations, location map, and map of public hunting lands on verso."
   ],
   "dct_language_sm": [
     "eng"
@@ -54,7 +53,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1152\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1152/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1152/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1152/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1152\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1152/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1152/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1152/manifest\"}",
   "id": "ark-85335-m57943m3g",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1152",

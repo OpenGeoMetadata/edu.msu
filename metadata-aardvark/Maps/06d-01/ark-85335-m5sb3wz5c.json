@@ -5,8 +5,7 @@
     " Abstract: Map of the Russian Arctic emphasizing the northern coastline. ",
     " Notes: Detached from: The gentleman's magazine, and historical chronicle. Volume XIX : for the year M.DCC.XLIX. London : Printed by Edw. Cave, 1749. Originally published in the June 1749 issue, following page 248.",
     "Includes pages 249-250 from the June 1749 issue of Gentleman's magazine, on a separate sheet.",
-    "Includes four illustrations relating to text on pages 249-250 of the magazine. ",
-    " Scale not given"
+    "Includes four illustrations relating to text on pages 249-250 of the magazine."
   ],
   "dct_language_sm": [
     "eng"
@@ -46,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/21\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/21/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/21/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/21/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/21\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/21/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/21/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/21/manifest\"}",
   "id": "ark-85335-m5sb3wz5c",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_21",

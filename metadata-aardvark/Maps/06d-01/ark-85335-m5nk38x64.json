@@ -2,8 +2,7 @@
   "dct_title_s": "Approved zoning map showing use districts in unincorporated portions of Menominee County, Michigan",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Notes: Text on verso: Zoning Ordinance for Menominee County, Michigan. ",
-    " Scale   1:135,168. 15/32 in. = 1 mile"
+    " Notes: Text on verso: Zoning Ordinance for Menominee County, Michigan."
   ],
   "dct_language_sm": [
     "eng"
@@ -46,7 +45,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1203\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1203/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1203/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1203/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1203\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1203/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1203/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1203/manifest\"}",
   "id": "ark-85335-m5nk38x64",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1203",

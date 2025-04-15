@@ -1,8 +1,7 @@
 {
   "dct_title_s": "Carte Generale de Canada. Dediée au roy de Danemark par son trés humble et trés obeissant et trés fidele serviteur Lahontan",
   "dct_description_sm": [
-    "Extent: 1 map ",
-    " Scale approximately 1:6,500,000"
+    "Extent: 1 map"
   ],
   "dct_language_sm": [
     "fre"
@@ -35,7 +34,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/69\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/69/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/69/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/69/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/69\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/69/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/69/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/69/manifest\"}",
   "id": "ark-85335-m5p843w28",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_69",

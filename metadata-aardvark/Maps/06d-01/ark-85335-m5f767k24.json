@@ -2,8 +2,7 @@
   "dct_title_s": "Georgetown, Township 6&7N Range 13W",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Notes: Page from: Plat book of Ottawa County, Michigan ",
-    " Scale approximately 1:51,000"
+    " Notes: Page from: Plat book of Ottawa County, Michigan"
   ],
   "dct_language_sm": [
     "eng"
@@ -51,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/799\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/799/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/799/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/799/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/799\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/799/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/799/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/799/manifest\"}",
   "id": "ark-85335-m5f767k24",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_799",

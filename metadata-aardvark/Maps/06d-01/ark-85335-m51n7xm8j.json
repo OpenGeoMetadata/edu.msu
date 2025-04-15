@@ -4,9 +4,7 @@
     "Extent: 2 maps in 11 segments ",
     " Abstract: Two maps depicting roads in narrow strips. One shows a road in southern England from London to Aberistwith [Aberistwyth], Wales, via Uxbridge, Oxford, Worcester, and Prestain [Presteigne], through Middlesex, Buckinghamshire, Oxfordshire, Gloucestershire, Worcestershire, and Herefordshire in England, and Radnorshire and Cardiganshire in Wales. The first map also shows an alternate road \"To Worcester thro' Campden commencing at the Four Shire Stones\". The other map shows a road from Bristol to Bath and a road from Bristol to Exeter via Taunton, through Somersetshire and Devonshire. Both maps show cities and towns, mile markers, rivers, and road junctions. ",
     " Notes: Relief shown pictorially.",
-    "Map likely detached from: The gentleman's magazine, and historical chronicle. Volume XXXV : for the year M.CDD.LXV. London : Printed for D. Henry and R. Cave, 1765. Originally published in the September 1765 issue. ",
-    " Scale approximately 1:270,000",
-    "Scale approximately 1:270,000"
+    "Map likely detached from: The gentleman's magazine, and historical chronicle. Volume XXXV : for the year M.CDD.LXV. London : Printed for D. Henry and R. Cave, 1765. Originally published in the September 1765 issue."
   ],
   "dct_language_sm": [
     "eng"
@@ -54,7 +52,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/78\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/78/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/78/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/78/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/78\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/78/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/78/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/78/manifest\"}",
   "id": "ark-85335-m51n7xm8j",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_78",

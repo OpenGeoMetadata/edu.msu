@@ -2,8 +2,7 @@
   "dct_title_s": "Official map of Chippewa County, Michigan",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Notes: Includes illustrations, location map and inset map of Drummond Island. ",
-    " Scale [ca.1:200,000]"
+    " Notes: Includes illustrations, location map and inset map of Drummond Island."
   ],
   "dct_language_sm": [
     "eng"
@@ -49,7 +48,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1063\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1063/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1063/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1063/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1063\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1063/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1063/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1063/manifest\"}",
   "id": "ark-85335-m5gq6sz1b",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1063",

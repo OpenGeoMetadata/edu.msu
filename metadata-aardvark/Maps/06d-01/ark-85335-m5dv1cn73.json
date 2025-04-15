@@ -5,8 +5,7 @@
     " Notes: Relief shown by hachures.",
     "From Tanner, H.S. A new universal atlas. Philadelphia : Carey & Hart, 1842. No. 29.",
     "Prime meridian: Washington.",
-    "Includes table of steamboat routes. ",
-    " Scale approximately 1:2,050,000"
+    "Includes table of steamboat routes."
   ],
   "dct_language_sm": [
     "eng"
@@ -51,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/91\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/91/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/91/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/91/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/91\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/91/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/91/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/91/manifest\"}",
   "id": "ark-85335-m5dv1cn73",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_91",

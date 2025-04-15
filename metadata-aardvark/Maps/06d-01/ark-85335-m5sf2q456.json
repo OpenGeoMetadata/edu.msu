@@ -2,8 +2,7 @@
   "dct_title_s": "Land use development plan: 1970-1990",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Abstract: Map of Saginaw County, Michigan, showing projected land use 1970-1990. ",
-    " Scale 1:48,000. 1 in. = 4,000 ft"
+    " Abstract: Map of Saginaw County, Michigan, showing projected land use 1970-1990."
   ],
   "dct_language_sm": [
     "eng"
@@ -51,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1138\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1138/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1138/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1138/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1138\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1138/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1138/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1138/manifest\"}",
   "id": "ark-85335-m5sf2q456",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1138",

@@ -5,8 +5,7 @@
     " Abstract: Digital scan of a map of Africa from a late-19th century German atlas. Shows boundaries, cities, and physical features. ",
     " Notes: Relief shown by hachures.",
     "From: Meyers kleiner Hand-Atlas : Mit Benutzung der Kartenmaterials aus Meyers Konversations-Lexikon zusammenstellt in 100 Kartenblättern und 9 Textbeilagen. Leipzig : Verlag des Bibliographischen Instituts, 1892.",
-    "In upper right: \"Meyers Kleiner Handatlas, Bl.82.\". ",
-    " Scale 1:38,000,000"
+    "In upper right: \"Meyers Kleiner Handatlas, Bl.82.\"."
   ],
   "dct_language_sm": [
     "ger"
@@ -45,7 +44,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/56\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/56/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/56/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/56/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/56\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/56/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/56/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/56/manifest\"}",
   "id": "ark-85335-m50p0wq9b",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_56",

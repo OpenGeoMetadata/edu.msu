@@ -6,8 +6,7 @@
     "Relief shown by hachures.",
     "Prime meridian: Washington.",
     "Inset: The North west part of Michigan.",
-    "Includes tables of steam boat routes. ",
-    " Scale approximately 1:1,640,000"
+    "Includes tables of steam boat routes."
   ],
   "dct_language_sm": [
     "eng"
@@ -55,7 +54,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/93\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/93/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/93/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/93/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/93\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/93/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/93/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/93/manifest\"}",
   "id": "ark-85335-m5r49g898",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_93",

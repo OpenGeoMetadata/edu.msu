@@ -5,8 +5,7 @@
     " Abstract: Map of the Great Lakes and Rainy River regions and the valleys of the Minnesota River and Red River of the North, showing the route of the 1823 expedition of Stephen Harriman Long. Includes descriptive notes, and indicates the dates and locations where the expedition stopped. Indicates settlements, forts, and Native American tribal regions. The route of the expedition is shown in red. ",
     " Notes: Relief shown by hachures.",
     "Prime meridians: Washington and Greenwich.",
-    "From: Narrative of an expedition to the source of St. Peter's River : Lake Winnepeek, Lake of the Woods, &c., performed in the year 1823, by order of the Hon. J.C. Calhoun, Secretary of War, under the command of Stephen H. Long, U.S.T.E. : compiled from the notes of Major Long, Messrs. Say, Keating, & Colhoun by William H. Keating. London : G.B. Whittaker, 1825. ",
-    " Scale approximately 1:3,000,000"
+    "From: Narrative of an expedition to the source of St. Peter's River : Lake Winnepeek, Lake of the Woods, &c., performed in the year 1823, by order of the Hon. J.C. Calhoun, Secretary of War, under the command of Stephen H. Long, U.S.T.E. : compiled from the notes of Major Long, Messrs. Say, Keating, & Colhoun by William H. Keating. London : G.B. Whittaker, 1825."
   ],
   "dct_language_sm": [
     "eng"
@@ -33,7 +32,7 @@
   ],
   "dct_subject_sm": [
     "Indians of North America",
-    "Discovery and exploration",
+    "Discoveries in geography",
     "Travel"
   ],
   "dct_temporal_sm": [
@@ -70,7 +69,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/49\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/49/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/49/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/49/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/49\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/49/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/49/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/49/manifest\"}",
   "id": "ark-85335-m5fq9q54g",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_49",

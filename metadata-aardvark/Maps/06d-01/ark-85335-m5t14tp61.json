@@ -6,8 +6,7 @@
     " Notes: Oriented with north to the upper right.",
     "Likely detached from November 1785 issue of Gentleman's magazine.",
     "Publisher information from online digital scan of November 1785 issue of Gentleman's magazine.",
-    "Includes illustration of a column topped with a statue of a seated woman. ",
-    " Scale approximately 1:3,900"
+    "Includes illustration of a column topped with a statue of a seated woman."
   ],
   "dct_language_sm": [
     "eng"
@@ -48,7 +47,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/68\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/68/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/68/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/68/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/68\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/68/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/68/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/68/manifest\"}",
   "id": "ark-85335-m5t14tp61",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_68",

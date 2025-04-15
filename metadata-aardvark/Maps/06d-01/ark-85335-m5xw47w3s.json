@@ -4,8 +4,7 @@
     "Extent: 1 map ",
     " Notes: Likely detached from: Gentleman's magazine, and historical chronicle. Volume XVIII : for the year M.DCC.XLVIII. London : Printed by Edw. Cave, 1748. Map was originally published in the October 1748 issue.",
     "Prime meridian: London.",
-    "Includes note. ",
-    " Scale approximately 1:12,500,000"
+    "Includes note."
   ],
   "dct_language_sm": [
     "eng"
@@ -49,7 +48,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/72\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/72/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/72/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/72/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/72\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/72/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/72/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/72/manifest\"}",
   "id": "ark-85335-m5xw47w3s",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_72",

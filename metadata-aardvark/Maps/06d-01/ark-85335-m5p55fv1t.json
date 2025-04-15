@@ -49,7 +49,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/949\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/949/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/949/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/949/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/949\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/949/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/949/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/949/manifest\"}",
   "id": "ark-85335-m5p55fv1t",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_949",

@@ -9,8 +9,7 @@
     "Map is described on pages 71-77 of February 1746 issue of Gentleman's magazine.",
     "Includes 4 insets: North Atlantic Ocean -- Plan of the city and port of Louisbourg -- Fort Dauphin -- City of Quebec.",
     "Accompanied by p. 71-78 from the February 1746 issue in vol. 16 of The Gentleman's Magazine.",
-    "From: Gentleman's Magazine, vol. 16, January 1746. (MUN RARE AP 2 G4, lacks copy of map). ",
-    " Scale approximately 1:3,500,000"
+    "From: Gentleman's Magazine, vol. 16, January 1746. (MUN RARE AP 2 G4, lacks copy of map)."
   ],
   "dct_language_sm": [
     "eng"
@@ -60,7 +59,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/73\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/73/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/73/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/73/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/73\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/73/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/73/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/73/manifest\"}",
   "id": "ark-85335-m5q814s2h",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_73",

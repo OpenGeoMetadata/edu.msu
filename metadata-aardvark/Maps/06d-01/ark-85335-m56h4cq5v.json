@@ -6,8 +6,7 @@
     " Notes: Relief shown pictorially.",
     "Oriented with north to the right.",
     "Map detached from: The gentleman's magazine, and historical chronicle. Volume XXI. London : Printed for Edw. Cave, 1751. The map was apparently published originally in the May 1751 issue, but in bound volumes of Volume XXI was relocated to accompany an article about the black lead mines on page 51 of the February 1751 issue.",
-    "Includes illustrations of Roman coins and a fish. ",
-    " Scale approximately 1:120,000"
+    "Includes illustrations of Roman coins and a fish."
   ],
   "dct_language_sm": [
     "eng"
@@ -55,7 +54,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/15\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/15/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/15/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/15/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/15\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/15/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/15/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/15/manifest\"}",
   "id": "ark-85335-m56h4cq5v",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_15",

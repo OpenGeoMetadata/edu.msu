@@ -5,8 +5,7 @@
     " Abstract: Road map showing locations of numerous types of \"general cultural features\" including buildings. ",
     " Notes: Stamped \"Strictly confidential. The Michigan State Highway Department requests you to treat this information strictly confidential.\".",
     "Supplemental sheets lacking.",
-    "Includes location map. ",
-    " Scale approximately 1:63,360"
+    "Includes location map."
   ],
   "dct_language_sm": [
     "eng"
@@ -56,7 +55,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1017\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1017/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1017/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1017/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1017\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1017/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1017/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1017/manifest\"}",
   "id": "ark-85335-m5zs2n874",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1017",

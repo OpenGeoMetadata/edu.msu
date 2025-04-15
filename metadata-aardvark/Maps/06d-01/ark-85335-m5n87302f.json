@@ -5,8 +5,7 @@
     " Abstract: Digital scan of a map of the Upper Peninsula of Michigan and Lake Superior, from an 1873 atlas. Shows counties, survey townships, cities and towns, roads, railroads, and water features. ",
     " Notes: Relief shown by hachures.",
     "From: Beers, F. W. (Frederick W.). Atlas of Calhoun Co. Michigan : from recent and actual surveys and records / under the superintendence of F.W. Beers. New York :  F.W. Beers & Co., 1873.",
-    "Prime meridians: Greenwich and Washington. ",
-    " Scale not determined"
+    "Prime meridians: Greenwich and Washington."
   ],
   "dct_language_sm": [
     "eng"
@@ -50,7 +49,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/61\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/61/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/61/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/61/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/61\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/61/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/61/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/61/manifest\"}",
   "id": "ark-85335-m5n87302f",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_61",

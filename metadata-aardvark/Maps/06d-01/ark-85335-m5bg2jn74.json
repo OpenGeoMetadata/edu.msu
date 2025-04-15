@@ -2,8 +2,7 @@
   "dct_title_s": "Haight, Township 46N Range 39W",
   "dct_description_sm": [
     "Extent: 1 map ",
-    " Notes: Page from: Plat book of Ontonagon County, Michigan ",
-    " Scale approximately 1:51,000"
+    " Notes: Page from: Plat book of Ontonagon County, Michigan"
   ],
   "dct_language_sm": [
     "eng"
@@ -51,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/757\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/757/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/757/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/757/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/757\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/757/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/757/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/757/manifest\"}",
   "id": "ark-85335-m5bg2jn74",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_757",

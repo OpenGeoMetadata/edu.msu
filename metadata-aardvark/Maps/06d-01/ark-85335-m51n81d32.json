@@ -4,8 +4,7 @@
     "Extent: 1 map ",
     " Abstract: County road map with selected points of interest and features shown pictorially. Driving routes of \"autumn color tours\" are indicated. ",
     " Notes: Relief shown by hachures and spot heights.",
-    "Promotional text, indexed directory of points of interest, indexes to lakes, parks, and summer camps, list of churches, location map, and illustrations (1 color) on verso. ",
-    " Scale approximately 1:108,000"
+    "Promotional text, indexed directory of points of interest, indexes to lakes, parks, and summer camps, list of churches, location map, and illustrations (1 color) on verso."
   ],
   "dct_language_sm": [
     "eng"
@@ -58,7 +57,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1130\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1130/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/1130/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/1130/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/1130\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/1130/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/1130/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/1130/manifest\"}",
   "id": "ark-85335-m51n81d32",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_1130",

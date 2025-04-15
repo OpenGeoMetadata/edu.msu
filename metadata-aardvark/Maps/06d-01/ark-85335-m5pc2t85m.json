@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Abstract: Digital scan of a map of Van Buren County, Michigan, from an 1895 atlas. Shows civil townships, sections, roads, and municipalities. ",
-    " Notes: From: Illustrated atlas of Van Buren County, Michigan / compiled from official records and local inspections by the Kace Publishing Company. Racine, Wisconsin : Kace Publishing Company, 1895. ",
-    " Scale not given"
+    " Notes: From: Illustrated atlas of Van Buren County, Michigan / compiled from official records and local inspections by the Kace Publishing Company. Racine, Wisconsin : Kace Publishing Company, 1895."
   ],
   "dct_language_sm": [
     "eng"
@@ -47,7 +46,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/59\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/59/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/59/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/59/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/59\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/59/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/59/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/59/manifest\"}",
   "id": "ark-85335-m5pc2t85m",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_59",

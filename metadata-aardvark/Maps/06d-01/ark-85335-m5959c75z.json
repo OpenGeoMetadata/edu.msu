@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Notes: Map appears in the September 1st, 1775 issue of Gentleman's Magazine.",
-    "Text accompanies map recto and verso. ",
-    " Scale approximately 1:1,080"
+    "Text accompanies map recto and verso."
   ],
   "dct_language_sm": [
     "eng"
@@ -19,8 +18,7 @@
   "dct_subject_sm": [
     "American Revolution (United States : 1775-1783)",
     "History",
-    "Battle of Bunker Hill (Boston, Massachusetts : 1775)",
-    "Bunker Hill, Battle of, Boston, Mass., 1775"
+    "Battle of Bunker Hill (Boston, Massachusetts : 1775)"
   ],
   "dct_temporal_sm": [
     "1775"
@@ -49,7 +47,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/90\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/90/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/90/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/90/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/90\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/90/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/90/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/90/manifest\"}",
   "id": "ark-85335-m5959c75z",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_90",

@@ -3,8 +3,7 @@
   "dct_description_sm": [
     "Extent: 1 map ",
     " Notes: In: Greenleaf, J. A new universal atlas, 1842, no. 44.",
-    "Similar to facsimile 1842 Greenleaf Michigan in Clements collection except for pre-1837 boundary with Ohio that includes Toledo. ",
-    " Scale approximately 1:2,050,000"
+    "Similar to facsimile 1842 Greenleaf Michigan in Clements collection except for pre-1837 boundary with Ohio that includes Toledo."
   ],
   "dct_language_sm": [
     "eng"
@@ -47,7 +46,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/62\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/62/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/62/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/62/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/62\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/62/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/62/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/62/manifest\"}",
   "id": "ark-85335-m5hh6c58p",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_62",

@@ -5,8 +5,7 @@
     " Abstract: Map of part of India, and a small part of Sri Lanka, showing the Mughal empire and its successor states. ",
     " Notes: Relief shown pictorially.",
     "From the Gentleman's magazine, London, March, 1767.",
-    "Detached from: The gentleman's magazine, and historical chronicle. Volume XXXVII : for the year M.DCC.LXVII. London : Printed... for D. Henry, 1766. Map was originally published in the March 1767 issue, following page 98. ",
-    " Scale approximately 1:11,600,000"
+    "Detached from: The gentleman's magazine, and historical chronicle. Volume XXXVII : for the year M.DCC.LXVII. London : Printed... for D. Henry, 1766. Map was originally published in the March 1767 issue, following page 98."
   ],
   "dct_language_sm": [
     "eng"
@@ -45,7 +44,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/52\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/52/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/52/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/52/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/52\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/52/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/52/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/52/manifest\"}",
   "id": "ark-85335-m5hq3rz4j",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_52",

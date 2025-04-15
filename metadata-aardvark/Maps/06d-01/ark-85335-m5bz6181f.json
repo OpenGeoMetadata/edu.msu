@@ -6,8 +6,7 @@
     " Notes: Oriented with north to the upper left (north arrow not shown).",
     "Map detached from a United States House of Representatives document in the United States congressional serial set (5127 H.doc.8/3): Report of the Commissioners of the District of Columbia for the year ended June 30, 1906. Vol. III, Report of the Health Officer. Washington : Government Printing Office, 1907.",
     "Series transcription from: Report of the Commissioners of the District of Columbia for the year ended June 30, 1906. Vol. III, Report of the Health Officer.",
-    "Includes index to hospitals. ",
-    " Scale approximately 1:24,600"
+    "Includes index to hospitals."
   ],
   "dct_language_sm": [
     "eng"
@@ -58,7 +57,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/76\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/76/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/76/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/76/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/76\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/76/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/76/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/76/manifest\"}",
   "id": "ark-85335-m5bz6181f",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_76",

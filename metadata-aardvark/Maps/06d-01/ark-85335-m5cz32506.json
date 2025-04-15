@@ -5,8 +5,7 @@
     " Abstract: Digital scan of a map of Africa from a late-19th century French encyclopedia. Shows boundaries, cities, and physical features. ",
     " Notes: Relief shown by hachures.",
     "Prime meridian: Paris.",
-    "From: La grande encyclopédie : inventaire raisonné des sciences, des lettres et des arts / par une société de savants et de gens de lettres; sous la direction de mm. Berthelot...Hartwig Derenbourg etc.. Paris : Lamirault et cie, 1886-1902. ",
-    " Scale 1:38,000,000"
+    "From: La grande encyclopédie : inventaire raisonné des sciences, des lettres et des arts / par une société de savants et de gens de lettres; sous la direction de mm. Berthelot...Hartwig Derenbourg etc.. Paris : Lamirault et cie, 1886-1902."
   ],
   "dct_language_sm": [
     "fre"
@@ -48,7 +47,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "TIFF/JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/55\",\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/55/manifest\",\"http://schema.org/downloadUrl\":[{\"label\":\"JPEG\",\"url\":\"https://d.lib.msu.edu/maps/55/JPG/download\"},{\"label\":\"TIFF\",\"url\":\"https://d.lib.msu.edu/maps/55/OBJ/download\"}]}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://d.lib.msu.edu/maps/55\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://d.lib.msu.edu/maps/55/JPG/download\",\"label\":\"JPEG\"},{\"url\":\"https://d.lib.msu.edu/maps/55/OBJ/download\",\"label\":\"TIFF\"}],\"http://iiif.io/api/presentation#manifest\":\"https://d.lib.msu.edu/maps/55/manifest\"}",
   "id": "ark-85335-m5cz32506",
   "dct_identifier_sm": [
     "oai:d.lib.msu.edu:maps_55",
